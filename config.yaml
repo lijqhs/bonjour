@@ -16,7 +16,7 @@ minify:
     disableXML: true
     # minifyOutput: true
 
-# defaultContentLanguage: fr
+defaultContentLanguage: fr
 
 languages:
     en:
@@ -51,25 +51,27 @@ languages:
         weight: 1
         title: Bonjour, le français
         taxonomies:
-          category: FRcategories
-          tag: FRtags
-          series: FRseries
+          category: Catégories
+          tag: Mots-clés
+          series: Séries
         menu:
             main:
-                - name: Archive
+                - name: Archives
                   url: archives/
                   weight: 5
-                - name: FRTags
-                  url: frtags
+                - name: Recherche
+                  url: recherche/
+                - name: Mots-clés
+                  url: mots-clés
                   weight: 10
-                - name: FRCategories
-                  url: frcategories
+                - name: Catégories
+                  url: categories
                   weight: 10
-                - name: FRSeries
-                  url: frseries
+                - name: Séries
+                  url: séries
                   weight: 10
-                - name: NullLink
-                  url: "#"
+                # - name: NullLink
+                #   url: "#"
 
     # fa:
     #     languagedirection: rtl
