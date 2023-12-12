@@ -19,37 +19,14 @@ minify:
 defaultContentLanguage: fr
 
 languages:
-    # en:
-    #     languageName: "English"
-    #     weight: 1
-    #     taxonomies:
-    #       category: categories
-    #       tag: tags
-    #       series: series
-    #     menu:
-    #         main:
-    #             - name: Archives
-    #               url: archives
-    #               weight: 5
-    #             - name: Search
-    #               url: search/
-    #               weight: 10
-    #             - name: Tags
-    #               url: tags/
-    #               weight: 10
-    #             # - name: Home
-    #             #   url: https://www.aaronnotes.com
-    #             # - name: WiKi
-    #             #   url: https://github.com/adityatelange/hugo-PaperMod/wiki/
-    #             # - name: Discord
-    #             #   url: https://discord.gg/ahpmTvhVmp
-
-    fr:
-        # languageCode: fr
-        languageName: Français
-        # languageAltTitle: French
+    en:
+        languageName: English
         weight: 1
         title: Bonjour, le français
+        homeInfoParams:
+            Title: \U0001F44B Bonjour, French!
+            Content: >
+                My notes on learning french language.
         taxonomies:
           category: categories
           tag: tags
@@ -59,17 +36,57 @@ languages:
                 - name: Archives
                   url: archives/
                   weight: 5
-                - name: Recherche
-                  url: search/
-                - name: Mots-clés
-                  url: tags
+                - name: Categories
+                  url: categories/
                   weight: 10
+                - name: Series
+                  url: series/
+                  weight: 15
+                - name: Tags
+                  url: tags/
+                  weight: 20
+                - name: Search
+                  url: search/
+                  weight: 30
+                # - name: Home
+                #   url: https://www.aaronnotes.com
+                # - name: WiKi
+                #   url: https://github.com/adityatelange/hugo-PaperMod/wiki/
+                # - name: Discord
+                #   url: https://discord.gg/ahpmTvhVmp
+
+    fr:
+        # languageCode: fr
+        # languageName: Français
+        languageName: ":fr:"
+        # languageAltTitle: French
+        weight: 1
+        title: Bonjour, le français
+        homeInfoParams:
+            Title: Parlez-vous français
+            Content: >
+                Ce blog simple est mon compagnon personnel dans le voyage d'apprentissage du français, des astuces de grammaire aux listes de vocabulaire pratiques.
+        taxonomies:
+          category: categories
+          tag: tags
+          series: series
+        menu:
+            main:
+                - name: Archives
+                  url: archives/
+                  weight: 5
                 - name: Catégories
-                  url: categories
+                  url: categories/
                   weight: 10
                 - name: Séries
-                  url: séries
-                  weight: 10
+                  url: series/
+                  weight: 15
+                - name: Mots-clés
+                  url: tags/
+                  weight: 20
+                - name: Recherche
+                  url: search/
+                  weight: 30
                 # - name: NullLink
                 #   url: "#"
 
@@ -132,7 +149,7 @@ params:
     homeInfoParams:
         Title: "Bonjour, le français"
         Content: >
-            Apprendre le français
+            Ce blog simple est mon compagnon personnel dans le voyage d'apprentissage du français, des astuces de grammaire aux listes de vocabulaire pratiques.
 
     socialIcons:
         - name: twitter
