@@ -46,7 +46,7 @@ languages:
                   url: tags/
                   weight: 20
                 - name: Search
-                  url: pages/search/
+                  url: search/
                   weight: 30
                 # - name: Home
                 #   url: https://www.aaronnotes.com
@@ -85,7 +85,7 @@ languages:
                   url: tags/
                   weight: 20
                 - name: Recherche
-                  url: pages/search/
+                  url: search/
                   weight: 30
                 # - name: NullLink
                 #   url: "#"
