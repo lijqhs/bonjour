@@ -146,10 +146,10 @@ params:
             - name: Tags
               url: tags
 
-    homeInfoParams:
-        Title: "Bonjour, le français"
-        Content: >
-            Ce blog simple est mon compagnon personnel dans le voyage d'apprentissage du français, des astuces de grammaire aux listes de vocabulaire pratiques.
+    # homeInfoParams:
+    #     Title: "Bonjour, le français"
+    #     Content: >
+    #         Ce blog simple est mon compagnon personnel dans le voyage d'apprentissage du français, des astuces de grammaire aux listes de vocabulaire pratiques.
 
     socialIcons:
         - name: twitter
