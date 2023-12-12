@@ -16,39 +16,36 @@ minify:
     disableXML: true
     # minifyOutput: true
 
-defaultContentLanguage: fr
+# defaultContentLanguage: fr
 
 languages:
-#     en:
-#         languageName: "English"
-#         weight: 1
-#         taxonomies:
-#           category: categories
-#           tag: tags
-#           series: series
-#         menu:
-#             main:
-#                 - name: Archives
-#                   url: archives
-#                   weight: 5
-#                 - name: Search
-#                   url: search/
-#                   weight: 10
-#                 - name: Tags
-#                   url: tags/
-#                   weight: 10
-#                 - name: Design Patterns
-#                   url: design-patterns/
-#                   weight: 20
-#                 # - name: Home
-#                 #   url: https://www.aaronnotes.com
-#                 # - name: WiKi
-#                 #   url: https://github.com/adityatelange/hugo-PaperMod/wiki/
-#                 # - name: Discord
-#                 #   url: https://discord.gg/ahpmTvhVmp
+    en:
+        languageName: "English"
+        weight: 1
+        taxonomies:
+          category: categories
+          tag: tags
+          series: series
+        menu:
+            main:
+                - name: Archives
+                  url: archives
+                  weight: 5
+                - name: Search
+                  url: search/
+                  weight: 10
+                - name: Tags
+                  url: tags/
+                  weight: 10
+                # - name: Home
+                #   url: https://www.aaronnotes.com
+                # - name: WiKi
+                #   url: https://github.com/adityatelange/hugo-PaperMod/wiki/
+                # - name: Discord
+                #   url: https://discord.gg/ahpmTvhVmp
 
     fr:
-        languageCode: fr
+        # languageCode: fr
         languageName: Français
         # languageAltTitle: French
         weight: 1
