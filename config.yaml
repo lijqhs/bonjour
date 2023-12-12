@@ -24,7 +24,7 @@ languages:
         weight: 1
         title: Bonjour, le français
         homeInfoParams:
-            Title: \U0001F44B Bonjour, French!
+            Title: "\U0001F44B Bonjour, French!"
             Content: >
                 My notes on learning french language.
         taxonomies:
@@ -63,7 +63,7 @@ languages:
         weight: 1
         title: Bonjour, le français
         homeInfoParams:
-            Title: Parlez-vous français
+            Title: "Parlez-vous français"
             Content: >
                 Ce blog simple est mon compagnon personnel dans le voyage d'apprentissage du français, des astuces de grammaire aux listes de vocabulaire pratiques.
         taxonomies:
