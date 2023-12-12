@@ -19,30 +19,30 @@ minify:
 defaultContentLanguage: fr
 
 languages:
-    en:
-        languageName: "English"
-        weight: 1
-        taxonomies:
-          category: categories
-          tag: tags
-          series: series
-        menu:
-            main:
-                - name: Archives
-                  url: archives
-                  weight: 5
-                - name: Search
-                  url: search/
-                  weight: 10
-                - name: Tags
-                  url: tags/
-                  weight: 10
-                # - name: Home
-                #   url: https://www.aaronnotes.com
-                # - name: WiKi
-                #   url: https://github.com/adityatelange/hugo-PaperMod/wiki/
-                # - name: Discord
-                #   url: https://discord.gg/ahpmTvhVmp
+    # en:
+    #     languageName: "English"
+    #     weight: 1
+    #     taxonomies:
+    #       category: categories
+    #       tag: tags
+    #       series: series
+    #     menu:
+    #         main:
+    #             - name: Archives
+    #               url: archives
+    #               weight: 5
+    #             - name: Search
+    #               url: search/
+    #               weight: 10
+    #             - name: Tags
+    #               url: tags/
+    #               weight: 10
+    #             # - name: Home
+    #             #   url: https://www.aaronnotes.com
+    #             # - name: WiKi
+    #             #   url: https://github.com/adityatelange/hugo-PaperMod/wiki/
+    #             # - name: Discord
+    #             #   url: https://discord.gg/ahpmTvhVmp
 
     fr:
         # languageCode: fr
@@ -51,18 +51,18 @@ languages:
         weight: 1
         title: Bonjour, le français
         taxonomies:
-          category: Catégories
-          tag: Mots-clés
-          series: Séries
+          category: categories
+          tag: tags
+          series: series
         menu:
             main:
                 - name: Archives
                   url: archives/
                   weight: 5
                 - name: Recherche
-                  url: recherche/
+                  url: search/
                 - name: Mots-clés
-                  url: mots-clés
+                  url: tags
                   weight: 10
                 - name: Catégories
                   url: categories
