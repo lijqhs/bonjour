@@ -10,7 +10,7 @@ buildFuture: false
 buildExpired: false
 enableEmoji: true
 pygmentsUseClasses: true
-# googleAnalytics: G-XPL8B8N9RY
+googleAnalytics: G-53R62FMJCM
 
 minify:
     disableXML: true
@@ -46,7 +46,7 @@ languages:
                   url: tags/
                   weight: 20
                 - name: Search
-                  url: search/
+                  url: pages/search/
                   weight: 30
                 # - name: Home
                 #   url: https://www.aaronnotes.com
@@ -85,7 +85,7 @@ languages:
                   url: tags/
                   weight: 20
                 - name: Recherche
-                  url: search/
+                  url: pages/search/
                   weight: 30
                 # - name: NullLink
                 #   url: "#"
