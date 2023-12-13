@@ -61,7 +61,7 @@ languages:
         languageName: ":fr:"
         # languageAltTitle: French
         weight: 1
-        title: Bonjour, le français
+        title: Bonjour
         homeInfoParams:
             Title: "Parlez-vous français"
             Content: >
