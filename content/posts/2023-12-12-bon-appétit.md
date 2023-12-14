@@ -1,0 +1,42 @@
+---
+title: Bon Appétit
+slug: Bon Appétit
+description: A Beginner’s Guide to Ordering Food in French
+author: aaron
+date: 2023-12-12
+# tags: ["Assimil"]
+cover: 
+    image: https://cdn.jsdelivr.net/gh/lijqhs/cdn@1.6/img/gallery/ca/conor-samuel-6tj8WUbDxjk-unsplash.jpg
+    # hidden: true # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
+    # hiddenInSingle: true # hide on single page
+---
+
+
+## Reserving a table
+
+If you want to reserve a table, you can say "Je voudrais réserver une table pour deux personnes" which means "I would like to reserve a table for two people". 
+
+You can also specify the time of your arrival by saying "On arrive à [time]" which means "We'll arrive at [time]". For example, "On arrive à dix-neuf heures."
+
+If you want a table near the window or on the terrace, you can say "Je voudrais une table sur la terrasse/près de la fenêtre" which means "I would like a table on the terrace/near the window".
+
+## Ordering food
+
+To order food, you can use the phrase "Je voudrais" which means "I would like". For example, you can say "Je voudrais une soupe de poisson" which means "I would like a fish soup". 
+
+If you want to add "please" at the end of the sentence, you can say "Je voudrais une soupe de poisson, s'il vous plaît". 
+
+If you want to ask for the menu, you can say "Puis-je avoir la carte?" which means "May I have the menu?". If you want to ask for recommendations, you can say "Que recommandez-vous?" which means "What do you recommend?".
+
+## Talking about dietary requirements
+
+If you have any dietary requirements, you can use the following phrases to express them:
+- "Je suis végétarien/végétarienne" which means "I'm a vegetarian".
+- "Je suis allergique au gluten" which means "I'm allergic to gluten".
+- "Je suis allergique aux produits laitiers" which means "I'm allergic to dairy products".
+- "Pas trop épicé, s'il vous plaît" which means "Not too spicy, please".
+
+## Asking for the bill
+
+To ask for the bill, you can say "L'addition, s'il vous plaît" which means "The bill, please".
