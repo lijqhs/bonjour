@@ -15,19 +15,29 @@ cover:
 
 ## Reserving a table
 
-If you want to reserve a table, you can say "Je voudrais réserver une table pour deux personnes" which means "I would like to reserve a table for two people". 
+If you want to reserve a table, you can say (*"I would like to reserve a table for two people"*)
+> Je voudrais réserver une table pour deux personnes.
 
-You can also specify the time of your arrival by saying "On arrive à [time]" which means "We'll arrive at [time]". For example, "On arrive à dix-neuf heures."
+You can also specify the time of your arrival by saying (*"We'll arrive at 7pm"*)
+> On arrive à dix-neuf heures.
 
-If you want a table near the window or on the terrace, you can say "Je voudrais une table sur la terrasse/près de la fenêtre" which means "I would like a table on the terrace/near the window".
+If you want a table near the window or on the terrace, you can say (*"I would like a table on the terrace/near the window"*)
+> Je voudrais une table sur la terrasse/près de la fenêtre.
 
 ## Ordering food
 
-To order food, you can use the phrase "Je voudrais" which means "I would like". For example, you can say "Je voudrais une soupe de poisson" which means "I would like a fish soup". 
+To order food, you can use the phrase "Je voudrais" which means "I would like". For example, you can say (*"I would like a fish soup"*)
+> Je voudrais une soupe de poisson.
 
-If you want to add "please" at the end of the sentence, you can say "Je voudrais une soupe de poisson, s'il vous plaît". 
+If you want to add "please" at the end of the sentence, you can say 
 
-If you want to ask for the menu, you can say "Puis-je avoir la carte?" which means "May I have the menu?". If you want to ask for recommendations, you can say "Que recommandez-vous?" which means "What do you recommend?".
+> Je voudrais une soupe de poisson, s'il vous plaît.
+
+If you want to ask for the menu, you can say (*"May I have the menu?"*)
+> Puis-je avoir la carte?
+
+If you want to ask for recommendations, you can say (*"What do you recommend?"*)
+> Que recommandez-vous?
 
 ## Talking about dietary requirements
 
@@ -39,4 +49,5 @@ If you have any dietary requirements, you can use the following phrases to expre
 
 ## Asking for the bill
 
-To ask for the bill, you can say "L'addition, s'il vous plaît" which means "The bill, please".
+To ask for the bill, you can say (*"The bill, please"*)
+> L'addition, s'il vous plaît.
