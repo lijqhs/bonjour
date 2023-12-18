@@ -24,9 +24,16 @@ cover:
 
 ## avoir les dents longues
 
-*to have long teeth*, ***to be ambitious***
+***to be ambitious*** (14th century, *to have long teeth* simply meant *to be hungry*)
 
 - Il ira loin, Jean, il **a les dents longues**. *Jean will go far. He's ambitious.*
+- Il faut avoir les dents longues pour réussir dans cette industrie. *You need to be very ambitious to succeed in this industry.*
+
+### ne pas être tout jeune
+
+*not to be very young*, *to be long in the tooth*
+
+- Maurice veut réussir ; il a les dents longues. - Oui, mais il n'est pas tout jeune. *Maurice wants to succeed; he's very ambitious. - Yes, but he's a bit long in the tooth.*
 
 ## avoir un coup de cœur
 
@@ -43,6 +50,20 @@ cover:
 
 - J'ai fait la sourde oreille à ceux qui me déconseillaient de poursuivre. *I turned a deaf ear to those who advised (dis-advised) me against from continuing (pursuing).*
 
+## se passer au-dessus de la tête
+
+L’expression **se passer au-dessus de la tête** est une expression française qui signifie **ignorer quelque chose délibérément** ou **ne pas tenir compte de quelque chose**
+
+- Je ne veux pas m’occuper de ce problème, je vais me passer au-dessus de la tête. *I don’t want to deal with this problem, I’m going to ignore it.*
+- J'ai eu un coup de cœur pour son dernier livre, même si certains textes me passent au-dessus de la tête. *I fell in love with his last book, even if some of the texts are over my head.*
+
+### tenir compte de
+
+*to take into account*, *to take notice of*
+
+- ne pas tenir compte de qqn./qqch. *ignore sb./sth.*
+- Ils ont tenu compte de mon expérience. *They took my experience into account.*
+- Il n’a pas tenu compte de mes conseils. *He took no notice of my advice.*
 
 ## se creuser la tête
 
@@ -50,11 +71,22 @@ cover:
 
 - Je me suis creusé la tête mais je ne m'en souviens pas. *I've racked my brains but I can't remember.*
 
-## se casser la tête
+### se casser la tête
 
 *to break one's head*, ***to worry***, ***to fret***
 
 - Ne te casse pas la tête. (Ne vous cassez pas la tête.) *Don't worry (about it)*
+- Ne te casse pas la tête, mon frère peut me donner un coup de main. *Don't worry, my brother can give me a hand.*
+
+## s'arracher les cheveux
+
+*to pull one's hair out*, *to tear one's hair out*. extremely worried or frustrated
+
+- Donna doit s'arracher les cheveux à préparer ce mariage seule. *Donna must be tearing her hair out preparing for this wedding alone.*
+- Alors il a commencé à s'arracher les cheveux. *So he started tearing his hair out.*
+- Nous nous arrachons les cheveux car les maires font la sourde oreille à nos difficultés. *We're tearing our hair out because the mayors are turning a deaf ear to our problems.*
+
+
 
 ## prendre ses jambes à son cou
 
@@ -67,6 +99,32 @@ cover:
 *to put one's foot in it*
 
 - J'ai peur de mettre les pieds dans le plat parce que mon prof est très sympa. *I'm scared to put my foot in it because my teacher is very nice.*
+- Je pense que j'ai mis les pieds dans le plat. J'ai dit que Max n'est pas tout jeune. *I think I've put my foot in it. I said that Max was long in the tooth.*
+
+
+
+## lever le doigt
+
+*to lift a finger*, ***to make a small effort***
+
+- Si tu veux que je t'aide, il faut que tu lèves le doigt. *If you want me to help you, you need to lift a finger.*
+- Il n'a pas levé le doigt pour m'aider. *He didn't lift a finger to help me.*
+
+## mettre le doigt sur
+
+*to put one's finger on*, *to identify, or to pinpoint a problem or issue*
+
+- Il n'arrive pas à mettre le doigt sur ce qui ne va pas. *He can't identify what's wrong.*
+- Nous avons besoin de mettre le doigt sur les problèmes clés. *We need to pinpoint the key issues.*
+- Elle a mis le doigt sur le point faible de notre plan. *She identified the weak point in our plan.*
+
+
+## serrer les dents
+
+*to grit one's teeth*, *to bear up under pressure*
+
+- Nous devons serrer les dents et faire face à cette situation difficile. *We must bear up under pressure and face this difficult situation.*
+
 
 ## faire froid dans le dos
 
@@ -87,7 +145,7 @@ cover:
 
 fait référence aux machines hydrauliques. ***travailler fort avec ses bras.***
 
-> (English) elbow grease: hard work
+> (English) **elbow grease**: hard work
 > 
 > Strenuous physical effort, as in You'll have to use some elbow grease to get the house painted in time. This term alludes to vigorous use of one's arm in cleaning, polishing, or the like. 
 > 
@@ -96,13 +154,6 @@ fait référence aux machines hydrauliques. ***travailler fort avec ses bras.***
 - D'abord il faut **mettre un peu d'huile de coude**, travailler davantage. *First you need to use a little elbow grease and to work harder.*
 - Si on **met assez d'huile de coude**, on va terminer notre boulot en peu de temps. *If we put in enough elbow grease, we'll get the job done in no time.*
 
-## à l'œil
-
-*for free*. if something is obtained **à l'œil**, it is free (tradespeople used to judge a person's eligibility for free credit by casting an eye over them)
-
-- Il est entré à l'œil. *He got in for free.*
-- Tu peux même en avoir certains à l'œil. *You can even get some of them free.*
-
 ## coûter les yeux de la tête
 
 *cost the eyes of the head*, ***to cost an arm and leg***, ***to cost a fortune***, *exorbitantly expensive*. **Coûter les yeux de la tête** est une expression qui signifie que quelque chose est extrêmement cher ou coûteux. 
@@ -110,6 +161,13 @@ fait référence aux machines hydrauliques. ***travailler fort avec ses bras.***
 - On pense souvent qu'ils coûtent les yeux de la tête mais c'est faux ! *It's often thought that they cost a fortune but that's wrong!*
 - Je veux acheter un nouvel iPhone mais ça coûte les yeux de la tête ! *I want to buy a new iPhone but it costs an arm and a leg!*
 - Voitures d'occasion au Canada ! Ça coûte les yeux de la tête! *Used cars in Canada! That would cost a fortune!*
+
+### à l'œil
+
+*for free*. if something is obtained **à l'œil**, it is free (tradespeople used to judge a person's eligibility for free credit by casting an eye over them)
+
+- Tu peux même en avoir certains à l'œil. *You can even get some of them free.*
+- Il est entré à l'œil. *He got in for free.*
 
 ## Quelle barbe
 
@@ -124,8 +182,9 @@ fait référence aux machines hydrauliques. ***travailler fort avec ses bras.***
 
 - Tu seras bientôt diplômé et tu pourras dormir sur tes deux oreilles. *You'll soon have your diploma and you'll be able to rest easy.*
 - Après avoir résolu le problème, vous pouvez dormir sur vos deux oreilles. *Once you've solved the problem, you can rest easy.*
+- Tu peux dormir sur tes deux oreilles. Demain, il fera doux et sec. *You can rest easy. Tomorrow it will be fine and dry.*
 
-## dormir come une souche
+### dormir come une souche
 
 *sleep like a log*
 
