@@ -30,7 +30,7 @@ cover:
 
 ## avoir les dents longues
 
-***to be ambitious*** (14th century, *to have long teeth* simply meant *to be hungry*)
+***to be ambitious*** (*to have long teeth* simply meant *to be hungry*)
 
 - Il ira loin, Jean, il **a les dents longues**. *Jean will go far. He's ambitious.*
 - Il faut avoir les dents longues pour réussir dans cette industrie. *You need to be very ambitious to succeed in this industry.*
