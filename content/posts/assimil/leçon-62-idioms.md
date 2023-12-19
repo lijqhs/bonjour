@@ -14,6 +14,12 @@ cover:
     # hiddenInSingle: true # hide on single page
 ---
 
+## accueillir qn à bras ouverts
+
+*to welcome sb with open arms*
+
+- Quand je suis arrivé à l’aéroport, ma famille d’accueil m’a accueilli à bras ouverts et m’a emmené chez eux. *When I arrived at the airport, my host family welcomed me with open arms and took me to their home.*
+- Apprends à coder et les entreprises t'accueilleront les bras ouverts ! *Learn to code and companies will welcome you with open arms.*
 
 ## faire les yeux doux à
 
