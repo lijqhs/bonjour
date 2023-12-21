@@ -6,7 +6,7 @@ author: aaron
 date: 2023-12-18
 categories: ["leçon", "grammar"]
 series: ["Assimil"]
-tags: ["l'imparfait"]
+tags: ["imparfait"]
 cover: 
     image: https://cdn.jsdelivr.net/gh/lijqhs/cdn@1.6/img/gallery/ca/julie-fader-jA3V61YJMH0-unsplash.jpg
     # hidden: true # hide everywhere but not in structured data
