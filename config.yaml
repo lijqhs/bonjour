@@ -62,10 +62,6 @@ languages:
         # languageAltTitle: French
         weight: 1
         title: Bonjour
-        homeInfoParams:
-            Title: "Parlez-vous français"
-            Content: >
-                Ce blog simple est mon compagnon personnel dans le voyage d'apprentissage du français, des astuces de grammaire aux listes de vocabulaire pratiques.
         taxonomies:
           category: categories
           tag: tags
@@ -146,6 +142,10 @@ params:
             - name: Tags
               url: tags
 
+    homeInfoParams:
+        Title: "Parlez-vous français"
+        Content: >
+            cahier d'apprentissage du français
     # homeInfoParams:
     #     Title: "Bonjour, le français"
     #     Content: >

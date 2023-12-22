@@ -4,7 +4,8 @@ slug: Bon Appétit
 description: A Beginner’s Guide to Ordering Food in French
 author: aaron
 date: 2023-12-12
-# tags: ["Assimil"]
+tags: ["appétit"]
+series: ["scène de vie"]
 cover: 
     image: https://cdn.jsdelivr.net/gh/lijqhs/cdn@1.6/img/gallery/ca/conor-samuel-6tj8WUbDxjk-unsplash.jpg
     # hidden: true # hide everywhere but not in structured data
