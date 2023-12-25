@@ -10,7 +10,7 @@ cover:
     hiddenInList: true
 ---
 
-Joyeux Noël ! (Merry Christmas!) and Bonne Année ! (Happy New Year!) are the most common French phrases used during the holiday season. Other French holiday phrases include[^1] [^2]:
+Joyeux Noël ! (Merry Christmas!) and Bonne Année ! (Happy New Year!) are the most common French phrases used during the holiday season. Other French holiday phrases include: [^1] [^2]
 
 [^1]: [French Christmas Vocabulary](https://www.frenchlearner.com/vocabulary/christmas/)
 [^2]: [How to Say Merry Christmas in French](https://www.fluentu.com/blog/french/christmas-greetings-in-french/)

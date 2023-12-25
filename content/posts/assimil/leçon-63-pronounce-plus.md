@@ -15,7 +15,9 @@ cover:
 ---
 
 
-When to pronounce the `s` in plus in French: 
+When to pronounce the `s` in plus in French: [^1]
+
+[^1]: [Plus pronunciation](https://www.lawlessfrench.com/grammar/plus/)
 
 1. Pronounce the s when plus conveys a positive meaning, such as more and in addition. 
 2. Do not pronounce the s when plus is followed by an adjective or an adverb, usually when you are comparing 2 elements. Or when used in negation.
@@ -33,8 +35,9 @@ Here are some examples of when to pronounce the `s` in `plus` in French:
     * Ce stage est un plus pour ta carrière. (That course is a plus for your career)
 
 - **Do not pronounce the s**:
-  + in comparative form if the adjective it precedes starts with a *consonant*:
+  + in comparative form or superlative form (*le plus*) if the adjective it precedes starts with a *consonant*:
     * Je suis plus grand que toi. (I am taller than you)
+    * C'était le plus intéressant. (That was the most interesting)
   + used in the negation **ne...plus**:
     * Je n'aime plus les films d'horreur. (I don't like horror movies anymore)
     * Je ne veux plus de café. (I don't want coffee anymore)
