@@ -21,6 +21,6 @@ Joyeux Noël ! (Merry Christmas!) and Bonne Année ! (Happy New Year!) are the m
 - **Vœux de Bonheur pour un Joyeux Noël** (Happy wishes for a Merry Christmas)
 - **Meilleurs Souhaits pour Le Nouvel An** (Best wishes for the New Year)
 
-In France, Christmas Eve is called "**le réveillon de Noël**" and New Year's Eve is called "**le réveillon du Jour de l’An**". The most common word for Santa Claus is "**Père Noël**," which means "Father Christmas".
+In French, Christmas Eve is called "**le réveillon de Noël**" and New Year's Eve is called "**le réveillon du Jour de l’An**". The most common word for Santa Claus is "**Père Noël**," which means "Father Christmas".
 
 Cher.e ami.e, joyeux Noël et bonne année !
