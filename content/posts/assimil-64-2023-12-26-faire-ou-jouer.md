@@ -6,7 +6,7 @@ author: aaron
 date: 2023-12-26
 categories: ["leçon", "vocabulaire"]
 series: ["Assimil"]
-tags: ["plus", "prononciation"]
+tags: ["faire", "jouer"]
 cover: 
     image: https://cdn.jsdelivr.net/gh/lijqhs/cdn@1.7/img/gallery/s/robert-wiedemann-FyWTXtckUEw-unsplash.jpg
     # hidden: true # hide everywhere but not in structured data
@@ -57,7 +57,7 @@ Usage: [^2]
     - Est-ce que vous savez jouer aux échecs ?
 
 
-## vocabulaire
+## Vocabulaire
 
 | mots | explications |
 | -- | -- | 

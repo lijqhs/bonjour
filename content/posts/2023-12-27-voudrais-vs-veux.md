@@ -13,7 +13,7 @@ cover:
 
 "Voudrais" and "veux" are both forms of the verb "vouloir," which means "to want" in French. However, they are used in different contexts.
 
-"**Voudrais**" is the *conditional* form of the verb "vouloir." It is used to express a *polite* request or desire. For example:
+"**Voudrais**" is the *conditional* form of the verb "[vouloir](https://leconjugueur.lefigaro.fr/french/verb/vouloir.html)." It is used to express a *polite* request or desire. For example:
 - Je voudrais un café, s'il vous plaît. (I would like a coffee, please.)
 - Je voudrais réserver une table pour deux personnes. (I would like to book a table for two people.)
 
