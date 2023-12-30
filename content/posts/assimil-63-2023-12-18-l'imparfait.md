@@ -4,7 +4,7 @@ slug: imparfait
 description: « Assimil French » Soixante-troisième leçon - Révision
 author: aaron
 date: 2023-12-18
-categories: ["leçon", "grammar"]
+categories: ["leçon", "grammaire"]
 series: ["Assimil"]
 tags: ["imparfait"]
 cover: 
