@@ -55,6 +55,7 @@ It's worth mentioning that the conditional mood can also be used in si clauses (
 
 | mots | explications |
 | -- | -- | 
+| **tenter** | to try </br> - *tenter qch/de faire* to try sth/to do </br> - *tenter sa chance* to try one’s luck | 
 | **tirer** | to pull, to draw </br> - *tirer des conclusions* to draw conclusions </br> - *tirer au sort* to draw lots </br> **tirage** masculine noun </br> - *par tirage au sort* by drawing lots | 
 | **location** | rental, renting </br> - *location de voitures* car rental </br> - *location de skis* ski hire </br> - *locataire* tenant | 
 | **soit** | - **soit ..., soit ...**: either ... or ... </br> - *soit lundi, soit mardi* either Monday or Tuesday </br> - *Pas nécessairement : on peut soit les acheter, soit les louer, et la location serait beaucoup moins chère.* Not necessarily: you can either buy it or rent it, and rental would be much cheaper. </br> - **soit que ... soit que** whether ... or whether | 
