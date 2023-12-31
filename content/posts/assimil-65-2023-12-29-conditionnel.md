@@ -26,8 +26,8 @@ Here is the conditional conjugation of regular verbs:
 
 | person | -er | -ir | -re |
 | -- | -- | -- | -- | 
-| je | je parler**ais** </br>(I would speak) | choisirais </br>(I would choose) | vendrais </br>(I would sell) | 
-| tu | tu parler**ais** | choisirais | vendrais | 
+| je | parler**ais** </br>(I would speak) | choisirais </br>(I would choose) | vendrais </br>(I would sell) | 
+| tu | parler**ais** | choisirais | vendrais | 
 | il/elle/on | parler**ait** | choisirait | vendrait | 
 | nous | parler**ions** | choisirions | vendrions | 
 | vous | parler**iez** | choisiriez | vendriez | 
@@ -40,7 +40,7 @@ It's important to note that irregular verbs have their own conjugation patterns 
 | person | être | avoir | aller |
 | -- | -- | -- | -- | 
 | je | je serais </br>(I would be) | j'aurais </br>(I would have) | j'irais </br>(I would go) | 
-| tu | tu serais | aurais | irais | 
+| tu | tu serais | tu aurais | tu irais | 
 | il/elle/on | serait | aurait | irait | 
 | nous | serions | aurions | irions | 
 | vous | seriez | auriez | iriez | 
