@@ -44,7 +44,7 @@ It's important to note that irregular verbs have their own conjugation patterns 
 | il/elle/on | serait | aurait | irait | 
 | nous | serions | aurions | irions | 
 | vous | seriez | auriez | iriez | 
-|  ils/elles | auraient | choisiraient | iraient | 
+|  ils/elles | seraient | auraient | iraient | 
 
 
 
