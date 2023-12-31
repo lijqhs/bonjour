@@ -54,7 +54,7 @@ It's worth mentioning that the conditional mood can also be used in si clauses (
 ## Vocabulaire
 
 | mots | explications |
-| -- | -- | 
+| ---- | ---- | 
 | tenter | to try </br> - *tenter qch/de faire* to try sth/to do </br> - **tenter sa chance** to try one’s luck | 
 | concours | competition </br> - *un concours de chant* a singing competition </br> - **jeu-concours** (plural) *jeux-concours* competition </br> ***concourir*** to compete | 
 | tirer | to pull, to draw </br> - *tirer des conclusions* to draw conclusions </br> - *tirer au sort* to draw lots </br> **tirage** masculine noun </br> - *par tirage au sort* by drawing lots | 
