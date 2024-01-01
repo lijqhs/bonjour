@@ -37,14 +37,14 @@ Here is the conditional conjugation of regular verbs:
 It's important to note that irregular verbs have their own conjugation patterns in the conditional tense. Here are a few examples:
 
 
-| person | être | avoir | aller |
-| -- | -- | -- | -- | 
-| je | je serais </br>(I would be) | j'aurais </br>(I would have) | j'irais </br>(I would go) | 
-| tu | tu serais | tu aurais | tu irais | 
-| il/elle/on | serait | aurait | irait | 
-| nous | serions | aurions | irions | 
-| vous | seriez | auriez | iriez | 
-|  ils/elles | seraient | auraient | iraient | 
+| person | être | avoir | aller | faire |
+| -- | -- | -- | -- | -- | 
+| je | je serais </br>(I would be) | j'aurais </br>(I would have) | j'irais </br>(I would go) | je ferais </br>(I would do) |
+| tu | tu serais | tu aurais | tu irais | ferais |
+| il/elle/on | serait | aurait | irait | ferait |
+| nous | serions | aurions | irions | ferions |
+| vous | seriez | auriez | iriez | feriez |
+|  ils/elles | seraient | auraient | iraient | feraient |
 
 
 
