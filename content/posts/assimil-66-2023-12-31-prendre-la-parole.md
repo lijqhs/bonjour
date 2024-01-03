@@ -35,6 +35,7 @@ cover:
 | respirer | to breathe | 
 | particulier | private, *FEM particulière* </br> - **voiture particulière** passenger car [^1] | 
 | réchauffement | warming </br> - *le réchauffement climatique*, *le réchauffement de la planète*, *le réchauffement planétaire* global warming | 
+| de loin | from a long way away </br> - *On voit l’église de loin.* You can see the church from a long way away. </br> **by far** </br> - *C’est de loin l’élève la plus brillante.* She is by far the brightest pupil. | 
 | au bout de | after </br> - *Au bout d'un moment, il s'est endormi.* After a while he fell asleep. </br> - *Et, au bout d'un certain temps, les résultats seront catastrophiques.* And, after a certain time, the results will be disastrous. | 
 | à tout prix | at all costs </br> - *Je veux à tout prix voir ce film.* I want to see this film at all costs. | 
 | empreinte | print, footprint </br> - *l'empreinte carbone* carbon footprint. </br> - *une empreinte digitale* a fingerprint | 
@@ -43,5 +44,6 @@ cover:
 | net | clear, *FEM nette* </br> - *L'image n’est pas nette.* The picture isn’t very clear. </br> see [**nettoyer**](https://www.collinsdictionary.com/dictionary/french-english/nettoyer) to clean | 
 | ramener | to bring back, to take home </br> - *J’ai ramené mes copains à la maison pour regarder le match.* I brought my friends back to my place to watch the match. </br> - *Tu me ramènes ?* Will you take me home? </br> - *Maintenant, deux autocars attendent dehors pour vous ramener à la maison.* Now, two coaches are waiting outside to take you home. | 
 | **prendre qch/qn au sérieux** | to take sth/sb seriously </br> - *C'est bien ce que nous pensions ! Vous ne nous prenez pas au sérieux.* That's exactly what we thought! You don't take us seriously. | 
+| de toute façon | anyway, in any case | 
 
 [^1]: [Glossaire:Voiture particulière](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Glossary:Passenger_car/fr)
