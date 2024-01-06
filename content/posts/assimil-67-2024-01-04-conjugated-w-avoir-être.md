@@ -1,6 +1,6 @@
 ---
-title: Tourner la page
-slug: Tourner la page
+title: Conjugation w/ avoir and être
+slug: Conjugation w avoir and être
 description: « Assimil French » Soixante-septième leçon - L'encre la plus pâle...
 author: aaron
 date: 2024-01-04
@@ -33,3 +33,28 @@ Some verbs can be conjugated with both avoir and être. *Avoir* is used when the
 [^1]: [French Conjugation: 6 Verbs That Use Both “Avoir” And “Être”](https://www.commeunefrancaise.com/blog/french-conjugation-avoir-and-etre)
 
 Others: sortir, passer, monter, descendre, ... [^1]
+
+### More examples from this leçon
+
+- *J'**ai rentré ses plantes**, qui étaient sur le balcon depuis un mois et demi, et j'**ai descendu sa poubelle**.* I brought in her plants, which had been on the balcony for a month and a half, and I took down her rubbish bin.
+- *J'**ai même sorti son petit chien** pour le promener.* I even took out her little dog to walk it.
+- *Après, j'**ai passé l'aspirateur**, fait un peu de ménage et rangé le désordre.* After, I passed the vacuum cleaner, did a bit of housework and cleared up the mess.
+
+## Vocabulaire
+
+
+| mots | explications |
+| ---- | ---- | 
+| coincé | stuck </br> - *La clé est coincée dans la serrure.* The key is stuck in the keyhole. </br> - *La porte est coincée.* The door’s jammed. | 
+| **tomber en panne** | to break down </br> - *L'ascenseur est tombé en panne il y a trois semaines et il ne marche toujours pas.* The lift broke down three weeks ago and it still isn't working. | 
+| pénible | **hard** </br> - *Travailler sur un chantier est pénible.* Working on a building site is hard. </br> - *Le voyage en avion était pénible.* The flight was difficult. </br> - *C'est pénible - surtout pour elle, qui n'est pas sortie de chez elle depuis trois jours.* It's annoying -especially for her, who hasn't left her house for three days. </br> **tiresome, irritating** </br> - *Il est vraiment pénible.* He’s a real nuisance. </br> - *Qu'est-ce qu'il est pénible !* He's so annoying. | 
+| ménage | housework </br> - *faire le ménage* to do the housework | 
+| bavarder | to chatter, to gossip </br> - *On a bavardé un bon quart d'heure.* We chatted for a good half-hour. </br> ***bavard(e)***, noun, adjective, (more judgmental) </br> - *Qu'est-ce qu'il est bavard !* What a chatterbox! | 
+| livrer | to deliver </br> - *Sinon, elle aurait pu entrer sa liste de courses dans une appli et demander à être livrée à domicile.* Otherwise, she could have entered her shopping list into an app and asked to be delivered at home. | 
+| domicile | home, place of residence (masculine) </br> - *à domicile* at home </br> *le/la SDF* (= sans domicile fixe) homeless person / *les SDF* the homeless | 
+| imprimante | printer (for computer) | 
+| identifiant | login (on a computer) | 
+| **retourner** | *to return, to go back (to)*, (intransitive) </br> - *Je **suis retournée** avant-hier et j'ai regardé partout, sur les étagères, dans ses classeurs et ses boîtes de rangement, mais je n'**ai rien trouvé**.* I went back before yesterday and I looked everywhere, on the shelves, in her filing cabinets and storage boxes, but I didn't find anything. </br> *to turn over, up, etc* (transitive) </br> - *Retournez le poisson au bout de deux minutes et ajoutez les légumes.* Turn the fish over after two minutes and add the vegetables. </br> - *En dernier ressort, j'**ai retourné son tapis** de souris.* As a last resort, I turned over her mouse mat (carpet). | 
+| rangement | tidying up </br> - *faire des rangements* to tidy up </br> - *espace de rangement* storage space | 
+| coller | to stick </br> - *Bingo ! Les codes et les mots de passe étaient collés là-dessous.* Bingo! The code and passwords were glued underneath. | 
+| là-dessous | under there </br> - *Il s’est caché là-dessous.* He hid under there. | 
