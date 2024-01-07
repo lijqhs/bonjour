@@ -58,3 +58,5 @@ Others: sortir, passer, monter, descendre, ... [^1]
 | rangement | tidying up </br> - *faire des rangements* to tidy up </br> - *espace de rangement* storage space | 
 | coller | to stick </br> - *Bingo ! Les codes et les mots de passe étaient collés là-dessous.* Bingo! The code and passwords were glued underneath. | 
 | là-dessous | under there </br> - *Il s’est caché là-dessous.* He hid under there. | 
+| passer | to cross, to go through, to spend, to take, to pass, to show, to call in </br> - *Qu'est ce que se passe ? - Le bus passe dans quelques minutes. Passe-moi mon manteau.* What's happening? - The bus is coming by in a few minutes. Hand me my coat. | 
+| souvenir | memory </br> **se souvenir** to remember </br> - *se souvenir de qn/qch* to remember sb/sth </br> - *Je me souviens qu’il neigeait ce jour-là.* I remember it was snowing that day. </br> - *Souviens-toi : "L'encre la plus pâle vaut mieux que la meilleure mémoire."* Remember: "The palest ink is better than the best memory." | 
