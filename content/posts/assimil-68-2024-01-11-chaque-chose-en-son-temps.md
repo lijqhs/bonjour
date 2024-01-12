@@ -15,6 +15,9 @@ cover:
 # draft: true
 ---
 
+## Chaque chose en son temps
+
+*Chaque chose en son temps*: Everything in its own time. It is an expression that emphasizes the importance of patience and timing in dealing with different tasks or situations.
 
 ## Ça fait longtemps
 
@@ -61,6 +64,8 @@ The French sentence "Je ne suis pas morte de rire" translates to "I did not die 
 | une petite-fille / un petit-fils | a granddaughter / a grandson </br> *une petite fille* a small girl | 
 | tous les deux / toutes les deux | both, generally after the verb </br> - *Michel et moi aimons tous les deux la campagne française.* Both Michel and I love the French countryside. | 
 | mine | refers to a person's face or physical aspect </br> - *Elle a mauvaise mine. Qu'est-ce qu'elle a ?* She doesn't look well. What's the matter with her? </br> - *Ne faites pas cette mine triste.* Don't pull that sad face. </br> - *Tu as bonne mine.* You look well. </br> - *Vous allez bien tous les deux ? En tout cas, vous avez bonne mine.* Are you both well? In any case, you look well. | 
+| si peu | so little </br> *Elle est si gentille.* She’s so kind. |
+| ces jours-ci | these days </br> *ces livres-ci* these books </br> *ce garçon-ci* this boy |
 | un tas | a heap, a pile </br> - *Il y avait un grand tas de livres dans le coin de la chambre.* There was a big pile of books in the corner of the bedroom. </br> - *J'ai un tas de choses à vous raconter.* I've loads of things to tell you. </br> *des tas* (plural) / *J'ai des tas de choses...* | 
 | dès | as early as, (*dès* always marks the start of the action but is not used in a *from-to* context) </br> - *dès le mois de novembre* from November </br> - *dès le début* right from the start </br> - *dès son retour (dans le passé)* as soon as he got back </br> - *dès lors* from then on </br> **dès que** as soon as, as early as </br> - *Donne-moi des nouvelles dès que possible.* Send me news as soon as possible. |
 | je vous en prie | please, please do, don't mention it </br> *prier* to pray, to beg </br> - *Je vous en prie, ne me laissez pas seule.* Please, don't leave me alone. </br> - *Je peux m'asseoir ? — Je vous en prie.* May I sit down? — Please do. </br> - *Merci pour votre aide. — Je vous en prie.* Thanks for your help. — Don't mention it. |
@@ -80,4 +85,5 @@ The French sentence "Je ne suis pas morte de rire" translates to "I did not die 
 | circuler | to drive, to run </br> -  *Circuler dans Paris, ce n'est pas facile.* Driving in Paris isn't easy. </br> -  *Oui il circule toutes les heures **dès** treize heure. Je t'**amènerai** à la gare.* Yes, it runs every hour from 1 pm onwards. I'll take you to the station. |
 | amener | to bring, to take </br> -  *Qu'est-ce qui t'amène ?* What brings you here? </br> -  *amener qn à qch* to lead sb to sth </br> -  *Cette route vous amène au village.* This road takes you to the village.|
 | au fait | by the way </br> - *Au fait, tu as aimé le film d'hier ?* By the way, did you enjoy the film yesterday? </br> - *Merci, je reviendrai dès que possible, c'est promis. Au fait, peux-tu me prêter vingt euros ?* Thanks, I'll come back as soon as possible, I promise (it's promised). By the way, can you lend me twenty euros? |
-| fauché | broke (sans argent) </br> - *Je suis temporairement sans ressources. Autrement dit, fauchée.* I'm temporarily without resources. In other words, broke. | 
+| fauché | broke (sans argent) </br> - *Je suis temporairement sans ressources. Autrement dit, fauchée.* I'm temporarily without resources. In other words, broke. </br> *faucher* to cut, to mow, to cut down | 
+| toutes les heures | every hour, hourly </br> *tous les jours* every day </br> *tous les deux jours* every two days </br> *toutes les fois* every time |
