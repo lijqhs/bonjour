@@ -35,8 +35,8 @@ Adjectives can easily be used as singular nouns in French.
 - *C'est un amoureux de la musique.* He's a music-lover.
 
 When using an adjective that replaces or references a singular noun, the adjective needs either an antecedent or a modifier. [^1]
-- Tu veux le stylo bleu ou noir ? Le bleu.
-- J'aime bien le bleu de l'océan ce matin.
+- *Tu veux le stylo bleu ou noir ? Le bleu.*
+- *J'aime bien le bleu de l'océan ce matin.*
 
 [^1]: [Adjectives Used as Nouns (Nominal Adjectives)](https://www.lawlessfrench.com/grammar/adjectives-as-nouns/)
 
@@ -62,11 +62,12 @@ The French sentence "Je ne suis pas morte de rire" translates to "I did not die 
 | mots | explications |
 | ---- | ---- | 
 | une petite-fille / un petit-fils | a granddaughter / a grandson </br> *une petite fille* a small girl | 
-| tous les deux / toutes les deux | both, generally after the verb </br> - *Michel et moi aimons tous les deux la campagne française.* Both Michel and I love the French countryside. | 
+| tous les deux / toutes les deux | both, generally after the verb </br> - *Michel et moi aimons tous les deux la campagne française.* Both Michel and I love the French countryside. </br> - ***Ma femme et moi apprécions tous les deux ce que vous faites.*** My wife and I both appreciate what you do. | 
 | mine | refers to a person's face or physical aspect </br> - *Elle a mauvaise mine. Qu'est-ce qu'elle a ?* She doesn't look well. What's the matter with her? </br> - *Ne faites pas cette mine triste.* Don't pull that sad face. </br> - *Tu as bonne mine.* You look well. </br> - *Vous allez bien tous les deux ? En tout cas, vous avez bonne mine.* Are you both well? In any case, you look well. | 
 | si peu | so little </br> *Elle est si gentille.* She’s so kind. |
 | ces jours-ci | these days </br> *ces livres-ci* these books </br> *ce garçon-ci* this boy |
 | un tas | a heap, a pile </br> - *Il y avait un grand tas de livres dans le coin de la chambre.* There was a big pile of books in the corner of the bedroom. </br> - *J'ai un tas de choses à vous raconter.* I've loads of things to tell you. </br> *des tas* (plural) / *J'ai des tas de choses...* | 
+| courir | to run </br> - *courir à droite et à gauche* portrays a sense of hectic busyness, suggesting that someone is constantly in motion, possibly dealing with multiple responsibilities or commitments at the same time. </br> - *Oui, je fais un tas de choses et je cours à droite et à gauche, comme toujours.* Yes, I'm doing loads of things and I'm running around left, right (and centre), as always. |
 | dès | as early as, (*dès* always marks the start of the action but is not used in a *from-to* context) </br> - *dès le mois de novembre* from November </br> - *dès le début* right from the start </br> - *dès son retour (dans le passé)* as soon as he got back </br> - *dès lors* from then on </br> **dès que** as soon as, as early as </br> - *Donne-moi des nouvelles dès que possible.* Send me news as soon as possible. |
 | je vous en prie | please, please do, don't mention it </br> *prier* to pray, to beg </br> - *Je vous en prie, ne me laissez pas seule.* Please, don't leave me alone. </br> - *Je peux m'asseoir ? — Je vous en prie.* May I sit down? — Please do. </br> - *Merci pour votre aide. — Je vous en prie.* Thanks for your help. — Don't mention it. |
 | blague | joke, trick </br> - *raconter une blague* to tell a joke </br> - *Sans blague !* No kidding! </br> - *André nous a **encore** fait une blague !* André has played a trick on us again! |
