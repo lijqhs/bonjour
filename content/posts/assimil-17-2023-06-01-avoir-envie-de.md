@@ -3,7 +3,7 @@ title: avoir envie de
 slug: avoir envie de
 description: « Assimil French » Dix-septième leçon - Quels sont vos projets ?
 author: aaron
-date: 2023-10-01
+date: 2023-06-01
 categories: ["leçon", "vocabulaire"]
 series: ["Assimil"]
 # tags: [""]
