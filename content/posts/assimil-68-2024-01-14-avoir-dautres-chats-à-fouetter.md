@@ -6,7 +6,7 @@ author: aaron
 date: 2024-01-14
 categories: ["leçon", "vocabulaire", "grammaire"]
 series: ["Assimil"]
-tags: ["idioms"]
+tags: ["idioms", "similes"]
 cover: 
     image: https://cdn.jsdelivr.net/gh/lijqhs/cdn@1.7/img/gallery/ca/stephen-wheeler-hBh9JbyeCtg-unsplash.jpg
     # hidden: true # hide everywhere but not in structured data
@@ -35,9 +35,13 @@ draft: true
 | moche | awful, rotten |
 | **temps de chien** | rotten weather </br> - *Dehors, il faisait toujours gris et moche - un vrai temps de chien.* Outside, it was always grey and dull -really lousy weather. |
 | ennuyer | to bother </br> **s'ennuyer** to be bored |
-| s'ennuyer comme un rat mort | to be really bored |
-| avoir un appétit d'oiseau | to have a small appetite </br> - *Je m'ennuyais comme un rat mort et j'avais un appétit d'oiseau.* I was bored to death and I was eating like a bird. |
-
+| **s'ennuyer comme un rat mort** | to be really bored |
+| **avoir un appétit d'oiseau** | to have a small appetite </br> - *Je m'ennuyais comme un rat mort et j'avais un appétit d'oiseau.* I was bored to death and I was eating like a bird. |
+| **être bavard comme une pie** | to be a chatterbox </br> *une pie* a magpie: a long-tailed crow with boldly marked (or green) plumage and a raucous voice. / used in similes or comparisons to refer to a person who collects things, especially things of little use or value, or a person who chatters idly. "his father was a garrulous old man who chattered like a magpie" |
+| **dormir comme un loir** | to sleep like a log </br> *loir* dormouse, which a rodent that hibernates for seven months a year |
+| **reprendre du poil de la bête** | to find a second wind, to regain strength, to pick up (to retake the hair of the beast) </br> *poil* hair (of body and animal, vs *un cheveu* / *des cheveux* human head hair) </br> - *Je commence tout doucement à reprendre du poil de la bête.* I'm beginning quite slowly to pick up again. |
+| surtout | above all, especially | 
+| J'ai une faim de loup ! | I'm ravenous! I'm famished! |
 
 
 [^1]: [Poser un lapin : définition et origine de l'expression](https://www.lalanguefrancaise.com/expressions/poser-un-lapin-definition-origine)
