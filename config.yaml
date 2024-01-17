@@ -193,8 +193,8 @@ params:
         isCaseSensitive: false
         shouldSort: true
         location: 0
-        distance: 10
-        threshold: 0.4
+        distance: 0
+        threshold: 0
         minMatchCharLength: 2
         limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
         keys: ["title", "permalink", "summary", "content"]

@@ -48,7 +48,7 @@ It's important to note that irregular verbs have their own conjugation patterns 
 
 
 
-It's worth mentioning that the conditional mood can also be used in si clauses (conditional sentences) to express hypothetical or unreal conditions. For example: "*Si j'avais plus d'argent, j'achèterais une nouvelle voiture*" (If I had more money, I would buy a new car).
+It's worth mentioning that the conditional mood can also be used in *si* clauses (conditional sentences) to express hypothetical or unreal conditions. For example: "*Si j'avais plus d'argent, j'achèterais une nouvelle voiture*" (If I had more money, I would buy a new car).
 
 
 ## Vocabulaire
