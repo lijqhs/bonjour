@@ -6,7 +6,7 @@ author: aaron
 date: 2024-01-17
 categories: ["leçon", "vocabulaire"]
 series: ["Assimil"]
-tags: ["tout", "locution"]
+tags: ["tout", "locutions"]
 cover: 
     image: https://cdn.jsdelivr.net/gh/lijqhs/cdn@1.7/img/gallery/ca/james-yBHVDzr9NDU-unsplash.jpg
     # hidden: true # hide everywhere but not in structured data

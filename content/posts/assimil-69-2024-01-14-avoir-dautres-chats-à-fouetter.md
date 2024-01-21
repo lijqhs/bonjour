@@ -24,7 +24,7 @@ cover:
 | devoir | to have to, must, to be due to </br> - *Je dois partir.* I've got to go. </br> - *Tu dois être fatigué.* You must be tired. </br> - *Je devais déjeuner avec mon fils, mais il m'a posé un lapin.* I was supposed have lunch with my son but he stood me up. |
 | **poser un lapin à qn** | to stand sb up [^1] [^2] |
 | avoir d'autres chats à fouetter | to have other cats to whip (to have other fish to fry): to have other activities to do, esp more important ones [^3] |
-| **comme un chien** | like a dog [^4] / It is used to describe someone who is treated badly, physically or emotionally. *Mon boss me traite comme un chien; il me parle agressivement, ne me fait jamais de compliment* My boss treats me like a dog; he speaks aggressively to me, never pays me a compliment. </br> - *Il y a quelques jours, j'étais malade comme un chien.* A few days ago, I was as sick as a dog. |
+| **comme un chien** | like a dog [^4] / It is used to describe someone who is treated badly, physically or emotionally. </br> - *Mon boss me traite comme un chien; il me parle agressivement, ne me fait jamais de compliment* My boss treats me like a dog; he speaks aggressively to me, never pays me a compliment. </br> - *Il y a quelques jours, j'étais malade comme un chien.* A few days ago, I was as sick as a dog. |
 | **fièvre de cheval** | a high fever / This expression is used to describe a person who has a very high fever, often associated with a serious infection or illness. / horses can develop a high fever when they are sick, and the fever can be so severe that it can cause them to become delirious and behave erratically. </br> - *J'avais une fièvre de cheval et plein de courbatures.* I had a raging temperature and I was aching all over. |
 | courbature | ache |
 | **avoir le cafard** | to be feeling down </br> *cafard* cockroach </br> *avoir un coup de cafard* to have a fit of the blues |
@@ -52,7 +52,7 @@ cover:
 | éboueur | dustman |
 | chauffeur | driver | 
 | jardinier | gardener |
-| **donner sa langue au chat** | to give one's tongue to the cat (to give up or stop guessing) </br> - *Si tu donnes ta langue au chat, je te donnerai la réponse.* If you give up, I'll tell you the answer. |
+| **donner sa langue au chat** | to give one's tongue to the cat (to give up or stop guessing) </br> - *Si tu donnes ta langue au chat, je te donnerai la réponse.* If you give up, I'll tell you the answer. </br> - *Non ? Alors je donne ma langue au chat ! Dis-le-moi s'il te plaît.* No? Then I give up! Tell me please. |
 | vétérinaire | vet |
 | **heureux comme un poisson dans l'eau** | happy as a fish in water | 
 | **avoir un mal de chien** | to have a lot of difficulty doing something </br> - *J'ai eu un mal de chien à trouver un taxi ce matin.* I had a heck of a time finding a taxi this morning. |
