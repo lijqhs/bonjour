@@ -25,9 +25,9 @@ cover:
 | vieux / vieil | vieux | vieille | vieilles |
 | ce / cet | ces | cette | ces |
 
-- *un bel endroid*
-- *nouvel an*
-- *ce matin* / *cet après-midi* / *cette femme*
+- *un bel endroit* a beautiful place
+- *nouvel an* new year
+- *ce matin* this morning / *cet après-midi* this afternoon / *cette femme* this woman
 - *une belle-famille* a family-in-law / *une belle-mère* mother-in-law / *un beau-père* father-in-law
 
 ## Quantité approximative

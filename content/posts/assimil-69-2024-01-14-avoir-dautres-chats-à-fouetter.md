@@ -36,7 +36,7 @@ cover:
 | **s'ennuyer comme un rat mort** | to be really bored </br> - *Stéphane s'ennuie comme un rat mort dans son boulot.* Stéphane is getting bored to death in his job. |
 | **avoir un appétit d'oiseau** | to have a small appetite </br> - *Je m'ennuyais comme un rat mort et j'avais un appétit d'oiseau.* I was bored to death and I was eating like a bird. |
 | **être bavard comme une pie** | to be a chatterbox </br> *une pie* a magpie: a long-tailed crow with boldly marked (or green) plumage and a raucous voice. / used in similes or comparisons to refer to a person who collects things, especially things of little use or value, or a person who chatters idly. "his father was a garrulous old man who chattered like a magpie" |
-| **dormir comme un loir** | to sleep like a log </br> *loir* dormouse, which a rodent that hibernates for seven months a year </br> - *Elle a dormi comme un loir cette nuit et maintenant elle a une faim de loup.* She slept like a log last night and now she's famished. |
+| **dormir comme un loir** | to sleep like a log </br> *loir* dormouse, which is a rodent that hibernates for seven months a year </br> - *Elle a dormi comme un loir cette nuit et maintenant elle a une faim de loup.* She slept like a log last night and now she's famished. |
 | **reprendre du poil de la bête** | to find a second wind, to regain strength, to pick up (to retake the hair of the beast) </br> *poil* hair (of body and animal, vs *un cheveu* / *des cheveux* human head hair) </br> - *Je commence tout doucement à reprendre du poil de la bête.* I'm beginning quite slowly to pick up again. |
 | surtout | above all, especially | 
 | J'ai une faim de loup ! | I'm ravenous! I'm famished! </br> *loup* wolf |
