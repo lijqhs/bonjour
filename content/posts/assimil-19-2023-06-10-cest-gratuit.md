@@ -31,6 +31,7 @@ cover:
 - *nouvel an* new year
 - *ce matin* this morning / *cet après-midi* this afternoon / *cette femme* this woman
 - *une belle-famille* a family-in-law / *une belle-mère* mother-in-law / *un beau-père* father-in-law
+- *C'est un bel endroit pour faire une belle photo de ce beau bâtiment et, en face, de cette grande église.* It's a fine place to take a nice photo of that handsome building and, opposite, that grand/big church.
 
 ## Quantité approximative
 
