@@ -6,7 +6,7 @@ author: aaron
 date: 2024-01-22
 categories: ["leçon", "vocabulaire", "grammaire"]
 series: ["Assimil"]
-tags: []
+tags: ["proverbe", "en", "locution"]
 cover: 
     image: https://cdn.jsdelivr.net/gh/lijqhs/cdn@1.8/img/gallery/fr/anthony-delanoix-QAwciFlS1g4-unsplash.jpg
     # hidden: true # hide everywhere but not in structured data
@@ -34,6 +34,34 @@ The impersonal pronoun *on* often does the same job as the passive voice.
 
 [^1]: [Historical Tenses](https://www.lawlessfrench.com/grammar/historical-tenses/)
 
+## *En* [^2] [^3]
+
+When ***en*** is used with ***avoir*** and ***il y a***, it is not translated in English.
+- *Est-ce que tu as un dictionnaire ? — Oui, j'en ai un.* Have you got a dictionary? — Yes, I've got one.
+- *Combien d'élèves y a-t-il dans ta classe ? — Il y en a trente.* How many pupils are there in your class? — There are 30.
+
+***En*** is also used with *verbs* and expressions normally followed by ***de*** to avoid repeating the same word.
+- *J'ai acheté des fruits. J'en ai acheté beaucoup.* I bought some fruits. I bought a lot of them.
+- *Tu parles de ton travail ? Oui, j'en parle souvent.* Are you talking about your work? Yes, I often talk about it.
+- *Si tu as un problème, tu peux m'en parler.* If you've got a problem, you can talk to me about it.
+- *Est-ce que tu peux me rendre ce livre ? J'en ai besoin.* Can you give me back that book? I need it.
+
+[^2]: [Collins Beginner's French-English Dictionary: *en*](https://www.collinsdictionary.com/dictionary/french-english/en)
+[^3]: [How do you use the French preposition *en*?](https://grammar.collinsdictionary.com/french-easy-learning/how-do-you-use-the-french-preposition-en)
+
+## Non seulement ... mais
+
+not only ... but also
+
+- *Il est non seulement intelligent, mais aussi très gentil.* Not only is he intelligent, he's also very nice.
+- *Comme elle est utilisée **non seulement** pour la météorologie **mais aussi** pour la téléphonie, la décision est prise de ne pas la démolir.* As it was used not only for meteorology but also for telephony, the decision was (*is*) taken not to demolish it.
+
+## Proverbe : *Rira bien qui rira le dernier*
+
+He who laughs last laughs longest.
+
+- *Rira bien qui rira le dernier, car elle est déjà plus que centenaire.* 
+
 ## Vocabulaire
 
 | mots | explications |
@@ -48,3 +76,14 @@ The impersonal pronoun *on* often does the same job as the passive voice.
 | lui-même | himself / *moi-même* myself / *toi-même* yourself / *eux-mêmes* themselves |
 | *même* | same </br> - *J'ai le même manteau.* I've got the same coat. </br> - *en même temps* at the same time </br> even </br> - *Il n'a même pas pleuré.* He didn't even cry. </br> - *même si* even if </br> - *Même si j'aime les maths, je trouve ça difficile.* Although I like maths, I find it difficult. |
 | baptiser | to baptize, to name, to call </br> - *Ils l'ont baptisé Cyrille.* They christened him Cyrille. They named him Cyrille. </br> - *Inspirée par deux ingénieurs américains, elle est d'abord baptisée "La tour de trois cents mètres" et construite en deux ans pour l'Exposition universelle de mil nuit cent quatre-vingt-neuf.* Inspired by two American engineers, it was first named "The Three Hundred Meter Tower" and built in two years for the Universal Exhibition of 1889. |
+| destiné(e) | intended </br> - *Ce livre est destiné aux enfants.* This book is intended for children. </br> - *Elle était destinée à faire ce métier.* She was destined to go into that job. </br> ***être destiné à qch*** to be destined for sth </br> ***être destiné à faire qch*** to be destined to do sth </br> - *La tour n'est pas destinée à durer plus de vingt ans, mais l'Histoire en décide autrement.* The tower was (*is*) not intended to last more than twenty years, but history decided (*decides*) otherwise. |
+| plus de | more, more than </br> - *Il nous faut plus de pain.* We need more bread. </br> - *Il y avait plus de dix personnes.* There were more than 10 people. </br> - *plus de 3 heures* more than 3 hours, over 3 hours </br> - *plus de minuit* after midnight, past midnight |
+| pris(e) | taken, busy </br> - *Est-ce que cette place est prise ?* Is this seat taken? </br> - *La décision est prise de ne pas la démolir.* The decision was (*is*) taken not to demolish it. |
+| rester | to stay (past participle: *resté*) </br> - *La Tour Eiffel est restée le monument le plus élevé du monde pendant quarante ans.* The Eiffel Tower remained the highest monument in the world for forty years. | 
+| élevé(e) | high </br> - *Le prix est trop élevé.* The price is too high. </br> - *être bien élevé* to have good manners / *bien élevé* well-mannered / *mal élevé* ill-mannered |
+| l'époque | time / *à l'époque* at that time </br> - *à cette époque de l'année* at this time of year | 
+| apprécier | to appreciate (past participle: *apprécié*) |
+| laid(e) | ugly </br> - *Beaucoup de gens la trouvent laide, et elle est vivement critiquée par des écrivains et d'autres artistes.* A lot of people found (*find*) it ugly, and it was (*is*) sharply criticised by writers and other artists. |
+| vif | sharp, crisp, bright (FEM *vive*, -> vivid, vivacious) (ADVERB *vivement*: keenly, vividly sharply) </br> - *En ville, il est vivement recommandé d'utiliser les transports en commun.* In town, it is strongly/highly recommended to use public transport. |
+| critiquer | to criticize |
+| écrivain | writer |
