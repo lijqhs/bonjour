@@ -49,7 +49,7 @@ When ***en*** is used with ***avoir*** and ***il y a***, it is not translated in
 [^2]: [Collins Beginner's French-English Dictionary: *en*](https://www.collinsdictionary.com/dictionary/french-english/en)
 [^3]: [How do you use the French preposition *en*?](https://grammar.collinsdictionary.com/french-easy-learning/how-do-you-use-the-french-preposition-en)
 
-## Non seulement ... mais
+## *Non seulement ... mais*
 
 not only ... but also
 
