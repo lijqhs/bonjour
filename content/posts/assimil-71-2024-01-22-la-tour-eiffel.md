@@ -62,6 +62,21 @@ He who laughs last laughs longest.
 
 - *Rira bien qui rira le dernier, car elle est déjà plus que centenaire.* 
 
+## *Les affaires*
+
+- *les affaires* business (economic activity or personal affairs)
+- *une affaire* a matter, a case or an affair
+- *une bonne affaire* a good deal, a bargain (often used with *faire*)
+  - *Nous avons fait une bonne affaire en vendant notre maison.* We got a good deal when we sold our house.
+
+## *ne ... que*
+
+only
+
+- *Il ne boit que de l'eau.* He only drinks water.
+- *Je ne l'ai vu qu'une fois.* I've only seen him once.
+- *Même si des copies ont été construites par d'autre villes dans le monde, il n'y qu'une seule Tour Eiffel.* Even if copies have been built by other cities in the world, there is only one Eiffel Tower.
+
 ## Vocabulaire
 
 | mots | explications |
@@ -87,3 +102,19 @@ He who laughs last laughs longest.
 | vif | sharp, crisp, bright (FEM *vive*, -> vivid, vivacious) (ADVERB *vivement*: keenly, vividly sharply) </br> - *En ville, il est vivement recommandé d'utiliser les transports en commun.* In town, it is strongly/highly recommended to use public transport. |
 | critiquer | to criticize |
 | écrivain | writer |
+| recevoir | to receive, to see, to have round </br> - *J'ai reçu une lettre.* I received a letter. </br> - *Il a déjà reçu trois clients.* He has already seen three clients. </br> - *Depuis qu'elle est ouverte, la Tour a reçu plus de deux cent cinquante millions de visiteurs !* Since it opened (*is open*), the Tower has welcomed (*received*) more than two hundred and fifty million visitors! |
+| vendre | to sell (past participle: *vendu*) </br> - *vendre quelque chose à quelqu'un* to sell somebody something </br> - *Elle est même "vendue" dans les années mil neuf cent vingt par un escroc à un entrepreneur naïf, qui pense faire une bonne affaire en l'achetant pour récupérer la ferraille !* It was (*is*) even "sold" in the 1920s by a crook to a naive entrepreneur, who thought (thinks) he was getting a good deal by buying it for (*to recover*) scrap metal! |
+| escroc | crook |
+| récupérer | to get back, to make up, to recover </br> - *J'ai besoin de récupérer.* I need to recover. |
+| ferraille | scrap iron | 
+| récemment | recently | 
+| convoiter | to covet | 
+| épouser | to marry |
+| adopter | to adopt |
+| gigantesque | gigantic | 
+| cheminée | chimney | 
+| l’usine | factory |
+| dont | (pronoun) of which, of whom </br> - *deux livres, dont l'un est en anglais* two books, one of which is in English |
+| fier | (FEM fière) proud </br> - *Elle est fière de ses origines basques.* She's proud of her Basque heritage. </br> *la fierté* pride |
+| avance | advance </br> *d'avance* in advance |
+| rendre hommage à | to pay homage to, to pay tribute to </br> - *La réponse est donnée d'avance par des millions de touristes qui viennent chaque année rendre hommage à la belle Dame de fer.* The response is a foregone conclusion (*given in advance by*) for millions of tourists who come every year to pay tribute (*render homage*) to the beautiful Iron Lady. |
