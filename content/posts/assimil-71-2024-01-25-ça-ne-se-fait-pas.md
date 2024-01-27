@@ -15,6 +15,15 @@ cover:
 draft: true
 ---
 
+## *C'est ... qui*
+
+The phrase *c'est ... qui* is a common construction in French that is used to emphasize the subject of a sentence. It is often translated as "it is ... who" or "it is ... that" in English.
+
+Instead of *Votre entreprise a été mentionnée par un ami*, we say *C'est un ami qui a mentionné votre entreprise.*
+
+- *C'est Marie qui m'a appelé.*
+- *C'est ce livre qui m'intéresse.*
+- *C'est toi qui as gagné.*
 
 ## Vocabulaire
 
@@ -32,3 +41,6 @@ draft: true
 | la compagnie | company |
 | assurance | assurance, insurance |
 | avancement | promotion </br> - *avoir de l'avancement* to get promoted, to get a promotion |
+| postuler | apply (intransitive verb) </br> - *postuler à qch, postuler pour qch* to apply for sth </br> - *postuler pour faire qch* to apply to do sth </br> - *Elle a postulé pour enseigner à l'étranger.* She has applied to teach abroad. |
+| embaucher | to take on, to hire </br> - *L'entreprise vient d'embaucher cinquante personnes.* The firm has just taken on fifty new people. </br> - *Éric a postulé et on l'a embauché aussitôt.* Éric applied and was hired right away. |
+| aussitôt | (adverb) formed from *aussi* as and *tôt* early. an elegant way of saying *straight away, immediately* / *immédiatement* </br> - *La neige est tombée cette nuit mais a disparu aussitôt.* The snow fell last night but disappeared immediately. </br> - ***Aussitôt dit, aussitôt fait.*** No sooner said than done. |
