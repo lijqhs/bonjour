@@ -26,6 +26,7 @@ Instead of *Votre entreprise a été mentionnée par un ami*, we say *C'est un a
 - *C'est toi qui as gagné.*
 - *Et c'est vous qui achetez le cadeau de départ ?* And you're going to buy the farewell gift?
 - *Non, c'est un autre collègue qui s'en charge, mais il sera choisi par un comité de quatre personnes, et un discours sera prononcé lors du buffet.* 
+- *Qui achètera le cadeau de départ ? - Ce sont eux qui vont tout faire, je pense.* Who will buy the farewell gift? - They will do everything, I think.
 
 ## Voix passive [^1]
 
@@ -91,5 +92,5 @@ Another way to avoid the passive is with the pronominal verb form in the third p
 | livrer | to deliver </br> - *Des petits fours salés et sucrés seront livrés vers onze heures, onze heures trente au plus tard.* Savoury (salted) and sweet (sugared) petits-fours (little ovens) will be delivered around 11am, 11.30 at the latest. |
 | comité | committee |
 | discours | speech </br> - *prononcer un discours* to make a speech |
-| lors de | during |
+| ***lors de*** | during |
 | après tout | after all |
