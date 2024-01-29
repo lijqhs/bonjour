@@ -28,16 +28,16 @@ Instead of *Votre entreprise a été mentionnée par un ami*, we say *C'est un a
 - *Non, c'est un autre collègue qui s'en charge, mais il sera choisi par un comité de quatre personnes, et un discours sera prononcé lors du buffet.* 
 - *Qui achètera le cadeau de départ ? - Ce sont eux qui vont tout faire, je pense.* Who will buy the farewell gift? - They will do everything, I think.
 
-## Voix passive [^1]
+## Voix passive
 
-[^1]: [The French Passive Voice: A full guide to La Voix Passive](https://lingoculture.com/blog/grammar/french-passive-voice/)
-
-The passive agent is generally introduced with ***par***.
+The passive agent is generally introduced with ***par***. [^1]
 - *La décision a été prise par le directeur.* The decision was taken by the manager.
 
 If the verb expresses a feeling or emotion, ***par*** may be replaced by ***de***.
 - *Il est aimé par (de) ses collègues.* He is liked by his colleagues.
 - *On dit qu'il est très apprécié de ses collègues.* They say that his colleagues appreciate him very much.
+
+[^1]: [The French Passive Voice: A full guide to La Voix Passive](https://lingoculture.com/blog/grammar/french-passive-voice/)
 
 ## *grand-chose* vs. *grandes choses*
 
