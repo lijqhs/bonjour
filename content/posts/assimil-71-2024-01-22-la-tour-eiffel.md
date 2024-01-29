@@ -34,13 +34,13 @@ The impersonal pronoun *on* often does the same job as the passive voice.
 
 [^1]: [Historical Tenses](https://www.lawlessfrench.com/grammar/historical-tenses/)
 
-## *En* [^2] [^3]
+## *En*
 
-When ***en*** is used with ***avoir*** and ***il y a***, it is not translated in English.
+When ***en*** is used with ***avoir*** and ***il y a***, it is not translated in English. [^2]
 - *Est-ce que tu as un dictionnaire ? — Oui, j'en ai un.* Have you got a dictionary? — Yes, I've got one.
 - *Combien d'élèves y a-t-il dans ta classe ? — Il y en a trente.* How many pupils are there in your class? — There are 30.
 
-***En*** is also used with *verbs* and expressions normally followed by ***de*** to avoid repeating the same word.
+***En*** is also used with *verbs* and expressions normally followed by ***de*** to avoid repeating the same word. [^3]
 - *J'ai acheté des fruits. J'en ai acheté beaucoup.* I bought some fruits. I bought a lot of them.
 - *Tu parles de ton travail ? Oui, j'en parle souvent.* Are you talking about your work? Yes, I often talk about it.
 - *Si tu as un problème, tu peux m'en parler.* If you've got a problem, you can talk to me about it.
