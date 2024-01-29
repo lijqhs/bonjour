@@ -94,3 +94,4 @@ Another way to avoid the passive is with the pronominal verb form in the third p
 | discours | speech </br> - *prononcer un discours* to make a speech |
 | ***lors de*** | during |
 | après tout | after all |
+| se charger | to take care of sth </br> - *C'est un autre collègue  qui s'en charge, mais il sera choisi par un comité de quatre personnes.* Another colleague is taking care of it, but it will be chosen by a four-person committee. </br> - *Ce sont trois collègues qui se chargeront d'organiser le pot pour Éric, qui est très apprécié de tout le monde.* Three colleagues wil take charge of organising the drink party for Éric, whom everybody greatly appreciates. |
