@@ -3,7 +3,7 @@ title: Je n'ai pas un sou
 slug: Je n'ai pas un sou
 description: « Assimil French » Vingt-deuxième leçon - Réfléchissez, choisissez, jouez
 author: aaron
-date: 2023-06-11
+date: 2023-06-13
 categories: ["leçon", "vocabulaire", "grammaire"]
 series: ["Assimil"]
 tags: ["tout"]
