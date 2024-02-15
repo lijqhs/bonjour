@@ -3,7 +3,7 @@ title: J'investis pour l'avenir
 slug: J'investis pour l'avenir
 description: « Assimil French » Vingt-troisième leçon - Comment réussir au loto
 author: aaron
-date: 2023-06-13
+date: 2023-06-14
 categories: ["leçon", "vocabulaire", "grammaire"]
 series: ["Assimil"]
 tags: ["jouer", "-issant"]
