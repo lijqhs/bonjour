@@ -6,7 +6,7 @@ author: aaron
 date: 2023-12-29
 categories: ["leçon", "vocabulaire", "grammaire"]
 series: ["Assimil"]
-tags: ["conditionnel"]
+tags: ["conditionnel", "importe"]
 cover: 
     image: https://cdn.jsdelivr.net/gh/lijqhs/cdn@1.7/img/gallery/ca/connor-jolley-y1-jwAqBAoo-unsplash.jpg
     # hidden: true # hide everywhere but not in structured data
