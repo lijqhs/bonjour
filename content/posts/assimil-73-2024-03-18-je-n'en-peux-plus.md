@@ -15,6 +15,19 @@ cover:
 # draft: true
 ---
 
+## *Je n'en peux plus*
+
+I can't take any more. I've had it up to here.
+
+- *Effectivement. J'en peux plus. J'en ai plein le dos.* It does (indeed). I can't take it anymore. I'm sick and tired.
+
+
+## *en avoir plein le dos*
+
+to be fed up, to be sick and tired
+
+- *J'en ai plein le dos de leurs excuses.* I'm sick and tired of their excuses.
+
 ## *casser le pieds*
 
 - *Après, ils m'ont cassé les pieds parce que je n'avais pas ma carte d'assurance maladie.* Afterwards, they pestered me because I didn't have my health (illness) insurance card.
@@ -75,6 +88,7 @@ to be fed up with
 | soigner | to look after (ill person, animal) |
 | stagiaire | trainee (noun, adj) </br> *un professeur stagiaire* a trainee teacher |
 | **dingue** | crazy, incredible, unbelievable, extraordinary </br> *Les prix dans ce restaurant sont dingues !* That restaurant charges unbelievable prices! </br> *C'est un dingue de moto* He's a motorcycle nut | 
+| pareil | the same </br> *Ces deux maisons ne sont pas pareilles.* These two houses aren't the same. |
 | énerver | *Il m'énerve !* He gets on my nerves! |
 | **sens dessus dessous** | upside down |
 | remarquer | to notice </br> *faire remarquer quelque chose à quelqu'un* to point something out to somebody |
