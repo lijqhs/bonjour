@@ -65,6 +65,11 @@ to be fed up with
 - *en avoir ras le bol* (informal) to be fed up
 - *C'est vrai que j'en ai ras le bol* It's true that I'm fed up
 
+## *casse-pieds*
+
+- *C'est casse-pieds de changer son mot de passe chaque mois.* It's a drag to change your password every month.
+- *Vous commencez à me fatiguer avec vos questions. Vous êtrs vraiment casse-pieds.* You're beginning to tire me with your questions. You're a real pain in the neck.
+
 ## Vocabulaire
 
 | mots | explications |
