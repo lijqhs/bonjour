@@ -17,9 +17,6 @@ draft: true
 
 ## Ça tombe bien
 
-I can't take any more. I've had it up to here.
-
-- *Effectivement. J'en peux plus. J'en ai plein le dos.* It does (indeed). I can't take it anymore. I'm sick and tired.
 
 
 
@@ -27,5 +24,21 @@ I can't take any more. I've had it up to here.
 
 | mots | explications |
 | ---- | ---- | 
-|  |  | 
+| solde |  | 
+| besoin |  |
+| plan |  |
+| saisir |  |
+| caleçon |  |
+| pagaille |  |
+| pire |  |
+| foule | *la foule* crowd |
+| quant à | as for, regarding |
+| mode | la mode: (feminine) fashion / le mode: (masculine) *le mode de vie* the way of life |
+| peine | *la peine* trouble |
+| respirer | to breathe |
+| tellement | so |
+| arrêter |  |
+| râler |  |
+| tout le temps | all the time |
+|  |  |
 |  |  |
