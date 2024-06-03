@@ -3,7 +3,7 @@ title: Nous ne faisons que regarder
 slug: Nous ne faisons que regarder
 description: « Assimil French » Soixante quatorzième leçon - Les soldes
 author: aaron
-date: 2024-05-31
+date: 2024-06-02
 categories: ["leçon", "vocabulaire"]
 series: ["Assimil"]
 tags: ["idioms"]
@@ -12,7 +12,7 @@ cover:
     # hidden: true # hide everywhere but not in structured data
     hiddenInList: true # hide on list pages and home
     # hiddenInSingle: true # hide on single page
-draft: true
+# draft: true
 ---
 
 ## tomber bien
@@ -22,7 +22,6 @@ draft: true
 - By extension, the idiomatic meaning is **to come at the right moment**
   - *Ce chèque tombe bien: j'ai besoin d'argent.* This cheque has arrived at just the right momment: I need cash.
 - *Ça tombe bien !* That's convenient! / Great timing! The opposite: *Ça tombe mal*
-
 
 
 ## quant à
@@ -58,6 +57,13 @@ Expressions[^3]
 [^2](https://grammar.collinsdictionary.com/french-easy-learning/how-do-you-use-the-subjunctive-in-french)
 [^3](https://www.lawlessfrench.com/grammar/falloir-lesson/)
 
+## lequel
+
+the masculine gender dominates the feminine
+
+- J'hésite entre cette parka et cet imperméable. Lequel des deux me va le mieux ?
+- Je peux vous montrer un passeport ou une carte d'identité. Lequel voulez-vous ?
+
 ## aller bien
 
 The usual preposition is **à**, so the pronoun is indirect.
@@ -65,30 +71,47 @@ The usual preposition is **à**, so the pronoun is indirect.
 - *Cet imperméable bleu vous va très bien.* That blue raincoat really suits you.
 - *La parka lui va bien.* The parka suits him/her.
 
+## se trouver
+
+- Location or Position: to be situated, to be located*
+  - *Où se trouve la poste ?* Where is the post office?
+  - *Nice se trouve dans le sud de la France.* Nice is in the South of France.
+  - *Où se trouve le rayon bricolage ?* Where's the DIY department?
+- Coincidence or Happening to Be
+  - *Il se trouve que…* It happens that…
+  - *Il se trouve que ce modèle est soldé à moins soixante pour cent aujourd'hui.* It just so happens that this model is on sale at a sixty percent discount today.
+
+## Il n’en est pas question !
+
+No way ! / Absolutely not !
+
+- Voulez-vous travailler le week-end ? Do you want to work on the weekend?
+
 ## Vocabulaire
 
 | mots | explications |
 | ---- | ---- | 
-| solde |  | 
-| besoin |  |
-| plan |  |
-| saisir |  |
-| caleçon |  |
-| pagaille |  |
-| pire |  |
+| le solde | *être en solde* to be reduced / *les soldes* the sales (reduced-price goods) / *un solde* a balance (a remaining amount) </br> - *solder* wind up or pay off a balance </br> - *soldé* reduced in price / *Cette veste est soldée à moins quinze pour cent.* This vent is reduced by 15% in the sales. | 
+| le besoin | need / *avoir besoin de quelque chose* to need something / *J'ai besoin d'argent.* I need some money. |
+| plan | un plan a map </br> *un bon plan* = *une bonne affaire* a good deal, bargain, (tourism) a top tip, recommendation </br> *On est déjà vendredi ! Voici nos bons plans pour le weekend.* It's already Friday. Here are our top tips for the weekend. |
+| saisir | to take hold of / *saisir l'occasion de faire quelque chose* to seize the opportunity to do something |
+| le caleçon | boxer shorts |
+| haïr | to hate. je hais, tu hais, il/elle hait, nous haïssons, vous haïssez, ils/elles haïssent |
+| la pagaille | mess |
+| pire | worse / *C'est encore pire qu’avant.* It’s even worse than before. |
 | foule | *la foule* crowd |
 | quant à | as for, regarding |
 | mode | la mode: (feminine) fashion / le mode: (masculine) *le mode de vie* the way of life |
 | peine | *la peine* trouble |
 | respirer | to breathe |
-| tellement | so |
-| arrêter |  |
-| râler |  |
+| tellement | so / *Benjamin est tellement gentil.* Benjamin's so nice. / *Il travaille tellement.* He works so hard. |
+| arrêter | to stop / *arrêter de faire quelque chose* to stop doing something |
+| râler | to groan |
 | tout le temps | all the time |
 | éventuellement | possibly |
 | la botte | boot |
-| falloir |  |
 | fou | mad / *FEM* folle |
-|  |  |
-|  |  |
-|  |  |
+| la casquette | cap / *avoir une double casquette* to wear two hats |
+| décoré | decorated / past participle of ***décorer*** to decorate |
+| la plume | feather |
+| le bricolage | DIY / *Elle aime le bricolage.* She likes doing DIY. / *un magasin de bricolage* a DIY shop |
