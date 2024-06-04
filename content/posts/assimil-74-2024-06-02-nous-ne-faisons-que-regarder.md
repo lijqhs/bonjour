@@ -49,10 +49,10 @@ This adverb is often used to stress a contrast, in which case it does not need t
   - Il me faut un stylo. = J'ai besoin d'un stylo.
 
 Expressions [^3]
-- *ce qu’il faut* what is needed, what it takes
+- *ce qu'il faut* what is needed, what it takes
 - *comme il faut* properly, respectably
-- *Il faut ce qu’il faut* (informal) You’ve got to do things right
-- *s’il le faut* if (it’s) necessary
+- *Il faut ce qu'il faut* (informal) You've got to do things right
+- *s'il le faut* if (it's) necessary
 
 [^2]: [How do you use the subjunctive in French?](https://grammar.collinsdictionary.com/french-easy-learning/how-do-you-use-the-subjunctive-in-french)
 
@@ -71,6 +71,7 @@ The usual preposition is **à**, so the pronoun is indirect.
 
 - *Cet imperméable bleu vous va très bien.* That blue raincoat really suits you.
 - *La parka lui va bien.* The parka suits him/her.
+- *Lequel des deux me va le mieux ?* Which of the two suits me the best?
 
 ## se trouver
 
@@ -111,6 +112,8 @@ No way ! Absolutely not !
 | tout le temps | all the time |
 | éventuellement | possibly |
 | la botte | boot |
+| l’imperméable | MASC. raincoat |
+| la merveille | marvel, wonder; *à merveille* perfectly, wonderfully |
 | fou | mad; *FEM* folle |
 | la casquette | cap </br> - *avoir une double casquette* to wear two hats |
 | décoré | decorated; past participle of ***décorer*** to decorate |
