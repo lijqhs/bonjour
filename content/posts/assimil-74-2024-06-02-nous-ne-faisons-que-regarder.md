@@ -75,7 +75,7 @@ The usual preposition is **à**, so the pronoun is indirect.
 
 ## se trouver
 
-- Location or Position: to be situated, to be located*
+- Location or Position: to be situated, to be located
   - *Où se trouve la poste ?* Where is the post office?
   - *Nice se trouve dans le sud de la France.* Nice is in the South of France.
   - *Où se trouve le rayon bricolage ?* Where's the DIY department?
@@ -112,9 +112,9 @@ No way ! Absolutely not !
 | tout le temps | all the time |
 | éventuellement | possibly |
 | la botte | boot |
-| l’imperméable | MASC. raincoat |
+| l’imperméable | *MASC.* raincoat |
 | la merveille | marvel, wonder; *à merveille* perfectly, wonderfully |
-| fou | mad; *FEM* folle |
+| fou | mad; *FEM.* folle |
 | la casquette | cap </br> - *avoir une double casquette* to wear two hats |
 | décoré | decorated; past participle of ***décorer*** to decorate |
 | la plume | feather |
