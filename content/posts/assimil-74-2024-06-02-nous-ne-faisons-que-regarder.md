@@ -23,6 +23,10 @@ cover:
   - *Ce chèque tombe bien: j'ai besoin d'argent.* This cheque has arrived at just the right momment: I need cash.
 - *Ça tombe bien !* That's convenient! / Great timing! The opposite: *Ça tombe mal*
 
+## un bon plan / une bonne affaire
+
+- *Tu es vraiment courageuse d'aller à la chasse aux bonnes affaires.* You're really brave to go bargain-hunting.
+- *Ce n'est pas une question de courage. Il y a des bons plans à saisir partout.* It's not a question of courage. There are good deals to be had (seized) everywhere.
 
 ## quant à
 
@@ -87,7 +91,16 @@ The usual preposition is **à**, so the pronoun is indirect.
 
 No way ! Absolutely not !
 
-- Voulez-vous travailler le week-end ? Do you want to work on the weekend?
+*Voulez-vous travailler le week-end ?* Do you want to work on the weekend?   
+*Il n’en est pas question !* No way!
+
+## amener
+
+to bring; to take
+
+- *Qu'est-ce qui t'amène ?* What brings you here?
+- *Est-ce que je peux amener un ami ?* Can I bring a friend?
+- *Cette route vous amène au village.* This road takes you to the village.
 
 ## Vocabulaire
 
@@ -119,3 +132,5 @@ No way ! Absolutely not !
 | décoré | decorated; past participle of ***décorer*** to decorate |
 | la plume | feather |
 | le bricolage | DIY </br> - *Elle aime le bricolage.* She likes doing DIY. </br> - *un magasin de bricolage* a DIY shop |
+| le rayon | shelf |
+| la lingerie | underwear (women's) |
