@@ -1,5 +1,5 @@
 ---
-title: Allez, au boulot !
+title: 47 Allez, au boulot !
 slug: allez au boulot
 description: « Assimil French » Quarante-septième leçon - Un déménagement
 author: aaron
@@ -8,7 +8,7 @@ categories: ["leçon"]
 series: ["Assimil"]
 tags: ["idioms"]
 cover: 
-    image: https://cdn.jsdelivr.net/gh/lijqhs/cdn@1.6/img/gallery/ca/chris-czermak-0b9eOKZU_dE-unsplash.jpg
+    image: https://cdn.jsdelivr.net/gh/lijqhs/cdn@1.6/img/gallery/s/nick-baker-VuPIUePS_vU-unsplash.jpg
     # hidden: true # hide everywhere but not in structured data
     hiddenInList: true # hide on list pages and home
     # hiddenInSingle: true # hide on single page
