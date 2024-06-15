@@ -39,7 +39,7 @@ stressed pronouns, used for emphasis, especially when a contrast is involved
 
 ## des cheveux
 
-### a number of nouns are plural in French but singular in English:
+### plural in French but singular in English
 
 - *les toilettes*: the toilet
 - *en vacances*: on holiday
@@ -47,7 +47,7 @@ stressed pronouns, used for emphasis, especially when a contrast is involved
   - *Tes cheveux sont trop longs.* Your hair is too long.
   - singular **un cheveu** is used in certain expressions: *avoir un cheveu sur la langue* to have a lisp
 
-### nouns are plural in English but singular in French
+### singular in French but plural in English
 
 - *un jean*: a pair of jeans
   - *Comment est-il habillé ? En costume ? En jean ?* How is he dressed? In a suit? In jeans?
