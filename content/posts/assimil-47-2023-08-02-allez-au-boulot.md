@@ -6,7 +6,7 @@ author: aaron
 date: 2023-08-02
 categories: ["leçon"]
 series: ["Assimil"]
-tags: ["idioms"]
+tags: ["plus", "tout"]
 cover: 
     image: https://cdn.jsdelivr.net/gh/lijqhs/cdn@1.8/img/gallery/s/nick-baker-VuPIUePS_vU-unsplash.jpg
     # hidden: true # hide everywhere but not in structured data
@@ -26,6 +26,7 @@ possibly. (éventuellement does not mean eventually)
 
 - *Je ne connais pas la réponse, mais vous pouvez éventuellement la trouver en ligne.* I don't know the answer but you may be able to find it online.
 - *Nicole vient à la fête demain ? - Éventuellement.* Is Nicole coming to the party tomorrow? - Maybe.
+- *Il ne fera pas le déménagement aujourd'hui, mais éventuellement demain s'il a le temps.* He won't do the move today, but possibly tomorrow if he has time.
 
 eventually: *finalement*, *enfin*
 
@@ -47,6 +48,7 @@ be aware of something
 to invoice, to bill
 
 - *Le plombier m'a facturé six cents euros de l'heure.* The plumber charged me 600 euros an hour.
+- *Mon comptable m'a facturé huit cents euros, mais son tarif normal est plus cher.* My accountant charged me 800 euros, but his normal rate is much more expensive.
 
 prendre: to take
 
@@ -71,6 +73,7 @@ to wait for
 (some verbs taking an indirect object in English require a direct object in French)
 
 - *J'attends Didier et son collègue -> Je les attends* (not Je ~~leur~~ attends)
+- *On est déjà en retard. Je vais chercher le camion en attendant ta belle-sœur.* We're already late. I'll go and fetch the lorry while waiting for your sister-in-law.
 
 ## Allez, au boulot !
 
@@ -79,6 +82,7 @@ work, (countable and uncountable)
 - *J'ai beaucoup de boulot en ce moment.* I've got a lot of work at the moment.
 - *Jeanne commence son nouveau boulot ce lundi.* Jeanne is starting her new job this Monday.
 - *Allez, au boulot !* Let's get cracking!
+- *Vous savez tous ce que vous devez faire. Maintenant, au boulot !* You all know what you have to do. Now, let's get down to work.
 
 ## tout de suite
 
