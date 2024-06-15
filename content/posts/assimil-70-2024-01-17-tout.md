@@ -1,5 +1,5 @@
 ---
-title: Tout
+title: 70 Tout
 slug: Tout
 description: « Assimil French » Soixante-dixième leçon - Révision
 author: aaron

@@ -1,5 +1,5 @@
 ---
-title: French Idioms with Body Parts
+title: 63 French Idioms with Body Parts
 slug: French Idioms with Body Parts
 description: « Assimil French » Soixante-troisième leçon - Révision
 author: aaron

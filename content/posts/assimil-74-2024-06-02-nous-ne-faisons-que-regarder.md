@@ -1,5 +1,5 @@
 ---
-title: Nous ne faisons que regarder
+title: 74 Nous ne faisons que regarder
 slug: Nous ne faisons que regarder
 description: « Assimil French » Soixante quatorzième leçon - Les soldes
 author: aaron
