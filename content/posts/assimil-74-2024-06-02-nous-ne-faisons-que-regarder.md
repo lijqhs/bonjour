@@ -32,7 +32,7 @@ cover:
 
 regard as, as for
 
-- *Quant à lui,k il n'est même pas venu.* As for him, he never came.
+- *Quant à lui, il n'est même pas venu.* As for him, he never came.
 
 This adverb is often used to stress a contrast, in which case it does not need to be translated.
 
