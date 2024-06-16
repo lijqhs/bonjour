@@ -28,9 +28,9 @@ un titre means a title of book, movie, job, etc. by extension, un titre also mea
 [^1]: [Reddit: difference between "le titre de transport", "le ticket", "le billet"](https://www.reddit.com/r/French/comments/ocw1gm/what_is_the_difference_between_le_titre_de/)
 [^2]: [Buying billets or taking tickets](https://blogs.transparent.com/french/buying-billets-or-taking-tickets-confusing-words-in-french/)
 
-## quai vs. voie [^3]
+## quai vs. voie 
 
-*quai* is the boarding/deboarding area for passengers. *voie* is the railway track the train runs on
+*quai* is the boarding/deboarding area for passengers. *voie* is the railway track the train runs on [^3]
 
 - *Le train à destination de Paris arrivera sur la voie 3, quai numéro 5.* The Paris-bound train will arrive on track 3, platform 5.
 - *Le train partira de la voie numéro trois.* The train will depart from platform number three.
@@ -58,16 +58,16 @@ to punch
 
 In France, you have to punch your ticket on the platform to validate it before getting onto the train.
 
-## mauvais vs. mal [^4] [^5]
+## mauvais vs. mal 
 
-- *mauvais*, FEM. *mauvaise*
+- *mauvais*, FEM. *mauvaise* 
   - *une mauvaise note* a bad mark
   - *Tu arrives au mauvais moment.* You've come at a bad time.
   - *Il fait mauvais.* The weather's bad.
   - *être mauvais en* to be bad at
     - *Je suis mauvais en allemand.* I'm bad at German.
   - *Vous avez fait le mauvais numéro.* You've dialled the wrong number.
-- *mal*, FEM./FL. *mal*
+- *mal*, FEM./FL. *mal* [^4] [^5]
   - *Ce travail a été mal fait.* The work was badly done.
   - *Il a mal compris.* He misunderstood.
   - *C'est mal de mentir.* It's wrong to tell lies.
@@ -141,10 +141,10 @@ to be wrong
 - *ne pas être d'accord avec* to disagree with
   - *Je ne suis pas d'accord avec vous.* I disagree with you.
 
-## il vaut mieux [^7] [^8]
+## il vaut mieux 
 
 - *Je suis d'accord, mais il vaut mieux prendre notre mal en patience.* I agree. It's true but it's better to grin and bear it (take our pain in patience).
-- *Il vaut mieux que tu appelles ta mère.* You'd better phone your mother.
+- *Il vaut mieux que tu appelles ta mère.* You'd better phone your mother. [^7] [^8]
 
 [^7]: [«Il faut mieux» ou «il vaut mieux» : ne faites plus la faute !](https://www.lefigaro.fr/langue-francaise/expressions-francaises/2017/06/25/37003-20170625ARTFIG00001-il-faut-mieux-ou-il-vaut-mieux-ne-faites-plus-la-faute.php)
 [^8]: [« il faut mieux » ou « il vaut mieux » ?](https://www.projet-voltaire.fr/regles-orthographe/il-faut-mieux-ou-il-vaut-mieux/)
