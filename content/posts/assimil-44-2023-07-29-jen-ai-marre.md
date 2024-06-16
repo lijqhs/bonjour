@@ -183,5 +183,5 @@ pain, sickness
 | annuler | to cancel / Past Participle: annulé |
 | omnibus | slow train, stopping train | 
 | souci | worry, concern, problem |
-| faux | untrue, fake / FEM. fausse </br> - *un faux billet* a forged ticket (bank note) </br> - *une fausse note (music) a wrong note |
+| faux | untrue, fake / FEM. fausse </br> - *un faux billet* a forged ticket (bank note) </br> - *une fausse note (music)* a wrong note |
 | plutôt | quite, rather, instead |
