@@ -6,7 +6,7 @@ author: aaron
 date: 2024-01-22
 categories: ["leçon", "vocabulaire", "grammaire"]
 series: ["Assimil"]
-tags: ["proverbe", "en", "locution"]
+tags: ["proverbe", "en", "locutions"]
 cover: 
     image: https://cdn.jsdelivr.net/gh/lijqhs/cdn@1.8/img/gallery/fr/anthony-delanoix-QAwciFlS1g4-unsplash.jpg
     # hidden: true # hide everywhere but not in structured data

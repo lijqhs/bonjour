@@ -6,7 +6,7 @@ author: aaron
 date: 2024-01-25
 categories: ["leçon", "vocabulaire", "grammaire"]
 series: ["Assimil"]
-tags: ["locution"]
+tags: ["locutions"]
 cover: 
     image: https://cdn.jsdelivr.net/gh/lijqhs/cdn@1.8/img/gallery/s/al-elmes-ULHxWq8reao-unsplash.jpg
     # hidden: true # hide everywhere but not in structured data
