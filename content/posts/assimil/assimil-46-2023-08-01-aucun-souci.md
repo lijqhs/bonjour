@@ -35,7 +35,7 @@ stressed pronouns, used for emphasis, especially when a contrast is involved
 
 - *Et depuis, je n'ai aucune nouvelle, même pas un petit coup de téléphone.* And since (then) I've had no news, not even a little phone call.
 - *Je n'ai aucune idée.* I have no idea.
-- (idioms) ***Aucun souci*** No problem
+- (idiom) ***Aucun souci*** No problem
 
 ## des cheveux
 
@@ -92,7 +92,7 @@ ADV. near
 trouble
 
 - *avoir de la peine à faire quelque chose* to have trouble doing something
-- (idioms) ***Ce n'est pas la peine.*** Don't bother. Don't worry about it.
+- (idiom) ***Ce n'est pas la peine.*** Don't bother. Don't worry about it.
   - *Vous voulez de l'aide ? - Ce n'est pas la peine, merci.* Do you want help? - Don't bother, but thanks.
 
 ## souci 
@@ -102,7 +102,7 @@ le souci: worry
 - *avoir souci de*, *avoir le souci de* to care about 
 - *par souci de*, *dans un souci de* for the sake of
 - *pas de souci(s)* (informal) no worries
-- (idioms) *Aucun souci* No problem
+- (idiom) *Aucun souci* No problem
 
 ## disparaître
 
@@ -157,6 +157,7 @@ to worry
 | habillé | **dressed** </br> - *Il n'est pas encore habillé.* He's not dressed yet. </br> smart, dressy </br> - *Cette robe fait très habillé.* This dress looks very smart. | 
 | la manche | sleeve |
 | court | short / FEM. courte |
+| l'écharpe | scarf |
 | le cuir | leather |
 | marron | ADJ. brown |
 | la chaussette | sock |
