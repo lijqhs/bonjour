@@ -28,3 +28,11 @@ Steps to create this site:
     - push repo to GitHub
     - modify repo setting to `GitHub Actions`
     - add `.github/workflows/hugo.yaml`, as in [Host on GitHub Pages](https://gohugo.io/hosting-and-deployment/hosting-on-github/)
+
+4. update 
+
+- `git clone ...`
+- `git submodule update --init --recursive`
+- `hugo new content posts/xxxx.md`
+- `zsh update.sh`
+
