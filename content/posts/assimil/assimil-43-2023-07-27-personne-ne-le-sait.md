@@ -135,7 +135,7 @@ Adding the definite article to **bon**, good, changes the meaning slightly, to *
 
 ### indefinite pronouns (pronoms indéfinis)
 
-Indefinite pronouns in French (les pronoms indéfinis) are words that refer to people or things in a general, non-specific way. They do not accompany a noun but stand alone in place of a noun. [ˆ1]
+Indefinite pronouns in French (les pronoms indéfinis) are words that refer to people or things in a general, non-specific way. They do not accompany a noun but stand alone in place of a noun. [^1]
 
 #### Variable Indefinite Pronouns
 
@@ -159,7 +159,7 @@ Others are invariable and do not change form:
 
 Example: *Personne n'a le droit de toucher à ses cheveux.* No one is allowed to touch her hair.
 
-[ˆ1]: [Indefinite Pronouns: Pronoms indéfinis](https://www.lawlessfrench.com/grammar/indefinite-pronouns/)
+[^1]: [Indefinite Pronouns: Pronoms indéfinis](https://www.lawlessfrench.com/grammar/indefinite-pronouns/)
 
 ## Vocabulaire
 
