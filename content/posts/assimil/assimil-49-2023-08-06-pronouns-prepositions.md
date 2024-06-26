@@ -97,8 +97,46 @@ They are used if the personal pronoun is emphasized (hence emphatic) or contrast
 
 ## Prepositions
 
+(Words in bold are also adverbs)
+
+| Prepositions | English meaning | Examples |
+| --- | --- | ---- |
+| à | to | *Passe le carton à Jérôme.* Pass the box to Jérôme. | 
+| **après** | after | *Après vous, madame.* After you, madam. |
+| **avant** | before | *Venez avant neuf heures.* Come before 9 o'clock. |
+| **avec** | with | *Elle sort avec mon meilleur ami.* She's going out with my best friend. |
+| chez | to/at (the home of) | *Je reste chez moi ce soir.* I'm staying at home this evening. |
+| **contre** | against | *Le tableau est contre le mur.* The painting is against the wall. |
+| dans | in | *Ils connaissent un bon restaurant.* They know a good restaurant. |
+| de | of, from | *Sorya vient de Marseille.* Sorya is from Marseille. |
+| **depuis** | since, from | *Je suis là depuis ce matin.* I have been here since this morning. |
+| **derrière** | behind | *Le magasin est derrière l'église.* The shop is behind the church. |
+| **devant** | in front of | *Le louvre est devant vous.* The louvre is in front of you. |
+| en | in | *Êtes-vous libre en avril ou en mai ?* Are you free in April or May? |
+| entre | between | *Il y a un match entre la France et l'Espagne.* There's a match between France and Spain. |
+| par | by | *J'ai réussi à la joindre par téléphone.* I managed to reach her by phone. |
+| pendant | during, for | *Elle a réfléchi pendant quelques secondes.* She thought for a few seconds. |
+| pour | for | *Avez-vous un secret pour le loto ?* Do you have a secret for the lotto? |
+| près de | near | *Ils sont assis près de la fenêtre.* They're sitting near/by the window. |
+| sous | under | *Tes clés sont sous la table.* Your keys are under the table. |
+| sur | on | *On a fait des recherches sur Internet.* We searched on the Internet. |
+| vers | towards | *Il va vers la gare.* He's going towards the station. |
+
+
+
 ## Vocabulaire
 
 | mots | explications |
 | ---- | ------ | 
 | morceau | piece, passage </br> - *un morceau de pain* a piece of bread |
+| pas mal de | quite a lot of |
+| en effet | indeed |
+| l'écran | MASC. screen </br> - *un écran tactile* a touchscreen |
+| recevoir | to receive </br> - *J'ai reçu une lettre.* I received a letter. </br> - je reçois, tu reçois, il/elle reçoit, nous recevons, vous recevez, ils/elles reçoivent |
+| plus de | more, more than </br> - ***Il nous faut plus de pain.*** We need more bread. </br> - *Il y avait plus de dix personnes.* There were more than 10 people. </br> - *plus de 3 heures* more than 3 hours, over 3 hours |
+| en dessous | underneath, below |
+| aussi ... que | as ... as </br> - *aussi grand que moi* as big as me |
+| le tableau | paintings |
+| à mon avis | in my opinion |
+| dernier | last, latest |
+| plutôt que | rather than |
