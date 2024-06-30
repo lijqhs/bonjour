@@ -86,4 +86,5 @@ cover:
 | énerver | *énerver qn* to get on sb's nerves, to annoy sb </br> - ***s'énerver*** to get worked up </br> - *Ne t'énerve pas !* Take it easy! |
 | reposer | to put back down </br> - ***se reposer*** to have a rest |
 | amuser | to amuse </br> - ***s'amuser*** to play, to enjoy oneself </br> - *Les enfants s'amusent dehors.* The children are playing outside. </br> - *On s'est bien amusés.* We really enjoyed ourselves. |
+| quand même | nevertheless, all the same |
 | étonner | to surprise </br> - *Ça ne m'étonne pas !* That doesn't surprise me. </br> - ***s'étonner*** to be surprised </br> - *s'étonner de* to be surprised at </br> - *s'étonner que* to be surprised that |
