@@ -4,7 +4,7 @@ slug: Au restaurant
 description: « Assimil French » Deuxième leçon - Le café
 author: aaron
 date: 2023-05-02
-categories: ["leçon", "vocabulaire"]
+categories: ["leçon"]
 series: ["Assimil", "scène de vie"]
 tags: ["appétit"]
 cover: 

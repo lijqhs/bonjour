@@ -1,10 +1,10 @@
 ---
 title: 04 Avez-vous l'heure ?
-slug: Présentations
+slug: Avez-vous l'heure
 description: « Assimil French » Quatrième leçon - L'heure
 author: aaron
 date: 2023-05-04
-categories: ["leçon", "vocabulaire"]
+categories: ["leçon"]
 series: ["Assimil"]
 tags: ["heure"]
 cover: 

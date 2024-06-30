@@ -4,7 +4,7 @@ slug: Bonjour
 description: « Assimil French » Première leçon - Comment allez-vous ?
 author: aaron
 date: 2023-05-01
-categories: ["leçon", "vocabulaire"]
+categories: ["leçon"]
 series: ["Assimil"]
 tags: ["bonjour", "greetings"]
 cover: 

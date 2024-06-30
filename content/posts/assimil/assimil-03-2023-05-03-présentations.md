@@ -4,7 +4,7 @@ slug: Présentations
 description: « Assimil French » Troisième leçon - Présentations
 author: aaron
 date: 2023-05-03
-categories: ["leçon", "vocabulaire"]
+categories: ["leçon"]
 series: ["Assimil"]
 tags: ["Présentations"]
 cover: 
