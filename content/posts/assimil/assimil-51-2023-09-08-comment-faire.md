@@ -14,6 +14,10 @@ cover:
     # hiddenInSingle: true # hide on single page
 ---
 
+## Hâtez-vous lentement
+
+*Hâtez-vous lentement* (Make haste slowly) is a timeless piece of advice that underscores the harmony between urgency and caution, urging us to proceed with both speed and care. It emphasizes the importance of careful, deliberate action even when speed is necessary.
+
 ## il manque
 
 **manquer**: impersonal verb, intransitive verb
@@ -112,6 +116,7 @@ to find
 - *Je te retrouve au café à trois heures.* I'll meet you at the café at 3 o'clock.
 - ***se retrouver*** to meet up
   - *Ils se sont retrouvés devant le cinéma.* They met up in front of the cinema.
+  - *Pendant ce temps, vous achetez les billets et on se retrouve dans le foyer.* Meanwhile (during this time), you buy the tickets and we meet up in the foyer.
 
 ## se passer
 
@@ -125,6 +130,7 @@ to take place, to happen, to go
 
 | mots | explications |
 | ---- | ------ | 
+| se hâter | to hurry |
 | manquer | to miss </br> - *La pièce commence dans vingt minutes et nous allons manquer le début.* The play starts in twenty minutes and we're going to miss the beginning. |
 | toujours | always, still </br> - *Il est toujours très gentil.* He's always very nice. </br> - *pour toujours* forever |
 | attendre | TRANSITIVE VERB. to wait </br> - *attendre quelqu'un* to wait for someone |
@@ -135,8 +141,10 @@ to take place, to happen, to go
 | prêt | ADJ. ready </br> - *le prêt* loan|
 | près | near </br> - *tout près* nearby </br> - *près de* near </br> - *près d'ici* near here </br> - *de près* closely, nearly </br> - *Il a regardé la photo de près.* He looked closely at the photo. |
 | le côté | side </br> - *à côté de* next to |
-| pendant | during </br> - *pendant ce temps* in the meantime |
+| le tribunal | court |
+| pendant | during </br> - **pendant ce temps** in the meantime |
 | bouger | to move |
+| ni | *(ne ...) ni ... ni ...* neither ... nor ... </br> - *Elles ne sont venues ni l'une ni l'autre.* Neither of them came. |
 | le tiroir | drawer |
 | en bas de | at the bottom of |
 | d'habitude | usually |
