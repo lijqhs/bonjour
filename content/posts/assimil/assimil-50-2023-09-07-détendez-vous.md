@@ -6,7 +6,7 @@ author: aaron
 date: 2023-09-07
 categories: ["leçon"]
 series: ["Assimil"]
-tags: ["pronominal", "réfléchi"]
+tags: ["pronominal verbs", "les verbes réfléchis"]
 cover: 
     image: https://cdn.jsdelivr.net/gh/lijqhs/cdn@1.8/img/gallery/s/sean-pollock-PhYq704ffdA-unsplash.jpg
     # hidden: true # hide everywhere but not in structured data
@@ -21,12 +21,12 @@ cover:
 - *Je connecte mon ordinateur à mon téléphone.* I'm connecting my computer to my phone.
   - *Je me connecte à Internet.* I'm connecting to the internet.
 - *réveiller quelqu'un* to wake somebody up
-  - *se réveiller* to wake up
+  - ***se réveiller*** to wake up
 
 ## se méfier
 
 - *se méfier de quelqu'un* to distrust somebody
-- *se méfier de* to be careful about
+- ***se méfier de*** to be careful about
 - *Elle se méfie des informations qu'elle lit en ligne.* She mistrusts the news that she read online.
 - *Méfiez-vous du chien !* Beware of the dog.
 - *Il faut se méfier de l'eau qui dort.* You need to be wary of water that sleeps. / Still waters run deep.
@@ -56,7 +56,7 @@ cover:
 | mots | explications |
 | ---- | ------ | 
 | ennuyer | to bother </br> - ***s'ennuyer*** to be bored |
-| réveiller | to wake up </br> - *se réveiller* to wake up |
+| réveiller | to wake up </br> - ***se réveiller*** to wake up |
 | écouter | to listen to </br> - *J'aime écouter de la musique.* I like listening to music. |
 | boîte de réception | inbox |
 | télévisé | television |
