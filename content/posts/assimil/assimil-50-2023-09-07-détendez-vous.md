@@ -6,7 +6,7 @@ author: aaron
 date: 2023-09-07
 categories: ["leçon"]
 series: ["Assimil"]
-tags: ["pronominal verbs", "les verbes réfléchis"]
+tags: ["pronominal verbs", "pronouns", "les verbes réfléchis"]
 cover: 
     image: https://cdn.jsdelivr.net/gh/lijqhs/cdn@1.8/img/gallery/s/sean-pollock-PhYq704ffdA-unsplash.jpg
     # hidden: true # hide everywhere but not in structured data
