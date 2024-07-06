@@ -8,7 +8,7 @@ categories: ["leçon"]
 series: ["Assimil"]
 tags: ["pronominal verbs", "pronouns", "les verbes réfléchis"]
 cover: 
-    image: https://cdn.jsdelivr.net/gh/lijqhs/cdn@1.8/img/gallery/s/sean-pollock-PhYq704ffdA-unsplash.jpg
+    image: https://cdn.jsdelivr.net/gh/lijqhs/cdn@1.8/img/gallery/s/lance-anderson-QdAAasrZhdk-unsplash.jpg
     # hidden: true # hide everywhere but not in structured data
     hiddenInList: true # hide on list pages and home
     # hiddenInSingle: true # hide on single page
