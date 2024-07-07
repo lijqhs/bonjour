@@ -118,6 +118,7 @@ all, every
 | paresseux | lazy / MASC. noun: sloth </br> - *Tu es un gros paresseux !* You're a slacker / a lazybones! |
 | gratuit | ADJ. free </br> - *gratuitement* ADV. free|
 | douter | to doubt </br> - *J'en doute* I have my doubts |
+| tenir | to hold, to keep |
 | aimable | kind, nice |
 | la location | renting </br> - *location de voitures* car rental </br> - The French word location does not mean location. </br> - *loyer* rent (payment) </br> - *locataire* tenant </br> - *louer* to rent |
 | lieu | place | 
