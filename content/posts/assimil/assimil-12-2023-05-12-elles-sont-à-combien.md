@@ -37,7 +37,6 @@ Masculine adjectives ending in *er* are changed to feminine by putting a grave a
 ## ça vous fait ...
 
 - *Ça vous fait dix euros vingt.* That makes ten euros twenty.
-- 
 
 Notes:
 - In French, when stating prices, it's common to omit the word for "cents" (*centimes*) when it's clear from context.
