@@ -97,5 +97,5 @@ to be fed up with
 | énerver | *Il m'énerve !* He gets on my nerves! |
 | **sens dessus dessous** | upside down |
 | remarquer | to notice </br> *faire remarquer quelque chose à quelqu'un* to point something out to somebody |
-| plaindre| to pity, feel sorry for / *Je te plains.* I feel sorry for you. </br> ***se plaindre*** to complain / *On ne peut pas se plaindre* Mustn't grumble |
+| plaindre| to pity, feel sorry for / *Je te plains.* I feel sorry for you. </br> ***se plaindre*** to complain </br> - *On ne peut pas se plaindre* Mustn't grumble </br> - *Nous ne sommes heureux que lorsque nous **nous plaignons**.* We're only happy when we're complaining. |
 | fatigant | tiring |
