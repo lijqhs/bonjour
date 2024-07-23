@@ -38,6 +38,7 @@ to be fed up, to be sick and tired
 ## *pour couronner le tout*
 
 - *Pour couronner le tout, j'ai été soigné par un stagiaire, pas un vrai dentiste, et j'ai toujours mal.* To top it all off (crown the all), I was treated by a trainee, not a real dentist, and I'm still in pain.
+- *Le service est débordé et, pour couronner le tout, ils ne répondent plus au téléphone.* The department is overwhelmed and, to top it all off, they're no longer answering the phone.
 
 ## *en avoir marre*
 
