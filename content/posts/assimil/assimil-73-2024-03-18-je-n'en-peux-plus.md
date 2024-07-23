@@ -6,7 +6,7 @@ author: aaron
 date: 2024-03-18
 categories: ["leçon", "vocabulaire"]
 series: ["Assimil"]
-tags: ["dingue", "importe", "idioms"]
+tags: ["dingue", "importe", "idioms", "l'imparfait"]
 cover: 
     image: https://cdn.jsdelivr.net/gh/lijqhs/cdn@1.8/img/gallery/fr/ilnur-kalimullin-ZtdNFSpugQE-unsplash.jpg
     # hidden: true # hide everywhere but not in structured data
@@ -70,6 +70,21 @@ to be fed up with
 - *C'est casse-pieds de changer son mot de passe chaque mois.* It's a drag to change your password every month.
 - *Vous commencez à me fatiguer avec vos questions. Vous êtrs vraiment casse-pieds.* You're beginning to tire me with your questions. You're a real pain in the neck.
 
+## étions
+
+The imperfect tense (l'imparfait in French) is used to describe ongoing or repeated actions in the past, or to set the scene for a narrative. It often translates to "was/were" in English.
+
+| Person/Conjugation | English Translation |
+|--------------------|---------------------|
+| Je étais           | I was               |
+| Tu étais           | You were (singular) |
+| Il/Elle/On était   | He/She/One was      |
+| Nous étions        | We were             |
+| Vous étiez         | You were (plural)   |
+| Ils/Elles étaient  | They were           |
+
+- *Quelle galère ! Nous étions coincés dans les bouchons sur l'autoroute pendant trois heures.* What a pain! We were stuck in traffic jams on the motorway for three hours.
+
 ## Vocabulaire
 
 | mots | explications |
@@ -99,3 +114,5 @@ to be fed up with
 | remarquer | to notice </br> *faire remarquer quelque chose à quelqu'un* to point something out to somebody |
 | plaindre| to pity, feel sorry for / *Je te plains.* I feel sorry for you. </br> ***se plaindre*** to complain </br> - *On ne peut pas se plaindre* Mustn't grumble </br> - *Nous ne sommes heureux que lorsque nous **nous plaignons**.* We're only happy when we're complaining. |
 | fatigant | tiring |
+| le réchauffement | warming <br> - *le réchauffement climatique* global warming |
+| coincé | ADJ. stuck <br> - *coincer* to jam |
