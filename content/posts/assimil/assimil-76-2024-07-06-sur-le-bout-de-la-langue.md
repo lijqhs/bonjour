@@ -21,20 +21,20 @@ The adverbial suffixes -emment and -amment are commonly used to form adverbs fro
 
 The suffix *-emment* is typically added to adjectives that end in *-ent*. For example:
 - *patient* (patient) ➡ *patiemment* (patiently)
-  - *Vous n'êtes pas très **patient** ! - Au contraire, j'attends **patiemment** depuis deux minutes mais votre temps est écoulé.*
+  - Vous n'êtes pas très *patient* ! - Au contraire, j'attends *patiemment* depuis deux minutes mais votre temps est écoulé.
 - *fréquent* (frequent) ➡ *fréquemment* (frequently)
-  - *C'est une question **fréquente** dans ce type of jeux: on la pose **fréquemment**.*
+  - C'est une question *fréquente* dans ce type of jeux: on la pose *fréquemment*.
 - *évident* (evident) ➡ *évidemment* (evidently)
-  - *Et quand on y réfléchit, la réponse est **évidente**: c'est le Rhône, **évidemment** !*
-  - *Pour moi, la réponse est **évidente** mais pas pour vous **évidemment** : c'était Victor Hugo.*
+  - Et quand on y réfléchit, la réponse est *évidente*: c'est le Rhône, *évidemment* !
+  - Pour moi, la réponse est *évidente* mais pas pour vous *évidemment* : c'était Victor Hugo.
 - *récent* (recent) ➡ *récemment* (recently)
-  - *Est-ce un auteur **récent** ? - Non, il n'a rien écrit **récemment** car il est mort depuis presque un siècle et demi.*
+  - Est-ce un auteur *récent* ? - Non, il n'a rien écrit *récemment* car il est mort depuis presque un siècle et demi.
 
 The suffix *-amment* is generally added to adjectives that end in *-ant*. For example:
 - *constant* (constant) becomes *constamment* (constantly).
-  - *Son effort **constant** et le fait qu'il s'entraîne **constamment** ont conduit à son succès.*
+  - Son effort *constant* et le fait qu'il s'entraîne *constamment* ont conduit à son succès.
 - *brillant* (brilliant) becomes *brillamment* (brilliantly).
-  - *On a donc répondu **brillamment** à notre question. C'est nous qui ne sommes pas **brillants** !*
+  - On a donc répondu *brillamment* à notre question. C'est nous qui ne sommes pas *brillants* !
 
 Despite the different spellings, *-emment* and *-amment* are pronounced the same way. The pronunciation is /amɑ̃/, which sounds like "ah-mah(n)" in English. The final "t" is silent.
 
