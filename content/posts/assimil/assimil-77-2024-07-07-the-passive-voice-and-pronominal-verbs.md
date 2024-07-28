@@ -154,3 +154,6 @@ workaround: use ***on***
 | neuf | ADJ. new (FEM. neuve) / number nine <br> - *des chaussures neuves* new shoes |
 | vendre | to sell <br> - *vendre quelque chose à quelqu'un* to sell somebody something <br> - *se vendre* to sell; to sell oneself |
 | actuel | present <br> - *à l'heure actuelle* at the present time <br> - ***actuellement*** at present (*actuellement* does not mean *actually*) |
+| humeur | mood <br> - *Il est de bonne humeur.* He's in a good mood. <br> - *Elle était de mauvaise humeur.* She was in a bad mood. |
+| humour | humour <br> - *avoir de l'humour* to have a sense of humour |
+| vivement | strongly |
