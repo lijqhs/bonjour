@@ -1,12 +1,12 @@
 ---
 title: 76 Je l'ai sur le bout de la langue
 slug: Je l'ai sur le bout de la langue
-description: « Assimil French » Soixante seizième leçon - "Culture générale" le jeu radiophonique
+description: « Assimil French » Soixante-seizième leçon - "Culture générale" le jeu radiophonique
 author: aaron
 date: 2024-07-06
 categories: ["leçon", "vocabulaire", "grammaire"]
 series: ["Assimil"]
-tags: ["prononciation", "passive voice", "le passif"]
+tags: ["prononciation", "passive voice", "dimensions"]
 cover: 
     image: https://cdn.jsdelivr.net/gh/lijqhs/cdn@1.8/img/gallery/ca/chris-czermak-0b9eOKZU_dE-unsplash.jpg
     # hidden: true # hide everywhere but not in structured data
@@ -61,7 +61,7 @@ Despite the different spellings, *-emment* and *-amment* are pronounced the same
 
 In English, we can form passive sentences with both direct and indirect objects. However, in French, the passive voice can only be formed with direct objects. This creates a significant difference in how certain sentences are structured in French compared to English.
 
-### Examples to illustrate:
+### Examples
 
 1. With direct object (works in both languages because "the letter" is a direct object):
 
@@ -77,11 +77,11 @@ In English, we can form passive sentences with both direct and indirect objects.
    - "*On a donné un livre à John.*" (Someone gave a book to John.)
    - Or: "*John a reçu un livre.*" (John received a book.)
 
-### Why this difference exists:
+### Why this difference exists
 
 In French, the passive voice is formed with the verb "*être*" (to be) + the past participle of the main verb. This construction only works with transitive verbs (verbs that take a direct object). Indirect objects in French cannot become the subject of a passive sentence.
 
-### Implications:
+### Implications
 
 1. When translating from English to French, sentences with indirect objects in the passive voice often need to be restructured.
 2. French tends to use active voice more frequently than English, partly due to this limitation.

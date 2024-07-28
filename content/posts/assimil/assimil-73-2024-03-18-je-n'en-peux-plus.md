@@ -1,7 +1,7 @@
 ---
 title: 73 Tout est sens dessus dessous
 slug: Tout est sens dessus dessous
-description: « Assimil French » Soixante treizième leçon - Je n'en peux plus !
+description: « Assimil French » Soixante-treizième leçon - Je n'en peux plus !
 author: aaron
 date: 2024-03-18
 categories: ["leçon", "vocabulaire"]

@@ -6,7 +6,7 @@ author: aaron
 date: 2023-09-08
 categories: ["leçon"]
 series: ["Assimil"]
-tags: ["pronominal verbs", "pronouns", "les verbes réfléchis", "prepositions"]
+tags: ["pronominal verbs", "pronouns", "prepositions"]
 cover: 
     image: https://cdn.jsdelivr.net/gh/lijqhs/cdn@1.8/img/gallery/s/lance-anderson-QdAAasrZhdk-unsplash.jpg
     # hidden: true # hide everywhere but not in structured data
