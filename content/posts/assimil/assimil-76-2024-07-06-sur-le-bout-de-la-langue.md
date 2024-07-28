@@ -100,7 +100,7 @@ to make way for, to give way to
 ## dimensions
 
 - *la hauteur* (height), ADJ. *haut*
-  - *L'horloge de la gare mesure neuf mètres de hauteur.* The station is 9 meters high. (🟰*...neuf mètres de haut.*)
+  - *L'horloge de la gare mesure neuf mètres de hauteur (haut).* The station is 9 meters high.
   - *quatre-vingts centimètres de hauteur* 80 centimetres high
 - *la longueur* (length), ADJ. *long*
   - *un peu plus de cinquante de longueur* a little over 50 in length
