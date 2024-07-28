@@ -68,30 +68,30 @@ The **passé simple** is used to describe completed, sequential, or one-time act
 [^4]: [Passé composé vs Imparfait vs Passé simple](https://www.bonjourcoach.com/post/navigating-french-past-tenses)
 
 
-## Pronounce ‘plus’ correctly
+## Pronounce *plus* correctly
 
 
-When to pronounce the `s` in plus in French: [^5]
+When to pronounce the `s` in *plus* in French: [^5]
 
 [^5]: [Plus pronunciation](https://www.lawlessfrench.com/grammar/plus/)
 
-1. Pronounce the s when plus conveys a positive meaning, such as more and in addition. 
-2. Do not pronounce the s when plus is followed by an adjective or an adverb, usually when you are comparing 2 elements. Or when used in negation.
+1. Pronounce the `s` when *plus* conveys a positive meaning, such as more and in addition. 
+2. Do not pronounce the `s` when *plus* is followed by an adjective or an adverb, usually when you are comparing 2 elements. Or when used in negation.
 3. There are exceptions to the rule.
 
 Here are some examples of when to pronounce the `s` in `plus` in French:
 
 - **Pronounce the s**:
-  + when **plus** means *more*:
+  + when *plus* means **more**:
     * Je veux plus de chocolat s'il vous plaît. (I want more chocolate please)
     * J'ai plus d'argent que toi. (I have more money than you)
     * Il y a plus de gens ici qu'hier. (There are more people here than yesterday)
-  + as a *noun*: 
+  + as a **noun**: 
     * Le plus de cette ville, c'est la nourriture. (The best thing about this city is the food)
     * Ce stage est un plus pour ta carrière. (That course is a plus for your career)
 
 - **Do not pronounce the s**:
-  + in comparative form or superlative form (*le plus*) if the adjective it precedes starts with a *consonant*:
+  + in *comparative* form or *superlative* form (*le plus*) if the adjective it precedes starts with a consonant:
     * Je suis plus grand que toi. (I am taller than you)
     * C'était le plus intéressant. (That was the most interesting)
   + used in the negation **ne...plus**:
@@ -106,7 +106,7 @@ Here are some examples of when to pronounce the `s` in `plus` in French:
     * C'était plus intéressant que je ne pensais. (It was more interesting than I thought.)
   + when it's the last word in a phrase, `s` is pronounced:
     * J'aime ça plus. (I like that more)
-  + **plus que**, `s` is pronounced:
+  + ***plus que***, `s` is pronounced:
     * Elle étudie plus que moi. (She studies more than I do)
 
 
