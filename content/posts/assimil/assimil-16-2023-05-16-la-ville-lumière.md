@@ -61,4 +61,5 @@ Some word endings that are typically masculine, even when ending in -e:
 | vieux | old <br> FEM. *vieille* (*vieil*), MASC pl. *vieux*, FEM pl. *vieilles* |
 | construire | to build <br> P.P. [*construit*](https://www.collinsdictionary.com/conjugation/french/construire) |
 | derrière | behind |
+| l'endroit | place <br> - *C'est un endroit très tranquille.* It’s a very quiet place. |
 | le côté | side <br> *à côté de* next to <br> - *Il habite à côté de chez moi.* He lives next door to me. <br> *de l'autre côté* on the other side <br> *de chaque côté* on each side |
