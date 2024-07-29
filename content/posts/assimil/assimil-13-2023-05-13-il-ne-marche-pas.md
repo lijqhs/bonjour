@@ -8,7 +8,7 @@ categories: ["leçon", "vocabulaire"]
 series: ["Assimil"]
 tags: ["qu'est-ce", "marcher", "savoir", "connaître"]
 cover: 
-    image: https://cdn.jsdelivr.net/gh/lijqhs/cdn@1.8/img/gallery/s/lidya-nada-MD_ha01Bk7c-unsplash.jpg
+    image: https://cdn.jsdelivr.net/gh/lijqhs/cdn@1.8/img/gallery/s/pineapple-supply-co-qWlkCwBnwOE-unsplash.jpg
     # hidden: true # hide everywhere but not in structured data
     hiddenInList: true # hide on list pages and home
     # hiddenInSingle: true # hide on single page
