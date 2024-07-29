@@ -8,7 +8,7 @@ categories: ["leçon", "vocabulaire"]
 series: ["Assimil"]
 tags: ["genders"]
 cover: 
-    image: https://cdn.jsdelivr.net/gh/lijqhs/cdn@1.8/img/gallery/fr/anthony-delanoix-QAwciFlS1g4-unsplash.jpg
+    image: https://cdn.jsdelivr.net/gh/lijqhs/cdn@1.8/img/gallery/fr/florian-wehde-milUxSbp4_A-unsplash.jpg
     # hidden: true # hide everywhere but not in structured data
     hiddenInList: true # hide on list pages and home
     # hiddenInSingle: true # hide on single page
