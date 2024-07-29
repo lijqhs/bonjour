@@ -36,7 +36,6 @@ Most of French words ending in *-e* are feminine. However, this is not an absolu
    - *le musée* (museum)
    - *le lycée* (high school) 
    - *le trophée* (trophy)
-   - *le mausolée* (mausoleum)
 
 2. Masculine endings:
 Some word endings that are typically masculine, even when ending in -e:
