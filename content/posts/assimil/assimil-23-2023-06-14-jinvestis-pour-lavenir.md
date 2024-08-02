@@ -48,11 +48,19 @@ always, still
 
 Second-group verbs ending in *-ir* are characterised by their present participle, which ends in ***-issant***
 
-- finir -> finissant
-- applaudir -> applaudissant
-- réussir -> réussissant
+- finir ➡ finissant
+- applaudir ➡ applaudissant
+- réussir ➡ réussissant
+- saisir ➡ saisissant
+- investir ➡ investissant
 
 *Il choisit tous les numéros **finissant** par huit.* He chooses all the numbers finishing in eight.
+
+### other words ending with *-ir* in the lesson
+
+- servir ➡ servant
+- venir ➡ venant
+- voir ➡ voyant
 
 ## Vocabulaire
 
@@ -63,6 +71,8 @@ Second-group verbs ending in *-ir* are characterised by their present participle
 | chiffre | figure, digit / *le chiffre sept* the figure 7 |
 | numéro | number / *un numéro* refers to a specific unit such as *a phone number* or *a house number*: *numéro de téléphone / de maison* |
 | nombre | number / *Un nombre peut être composé d’un ou de plusieurs chiffres* [^2] |
+| l'avenir | future |
+| un de ces ... | such a ... |
 
 [^1]: [Croque Monsieur vs. Croque Madame: What's the Difference?](https://www.allrecipes.com/article/croque-monsieur-vs-croque-madame/)
 [^2]: [Comprendre la différence entre chiffre, nombre et numéro](https://yolainebodin.com/fr/le-coin-langues/francais/difference-entre-chiffre-nombre-et-numero)
