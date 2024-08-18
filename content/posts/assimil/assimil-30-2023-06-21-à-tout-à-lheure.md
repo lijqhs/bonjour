@@ -8,14 +8,14 @@ categories: ["leçon", "vocabulaire"]
 series: ["Assimil"]
 tags: ["-re"]
 cover: 
-    image: https://cdn.jsdelivr.net/gh/lijqhs/cdn@1.8/img/gallery/s/markus-spiske-BTKF6G-O8fU-unsplash.jpg
+    image: https://cdn.jsdelivr.net/gh/lijqhs/cdn@1.8/img/gallery/fr/veronica-reverse-pT6Wo9tQb7A-unsplash.jpg
     # hidden: true # hide everywhere but not in structured data
     hiddenInList: true # hide on list pages and home
     # hiddenInSingle: true # hide on single page
 # draft: true
 ---
 
-## *-re* sub-category verbs
+## *-re* verbs
 
 | Verb      | Meaning                     | Example Sentence                                   |
 |-----------|-----------------------------|----------------------------------------------------|
