@@ -102,6 +102,6 @@ The French phrase "Je vous en prie" is a polite expression that translates to "Y
 | tant | so much |
 | pire | ADJ. worse |
 | tant pis | too bad, never mind |
-| prier | to pray to [^1] |
+| prier | to pray to [^3] |
 
 [^3]: [je vous en prie](https://www.collinsdictionary.com/dictionary/french-english/prier)

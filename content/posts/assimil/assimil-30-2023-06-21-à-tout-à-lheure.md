@@ -17,6 +17,8 @@ cover:
 
 ## *-re* verbs
 
+The first sub-category of third-group verbs.
+
 | Verb      | Meaning                     | Example Sentence                                   |
 |-----------|-----------------------------|----------------------------------------------------|
 | vendre    | to sell                     | Je vends ma voiture. (I'm selling my car.)        |
