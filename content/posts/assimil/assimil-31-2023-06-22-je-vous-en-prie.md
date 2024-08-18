@@ -66,6 +66,29 @@ to avoid repetition of a noun
 - *Tous mes clients en sont contents, enfin, presque tous...* All my customers are happy, well almost all...
 - *Vous en avez besoin aujourd'hui ? Sinon, je peux en commander une pour demain.* You need one today? If not, I can order one for tomorrow.
 
+## *Je vous en prie*
+
+The French phrase "Je vous en prie" is a polite expression that translates to "You're welcome" or "Please, go ahead" in English. [^1]
+
+### Usage
+
+1. **As a Response to Thanks**:
+   - "Je vous en prie" is commonly used as a response when someone thanks you. It conveys that you are happy to help and that their gratitude is appreciated.
+   - Example: 
+     - A: Merci pour votre aide! (Thank you for your help!)
+     - B: Je vous en prie! (You're welcome!)
+
+2. **Encouraging Action**:
+   - It can also be used to encourage someone to proceed with something, similar to saying "Please, go ahead" or "Feel free."
+   - Example:
+     - A: Puis-je entrer? (May I come in?)
+     - B: Oui, je vous en prie! (Yes, please, go ahead!)
+
+### Variations
+
+- **Je t'en prie**: This is the informal version used with friends or family (using "tu" instead of "vous").
+- **Il n'y a pas de quoi**: Another way to say "You're welcome," which literally means "There is nothing to it."
+
 ## Vocabulaire
 
 | mots | explications |
@@ -79,3 +102,6 @@ to avoid repetition of a noun
 | tant | so much |
 | pire | ADJ. worse |
 | tant pis | too bad, never mind |
+| prier | to pray to [^1] |
+
+[^1]: [je vous en prie](https://www.collinsdictionary.com/dictionary/french-english/prier)
