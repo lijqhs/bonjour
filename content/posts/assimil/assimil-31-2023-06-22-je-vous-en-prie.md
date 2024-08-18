@@ -68,7 +68,7 @@ to avoid repetition of a noun
 
 ## *Je vous en prie*
 
-The French phrase "Je vous en prie" is a polite expression that translates to "You're welcome" or "Please, go ahead" in English. [^1]
+The French phrase "Je vous en prie" is a polite expression that translates to "You're welcome" or "Please, go ahead" in English. [^3]
 
 ### Usage
 
@@ -104,4 +104,4 @@ The French phrase "Je vous en prie" is a polite expression that translates to "Y
 | tant pis | too bad, never mind |
 | prier | to pray to [^1] |
 
-[^1]: [je vous en prie](https://www.collinsdictionary.com/dictionary/french-english/prier)
+[^3]: [je vous en prie](https://www.collinsdictionary.com/dictionary/french-english/prier)
