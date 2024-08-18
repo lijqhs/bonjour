@@ -88,3 +88,12 @@ In French, the verb "avoir" (to have) is used in many idiomatic expressions wher
 | avoir mal à       | to have pain in    | J'ai mal à la tête. (I have a headache.) |
 
 
+## Vocabulaire
+
+| mots | explications |
+| ---- | ---- |
+| oublier | to forget, to leave <br> - *oublier de faire qch* to forget to do sth <br> - *oublier l'heure* to forget the time <br> - *J'ai oublié mon sac chez Sabine.* I left my bag at Sabine's. |
+| remplir | to fill up, to fill in <br> - *Elle a rempli son verre de vin.* She filled up her glass with wine. <br> - *Tu as rempli ton formulaire ?* Have you filled in your form? |
+| la grille | wire fence, metal gate, grid |
+| le ventre | stomach <br> - *avoir mal au ventre* to have stomachache |
+| tout à fait | absolutely |
