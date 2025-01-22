@@ -1,7 +1,7 @@
 ---
 title: 52 Vous me manquez
 slug: vous-me-manquez
-description: Cinquante-deuxième leçon - Nous nous sommes bien amusés !
+description: « Assimil French » Cinquante-deuxième leçon - Nous nous sommes bien amusés !
 author: aaron
 date: 2023-09-09
 categories: ["leçon"]

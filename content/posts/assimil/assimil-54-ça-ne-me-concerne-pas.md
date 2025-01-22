@@ -1,7 +1,7 @@
 ---
 title: 54 Ça ne me concerne pas
 slug: ça-ne-me-concerne-pas
-description: Cinquante-quatrième leçon - Votez pour moi, vous ne le regretterez pas...
+description: « Assimil French » Cinquante-quatrième leçon - Votez pour moi, vous ne le regretterez pas...
 author: aaron
 date: 2023-09-11
 categories: ["leçon"]

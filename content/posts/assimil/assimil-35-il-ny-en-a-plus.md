@@ -6,7 +6,7 @@ author: aaron
 date: 2023-06-26
 categories: ["leçon", "vocabulaire", "grammaire"]
 series: ["Assimil"]
-tags: [y, en, pronouns]
+tags: ["y", en, pronouns]
 cover: 
     image: https://cdn.jsdelivr.net/gh/lijqhs/cdn@1.6/img/gallery/ca/chris-czermak-0b9eOKZU_dE-unsplash.jpg
     # hidden: true # hide everywhere but not in structured data
