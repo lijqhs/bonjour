@@ -78,8 +78,8 @@ Key points about Group 1 verbs:
 1. The endings for each person are: -e, -es, -e, -ons, -ez, -ent.
 2. The verb stem (radical) remains the same for all persons, except for some spelling changes to maintain pronunciation.
 3. Some verbs like "manger" add an 'e' before the -ons ending in the nous form to keep the soft 'g' sound.
-4. Verbs ending in -yer (like "envoyer") change 'y' to 'i' before a silent 'e'.
+4. Verbs ending in `-yer` (like "envoyer") change 'y' to 'i' before a silent 'e'.
 
 Example in a sentence:
-"Je parle français, tu parles anglais, et nous parlons espagnol ensemble."
+*"Je parle français, tu parles anglais, et nous parlons espagnol ensemble."*
 (I speak French, you speak English, and we speak Spanish together.)

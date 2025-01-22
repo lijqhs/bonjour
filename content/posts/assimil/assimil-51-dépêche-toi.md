@@ -1,6 +1,6 @@
 ---
-title: 51 Comment faire ?
-slug: Comment faire
+title: 51 Dépêche-toi
+slug: dépêche-toi
 description: « Assimil French » Cinquante et unième leçon - Hâtez-vous lentement !
 author: aaron
 date: 2023-09-08
