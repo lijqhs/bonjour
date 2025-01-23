@@ -3,7 +3,7 @@ title: 61 Petit à petit
 slug: petit-à-petit
 description: « Assimil French » Soixantième et unième leçon - La célébrité ne me dit pas grand-chose
 author: aaron
-date: 2023-09-20
+date: 2023-09-21
 categories: ["leçon"]
 series: ["Assimil"]
 tags: [locutions, idioms]
