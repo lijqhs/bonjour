@@ -6,7 +6,7 @@ author: aaron
 date: 2023-09-18
 categories: ["leçon"]
 series: ["Assimil"]
-tags: [l'imparfait, "y", "ne...que"]
+tags: [idioms]
 cover: 
  image: https://cdn.jsdelivr.net/gh/lijqhs/cdn@1.8/img/gallery/fr/bruno-abatti-mEfIhOTH27w-unsplash.jpg
  # hidden: true # hide everywhere but not in structured data
