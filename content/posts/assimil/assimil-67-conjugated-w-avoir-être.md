@@ -40,6 +40,28 @@ Others: sortir, passer, monter, descendre, ... [^1]
 - *J'**ai même sorti son petit chien** pour le promener.* I even took out her little dog to walk it.
 - *Après, j'**ai passé l'aspirateur**, fait un peu de ménage et rangé le désordre.* After, I passed the vacuum cleaner, did a bit of housework and cleared up the mess.
 
+
+## *être en train de faire quelque chose*
+
+to be doing something
+
+- *Je suis passé chez elle tout à l'heure, mais elle était en train de passer l'aspirateur.* I stopped by her house earlier, but she was using the vacuum cleaner.
+- *Il est en train de manger.* He’s eating.
+
+
+## *monter*
+
+## Common Usage of "Monter" in French
+
+| Context | Example | Translation |
+|---------|---------|-------------|
+| To Go Up/Climb | *Monter l'escalier* | Climb the stairs |
+| Get On/Into Vehicle | *Monter dans la voiture* | Get into the car |
+| Ride | *Monter à cheval* | Ride horseback |
+| Assemble | *Monter une tente* | Pitch a tent |
+| Increase | *Le prix monte* | The price rises |
+
+
 ## Vocabulaire
 
 
@@ -56,7 +78,10 @@ Others: sortir, passer, monter, descendre, ... [^1]
 | identifiant | login (on a computer) | 
 | **retourner** | *to return, to go back (to)*, (intransitive) </br> - *Je **suis retournée** avant-hier et j'ai regardé partout, sur les étagères, dans ses classeurs et ses boîtes de rangement, mais je n'**ai rien trouvé**.* I went back before yesterday and I looked everywhere, on the shelves, in her filing cabinets and storage boxes, but I didn't find anything. </br> *to turn over, up, etc* (transitive) </br> - *Retournez le poisson au bout de deux minutes et ajoutez les légumes.* Turn the fish over after two minutes and add the vegetables. </br> - *En dernier ressort, j'**ai retourné son tapis** de souris.* As a last resort, I turned over her mouse mat (carpet). | 
 | rangement | tidying up </br> - *faire des rangements* to tidy up </br> - *espace de rangement* storage space | 
+| la souris | mouse |
 | coller | to stick </br> - *Bingo ! Les codes et les mots de passe étaient collés là-dessous.* Bingo! The code and passwords were glued underneath. | 
 | là-dessous | under there </br> - *Il s’est caché là-dessous.* He hid under there. | 
 | passer | to cross, to go through, to spend, to take, to pass, to show, to call in </br> - *Qu'est ce que se passe ? - Le bus passe dans quelques minutes. Passe-moi mon manteau.* What's happening? - The bus is coming by in a few minutes. Hand me my coat. | 
 | souvenir | memory </br> **se souvenir** to remember </br> - *se souvenir de qn/qch* to remember sb/sth </br> - *Je me souviens qu’il neigeait ce jour-là.* I remember it was snowing that day. </br> - *Souviens-toi : "L'encre la plus pâle vaut mieux que la meilleure mémoire."* Remember: "The palest ink is better than the best memory." | 
+| la valise | suitcase |
+| le courrier | mail </br> - *le courrier électronique* email |

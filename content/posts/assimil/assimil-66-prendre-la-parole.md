@@ -43,6 +43,7 @@ cover:
 | serre | greenhouse </br> - *l’effet de serre* the greenhouse effect | 
 | net | clear, *FEM nette* </br> - *L'image n’est pas nette.* The picture isn’t very clear. </br> see [**nettoyer**](https://www.collinsdictionary.com/dictionary/french-english/nettoyer) to clean | 
 | ramener | to bring back, to take home </br> - *J’ai ramené mes copains à la maison pour regarder le match.* I brought my friends back to my place to watch the match. </br> - *Tu me ramènes ?* Will you take me home? </br> - *Maintenant, deux autocars attendent dehors pour vous ramener à la maison.* Now, two coaches are waiting outside to take you home. | 
+| *amener* | to bring </br> - *Est-ce que je peux amener un ami ?* Can I bring a friend? |
 | **prendre qch/qn au sérieux** | to take sth/sb seriously </br> - *C'est bien ce que nous pensions ! Vous ne nous prenez pas au sérieux.* That's exactly what we thought! You don't take us seriously. | 
 | de toute façon | anyway, in any case | 
 
