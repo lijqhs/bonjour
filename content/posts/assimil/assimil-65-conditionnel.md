@@ -50,6 +50,28 @@ It's important to note that irregular verbs have their own conjugation patterns 
 
 It's worth mentioning that the conditional mood can also be used in *si* clauses (conditional sentences) to express hypothetical or unreal conditions. For example: "*Si j'avais plus d'argent, j'achèterais une nouvelle voiture*" (If I had more money, I would buy a new car).
 
+## *coûter une fortune*
+
+to cost a fortune
+
+1. "Ces chaussures de marque coûtent une fortune !" 
+   (These brand-name shoes cost a fortune!)
+
+2. "Les réparations de ma voiture m'ont coûté une fortune cette année."
+   (The repairs to my car cost me a fortune this year.)
+
+3. "Un iPhone dernier modèle coûte vraiment une fortune."
+   (The latest iPhone model really costs a fortune.)
+
+4. "La chirurgie plastique peut coûter une fortune aux États-Unis."
+   (Plastic surgery can cost a fortune in the United States.)
+
+5. "Élever des enfants à Toronto coûte une fortune."
+   (Raising children in Toronto costs a fortune.)
+
+6. "Les études universitaires privées coûtent une fortune."
+   (Private university studies cost a fortune.)
+
 
 ## Vocabulaire
 
@@ -70,7 +92,9 @@ It's worth mentioning that the conditional mood can also be used in *si* clauses
 | d’ailleurs | besides </br> **ailleurs** somewhere else </br> - *Je n’ai pas vu le feu rouge, j’avais la tête ailleurs.* I didn’t see the red light, my mind was elsewhere. | 
 | huppé | posh, very rich | 
 | **pareil** | the same </br> - *Ces deux maisons ne sont pas pareilles.* These two houses aren’t the same. </br> **la même chose** | 
+| ailleurs | somewhere else </br> - *par ailleurs (= d’autre part)* moreover / furthermore |
 | conseiller | to advise </br> - *Il a été mal conseillé.* He has been badly advised. </br> - *Il m’a conseillé ce livre.* He recommended this book to me. </br> - *Qu'est-ce que tu me conseillerais, toi ?* What would you advise me (you)? | 
+| prêt | ready </br> - *Tu es prête ?* Are you ready? </br> - *prêt à faire* ready to do |
 | **n'importe** | no matter, any </br> - *n'importe où* anywhere / *Je serais prête à aller n'importe où.* I would be ready to go anywhere. </br> - *n'importe quand* any time / *Tu peux venir n'importe quand.* You can come any time. </br> - *n'importe quoi* anything / *Je ferais n'importe quoi pour elle.* I’d do anything for her. </br> - *n'importe qui* anybody, anyone / *N’importe qui peut faire ce boulot.* Anybody can do this job. Anyone can do this job. </br> - *n'importe comment* any way / *On peut le positionner n'importe comment ?* Can you put it in any position? | 
 | **tirer des leçons** | to learn from one's mistakes, to draw lessons </br> - *Ça serait une bonne occasion de tirer des leçons pour l'avenir, n'est-ce pas ?* It would be a good opportunity to learn lessons for the future, wouldn't it? | 
 | l’avenir | future </br> - *à l’avenir* in future </br> - *sans avenir* with no future, without a future </br> - *un métier d’avenir* a job with prospects | 
