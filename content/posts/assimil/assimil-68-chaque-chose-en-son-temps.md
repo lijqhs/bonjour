@@ -44,14 +44,33 @@ For descriptions of people or other living things:
 - *un(e) aveugle* a blind man/woman
 - *un(e) sourd(e)* a deaf man/woman
 
-## que ce soit
+## *courir à droite et à gauche*
+
+The French expression "courir à droite et à gauche" is an idiomatic phrase that describes being very busy, running around doing many things, or going from place to place. This expression emphasizes the idea of being constantly on the move, often in a hectic or busy manner.
+
+Example Sentences:
+
+1. "Je cours à droite et à gauche toute la journée pour préparer la fête."
+   (I'm running around all day preparing for the party.)
+
+2. "Ma mère court à droite et à gauche pour finir ses courses avant Noël."
+   (My mother is rushing around to finish her shopping before Christmas.)
+
+3. "Arrête de courir à droite et à gauche et prends le temps de te reposer !"
+   (Stop running around and take time to rest!)
+
+4. "Avec trois enfants, je passe mon temps à courir à droite et à gauche."
+   (With three children, I spend my time running around everywhere.)
+
+
+## *que ce soit*
 
 
 *soit* is the third person singular subjunctive of *être*. The phrase *...que ce soit* preceded by a pronoun like *qui*, *quoi* or *où*, has the indefinite sense of *any+pronoun*:
 - *La règle est la même, où que ce soit en France.* The rule is the same, anywhere in France.
 - *qui que ce soit* whoever it may be
 
-## mort de rire
+## *mort de rire*
 
 The French sentence "Je ne suis pas morte de rire" translates to "I did not die laughing" in English. The sentence is a negation of the phrase "mourir de rire" which means "to die laughing". The sentence is often used to indicate that something is not funny or amusing.
 - *mourir de rire = MDR* LOL
@@ -82,9 +101,10 @@ The French sentence "Je ne suis pas morte de rire" translates to "I did not die 
 | voyant | *=personne qui voit* sighted person </br> *non-voyant* visually impaired person </br> - *Par example, on ne dit plus un aveugle mais un "non-voyant".* For instance, we no longer say "a blind (person)" but a "non-sighted (person)". |
 | malentendant | *les malentendants* the hard of hearing </br> - *et "un malentendant" est plus juste que "un sourd", tu comprends ?* and "a hearing impaired (bad-hearer) (person) is more accurate than "a deaf (person)", you understand? |
 | déposer | to leave, to put down </br> - *J'ai déposé mon sac à la consigne.* I left my bag at the left-luggage office. </br> - *Déposez le paquet sur la table.* Put the parcel down on the table. </br> - *déposer quelqu'un* to drop somebody off / *Une amie m'a déposée ici en voiture mais je vais rentrer en train.* |
-| l'horaire | timetable </br> -  *Je crois qu'il y en a un vers dix-huit heures. Avez-vous un horaire ?* I think that there is one around 6pm. Do you have a timetable? |
+| l'horaire | n.m. timetable </br> -  *Je crois qu'il y en a un vers dix-huit heures. Avez-vous un horaire ?* I think that there is one around 6pm. Do you have a timetable? |
 | circuler | to drive, to run </br> -  *Circuler dans Paris, ce n'est pas facile.* Driving in Paris isn't easy. </br> -  *Oui il circule toutes les heures **dès** treize heure. Je t'**amènerai** à la gare.* Yes, it runs every hour from 1 pm onwards. I'll take you to the station. |
 | amener | to bring, to take </br> -  *Qu'est-ce qui t'amène ?* What brings you here? </br> -  *amener qn à qch* to lead sb to sth </br> -  *Cette route vous amène au village.* This road takes you to the village.|
 | au fait | by the way </br> - *Au fait, tu as aimé le film d'hier ?* By the way, did you enjoy the film yesterday? </br> - *Merci, je reviendrai dès que possible, c'est promis. Au fait, peux-tu me prêter vingt euros ?* Thanks, I'll come back as soon as possible, I promise (it's promised). By the way, can you lend me twenty euros? |
+| autrement | differently, otherwise </br> - *autrement dit* in other words |
 | fauché | broke (sans argent) </br> - *Je suis temporairement sans ressources. Autrement dit, fauchée.* I'm temporarily without resources. In other words, broke. </br> *faucher* to cut, to mow, to cut down | 
 | toutes les heures | every hour, hourly </br> *tous les jours* every day </br> *tous les deux jours* every two days </br> *toutes les fois* every time |
