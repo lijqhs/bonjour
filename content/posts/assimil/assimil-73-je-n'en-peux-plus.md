@@ -95,6 +95,7 @@ The imperfect tense (l'imparfait in French) is used to describe ongoing or repea
 | en mauvais état | in poor condition |
 | une rage de dents | raging toothache </br> - *Avant-hier, je me réveille en pleine nuit en mauvais état avec une rage de dents.* | 
 | armoire | cupboard, wardrobe, closet |
+| armoire à pharmacie | medicine cabinet, medicine chest |
 | soulager | to relieve |
 | la douleur | pain | 
 | devoir | to have to </br> - *J'ai **dû** attendre le matin pour appeler mon dentiste* I had to wait until the morning to call my dentist |
@@ -103,9 +104,11 @@ The imperfect tense (l'imparfait in French) is used to describe ongoing or repea
 | vouloir | Past Participle: *voulu* |
 | le bouchon | cork, stopper, hold up </br> *Il y avait beaucoup de bouchons sur l'autoroute.* There were a lot of hold-ups on the motorway. |
 | débordé | *être débordé* to be snowed under / very busy, overwhelmed with work or tasks |
+| patienter | to wait </br> - *Veuillez patienter un instant, s’il vous plaît.* Please wait a moment. |
 | galère | galley / *quelle galère !* what a pain! |
 | casser | to break </br> *casser le pieds* break the feet </br> *J'ai cassé un verre.* I've broken a glass. </br> *se casser la tête* (INFORMAL) to go to a lot of trouble </br> *casser les prix* to slash prices | 
-| couronner | to crown |
+| assurance maladie | state health cover ≈ National Health Service |
+| couronner | to crown </br> - *couronner un champion* to crown a champion |
 | soigner | to look after (ill person, animal) |
 | stagiaire | trainee (noun, adj) </br> *un professeur stagiaire* a trainee teacher |
 | **dingue** | crazy, incredible, unbelievable, extraordinary </br> *Les prix dans ce restaurant sont dingues !* That restaurant charges unbelievable prices! </br> *C'est un dingue de moto* He's a motorcycle nut | 
@@ -113,7 +116,8 @@ The imperfect tense (l'imparfait in French) is used to describe ongoing or repea
 | énerver | *Il m'énerve !* He gets on my nerves! |
 | **sens dessus dessous** | upside down |
 | remarquer | to notice </br> *faire remarquer quelque chose à quelqu'un* to point something out to somebody |
-| plaindre| to pity, feel sorry for / *Je te plains.* I feel sorry for you. </br> ***se plaindre*** to complain </br> - *On ne peut pas se plaindre* Mustn't grumble </br> - *Nous ne sommes heureux que lorsque nous **nous plaignons**.* We're only happy when we're complaining. |
+| plaindre | to pity, feel sorry for / *Je te plains.* I feel sorry for you. </br> ***se plaindre*** to complain </br> - *On ne peut pas se plaindre* Mustn't grumble </br> - *Nous ne sommes heureux que lorsque nous **nous plaignons**.* We're only happy when we're complaining. |
 | fatigant | tiring |
+| se remonter le moral | to cheer oneself up |
 | le réchauffement | warming <br> - *le réchauffement climatique* global warming |
 | coincé | ADJ. stuck <br> - *coincer* to jam |
