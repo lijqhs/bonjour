@@ -73,6 +73,7 @@ Another way to avoid the passive is with the pronominal verb form in the third p
 | un pot de départ | a farewell drinks party |
 | souhaiter | to wish </br> - ***souhaiter faire qch*** to hope to do sth </br> - ***souhaiter qch à qn*** to wish sb sth </br> - *Il souhaite aller à l'université.* He wishes to go to university. </br> - *Nous vous souhaitons une bonne année.* We wish you a happy New Year. |
 | dans les années à venir | in the years to come |
+| Depuis combien de temps | How long </br> - *Depuis combien de temps est-ce que vous le connaissez ?* How long have you known him? </br> - *Depuis quand ?* How long? |
 | gérer | to manage / *je gère, tu gères, il/elle gère, nous gérons, vous gérez, ils/elles gèrent* |
 | **depuis de lustres** | for a long time, for ages / The word "lustre" in this context refers to a period of five years </br> - *Il est ici depuis des lustres.* He's been here for ages. |
 | exagérer | to exaggerate, to go too far </br> - *Il ne faut pas exagérer.* Let's not exaggerate. |
@@ -85,8 +86,10 @@ Another way to avoid the passive is with the pronominal verb form in the third p
 | embaucher | to take on, to hire </br> - *L'entreprise vient d'embaucher cinquante personnes.* The firm has just taken on fifty new people. </br> - *Éric a postulé et on l'a embauché aussitôt.* Éric applied and was hired right away. |
 | aussitôt | (adverb) formed from *aussi* as and *tôt* early. an elegant way of saying *straight away, immediately* / *immédiatement* </br> - *La neige est tombée cette nuit mais a disparu aussitôt.* The snow fell last night but disappeared immediately. </br> - ***Aussitôt dit, aussitôt fait.*** No sooner said than done. |
 | humeur | mood </br> - *Il est de bonne humeur.* He's in a good mood. |
+| à part | apart from, except for </br> - *Ils sont tous venus, à part Christian.* They all came, except Christian. |
 | traiteur | caterer | 
 | four | oven |
+| petit four | [petit four](https://en.wikipedia.org/wiki/Petit_four) (any of various very small rich sweet cakes and biscuits, usually decorated with fancy icing, marzipan, etc) |
 | salé | salty, salted, savoury |
 | sucré | sweet |
 | livrer | to deliver </br> - *Des petits fours salés et sucrés seront livrés vers onze heures, onze heures trente au plus tard.* Savoury (salted) and sweet (sugared) petits-fours (little ovens) will be delivered around 11am, 11.30 at the latest. |
