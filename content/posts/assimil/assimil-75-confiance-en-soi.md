@@ -135,6 +135,20 @@ not only
 | mettre    | To put/place, to wear, to set    | Je mets le livre sur la table.               |
 | se mettre | To start doing, to place oneself | Il se met à travailler.                      |
 
+The French expression "mettre à" has multiple meanings and uses, primarily indicating the start of an action or a specific way of placing or positioning something:
+
+## **Mettre à**
+
+### 1. Beginning an Action
+"Mettre à" often signifies **starting** or **beginning** to do something. For example:
+- Se mettre à travailler (to start working)
+- Se mettre à rire (to start laughing)
+
+### 2. Positioning or Placing
+The expression can also mean to place or position something:
+- Mettre à l'heure (to set to the time)
+- Mettre à niveau (to upgrade, particularly in technical contexts)
+- Mettre à jour (to update)
 
 
 ## Vocabulaire
@@ -155,6 +169,7 @@ not only
 | décerner | to award |
 | ensemble | ADV. together; Noun, set, outfit, unity <br> *l'ensemble de* the whole of |
 | eu | P.P. *avoir* <br> - *J'ai eu une bonne note.* I got a good mark. <br> - *Vous avez eu une vie fabuleuse, n'est-ce pas ?* You've had a fabulous life, haven't you? |
+| fabuleux | fabulous |
 | accompli | P.P. *accomplir* to carry out, to accomplish, to fulfil |
 | autant | *autant de* so much, so many <br> - *autant que* as much as, as many as |
 | malgré | prep. in spite of, despite |
@@ -162,6 +177,7 @@ not only
 | mouvementé | ADJ. eventful |
 | tas | pile, heap <br> - *un tas de charbon* a heap of coal <br> - *un tas de* (figurative) loads of |
 | apprécier | to appreciate |
+| plein de | (=*beaucoup de*) lots of |
 | un pote (idiomatic noun)  | a mate, a buddy |
 | fort | strong, good, loud <br> - *Il est très fort en espagnol.* He's very good at Spanish. |
 | matière | matter, material, subject <br> - *sans matières grasses* fat-free |
@@ -189,4 +205,4 @@ not only
 - [À la recherche du temps perdu](https://en.wikipedia.org/wiki/In_Search_of_Lost_Time)
 - la mémoire involontaire
 - la madeleine de Proust
-- le questionnaire de Proust
+- [le questionnaire de Proust](https://fr.wikipedia.org/wiki/Questionnaire_de_Proust)

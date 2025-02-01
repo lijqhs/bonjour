@@ -21,6 +21,7 @@ cover:
   - *Prenez l'imperméable. Il est bien à votre taille, il tombe bien, et il vous va à merveille.*
 - By extension, the idiomatic meaning is **to come at the right moment**
   - *Ce chèque tombe bien: j'ai besoin d'argent.* This cheque has arrived at just the right momment: I need cash.
+  - *Jacques, tu tombes bien. Tu peux m'aider à faire un peu de bricolage ?* Great timing, Jacques. Can you help me with a bit of DIY?
 - *Ça tombe bien !* That's convenient! / Great timing! The opposite: *Ça tombe mal*
 
 ## un bon plan / une bonne affaire
@@ -118,19 +119,24 @@ to bring; to take
 | quant à | as for, regarding |
 | mode | - la mode: (feminine) fashion </br> - le mode: (masculine) *le mode de vie* the way of life |
 | peine | *la peine* trouble |
+| à peine | hardly, only just </br> - *J’ai à peine eu le temps de me changer.* I hardly had time to get changed. </br> - *Elle vient à peine de se lever.* She’s only just got up. |
 | respirer | to breathe |
 | tellement | so </br> - *Benjamin est tellement gentil.* Benjamin's so nice. </br> - *Il travaille tellement.* He works so hard. |
 | arrêter | to stop </br> - *arrêter de faire quelque chose* to stop doing something |
 | râler | to groan |
 | tout le temps | all the time |
-| éventuellement | possibly |
+| pour l’instant | for the moment, for the time being |
+| **éventuellement** | possibly |
 | la botte | boot |
-| l’imperméable | *MASC.* raincoat |
+| parka | parka (a large windproof jacket with a hood, designed to be worn in cold weather) |
+| l’imperméable | n.m. raincoat |
+| taille | n.f. waist, height, size |
 | la merveille | marvel, wonder; *à merveille* perfectly, wonderfully |
 | fou | mad; *FEM.* folle |
 | la casquette | cap </br> - *avoir une double casquette* to wear two hats |
 | décoré | decorated; past participle of ***décorer*** to decorate |
 | la plume | feather |
 | le bricolage | DIY </br> - *Elle aime le bricolage.* She likes doing DIY. </br> - *un magasin de bricolage* a DIY shop |
-| le rayon | shelf |
+| le rayon | shelf, department |
+| **tout à l’heure** | (passé) just now, a short while ago </br> - *Je l’ai vu tout à l’heure.* I saw him just now. </br> (futur) shortly, in a moment </br> - *Je finirai ça tout à l’heure.* I’ll finish it in a moment. |
 | la lingerie | underwear (women's) |

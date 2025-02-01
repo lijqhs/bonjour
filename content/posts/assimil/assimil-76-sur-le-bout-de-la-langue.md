@@ -88,6 +88,37 @@ In French, the passive voice is formed with the verb "*être*" (to be) + the pas
 3. French may use other constructions to express similar ideas, such as the impersonal "on" or reflexive verbs.
 
 
+## Example: breakdown of grammar
+
+*Des dizaines de mails nous ont été envoyés pour préciser que Napoléon est né en Corse.* "Dozens of emails have been sent to us to clarify that Napoleon was born in Corsica."
+
+### Grammar breakdown 
+
+1. **Des dizaines de mails** - This is the subject of the sentence. "Des dizaines de" means "dozens of," and "mails" means "emails." Together, it translates to "Dozens of emails."
+
+2. **nous ont été envoyés** - This is the verb phrase. It is in the **passive voice** and **passé composé** tense.
+   - **nous** is the indirect object pronoun, meaning "to us."
+   - **ont été** is the auxiliary verb "être" (to be) conjugated in the present tense for the third person plural ("ont") and combined with the past participle "été."
+   - **envoyés** is the past participle of the verb "envoyer" (to send). It agrees in gender and number with the subject "mails," so it takes an -s because "mails" is plural.
+
+   Together, this part translates to "were sent to us."
+
+3. **pour préciser** - This is a prepositional phrase introducing the purpose of the action.
+   - **pour** means "to" or "in order to."
+   - **préciser** is the infinitive verb meaning "to specify" or "to clarify."
+
+4. **que Napoléon est né en Corse** - This is a subordinate clause introduced by the conjunction **que** (that).
+   - **Napoléon** is the subject of the clause.
+   - **est né** is the verb phrase in the **passé composé** tense, using the auxiliary verb "être" (to be) and the past participle "né" (born). It means "was born."
+   - **en Corse** is a prepositional phrase meaning "in Corsica."
+
+
+### Key Grammar Points:
+- **Passive voice**: The subject ("emails") receives the action ("were sent").
+- **Agreement of past participle**: "Envoyés" agrees with the plural subject "mails."
+- **Subordinate clause**: Introduced by "que" to provide additional information.
+- **Prepositional phrase**: "pour préciser" indicates the purpose of the action.
+
 ## faire place à
 
 to make way for, to give way to
@@ -171,6 +202,8 @@ that rings a bell, that sounds familiar
 | créer | to create <br> - P.P. créé |
 | **le** personnage | figure, character |
 | mémorable | memorable |
+| presque | nearly |
 | siècle | century |
 | cultivé | cultured |
 | bientôt | soon |
+| quand même | all the same (= *tout de même*), nevertheless (= *pourtant*)
