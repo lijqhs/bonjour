@@ -83,12 +83,15 @@ The pronoun order reverts to the regular structure:
 
 ### 💬 **Examples from the text**
 
-- *Nous le leur avons proposé mais ils n'étaient pas très chauds.*
-- *On les y a souvent emmenés quand ils étaient jeunes.*
-- *Je le leur ai dit mais ils n'en ont rien à faire et je n'arrive pas à les convaincre.*
-- *Nous leur en avons promis.*
-- *Oui, je connais une boutique qui en vend : nous y en avons déjà acheté pour d'autres amis.*
-- *Ne me le donne pas maintenant ; donne-le-moi à la fin du mois.*
+- *Nous **le leur** avons proposé mais ils n'étaient pas très chauds.*
+- *Je ne **leur en** veux pas.*
+- *On **les y** a souvent emmenés quand ils étaient jeunes.*
+- *Ils **s'y** sont beaucoup amusés.*
+- *vous pouvez **me le** prendre ?*
+- *Je **le leur** ai dit mais ils n'en ont rien à faire et je n'arrive pas à les convaincre.*
+- *Nous **leur en** avons promis.*
+- *Oui, je connais une boutique qui en vend : nous **y en** avons déjà acheté pour d'autres amis.*
+- *Ne **me le** donne pas maintenant ; donne-**le-moi** à la fin du mois.*
 
 ---
 
@@ -200,6 +203,7 @@ So, **"qu'importe"** literally means **"what matters"**, but in context, it’s 
 ### ⚠️ **Note:**  
 In casual spoken French, people might use simpler expressions like **"Peu importe"** (*"It doesn’t matter"*) instead of **"Qu’importe"**, which sounds a bit more formal or literary.
 
+---
 
 ## Vocabulaire
 
