@@ -85,22 +85,25 @@ cover:
 
 ### **Examples from the text**
 
-- *Je suis content que tu **sois** là.*
-- *Il faut que je te **parle**, et il faut que tu **sois** franc avec moi.*
-- *Je suis heureux que tu m'**appelles**.*
-- *Il veut que je l'**aide** à peindre son salon et sa salle à manger.*
-- *Il aimerait que je **sois** là à l'aube et que je **passe** toute la journée avec lui.*
-- *Il faut que j'**apporte** le matériel - pinceaux, rouleaux, couteaux et tout et toue -*
-- *Il faudra sans doute que j'**emporte** les déchets à la déchetterie !*
-- *Je ne veux pas qu'il **soit** fâché contre moi.*
-- *Tu permets que je **sois** tout à fait honnête et que je te **donne** un bon conseil ?*
-- *Je préfère que vous **trouviez** quelqu'un d'autre.*
-- *Il vaudrait mieux que tu ne **sois** pas disponible ce jour-là, que toi et ton apprenti, vous **soyez** sur un autre chantier.*
-- *N'empêche, j'ai peur qu'il **soit** vexé quand même.*
-- *Il sera triste que tu ne **puisses** pas l'aider, c'est tout.*
-- *J'ai peur qu'elles **soient** vexées si je refuse de les aider.*
-- *Il faut qu'on se **parle**.*
-- *Je suis triste que ta femme **soit** occupée ce soir car je voulais que nous **dînions** ensemble, tous les quatre.*
+| Examples |
+|-----------------|
+| *Je suis content que tu **sois** là.* |
+| *Il faut que je te **parle**, et il faut que tu **sois** franc avec moi.* |
+| *Je suis heureux que tu m'**appelles**.* |
+| *Il veut que je l'**aide** à peindre son salon et sa salle à manger.* |
+| *Il aimerait que je **sois** là à l'aube et que je **passe** toute la journée avec lui.* |
+| *Il faut que j'**apporte** le matériel - pinceaux, rouleaux, couteaux et tout et tout -* |
+| *Il faudra sans doute que j'**emporte** les déchets à la déchetterie !* |
+| *Je ne veux pas qu'il **soit** fâché contre moi.* |
+| *Tu permets que je **sois** tout à fait honnête et que je te **donne** un bon conseil ?* |
+| *Je préfère que vous **trouviez** quelqu'un d'autre.* |
+| *Il vaudrait mieux que tu ne **sois** pas disponible ce jour-là, que toi et ton apprenti, vous **soyez** sur un autre chantier.* |
+| *N'empêche, j'ai peur qu'il **soit** vexé quand même.* |
+| *Il sera triste que tu ne **puisses** pas l'aider, c'est tout.* |
+| *J'ai peur qu'elles **soient** vexées si je refuse de les aider.* |
+| *Il faut qu'on se **parle**.* |
+| *Je suis triste que ta femme **soit** occupée ce soir car je voulais que nous **dînions** ensemble, tous les quatre.* |
+
 
 ---
 
