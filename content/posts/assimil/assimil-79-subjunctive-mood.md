@@ -8,7 +8,7 @@ categories: ["leçon"]
 series: ["Assimil"]
 tags: [subjunctive mood, le subjonctif]
 cover: 
-    image: https://cdn.jsdelivr.net/gh/lijqhs/cdn@1.8/img/gallery/fr/freddie-marriage-EfCTk5VGek8-unsplash.jpg
+    image: https://cdn.jsdelivr.net/gh/lijqhs/cdn@1.8/img/gallery/fr/veronica-reverse-pT6Wo9tQb7A-unsplash.jpg
     # hidden: true # hide everywhere but not in structured data
     hiddenInList: true # hide on list pages and home
     # hiddenInSingle: true # hide on single page
