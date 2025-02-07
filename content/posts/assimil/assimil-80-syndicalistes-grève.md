@@ -124,14 +124,17 @@ The main differences are:
 | patron | n.m. (*dirigeant*, *chef*) boss |
 | patronne | n.f. (*dirigeant*, *chef*) boss |
 | cadre | frame, surroundings, framework </br> - **dans le cadre de** within the framework of | 
+| dans le cadre de | within the framework of |
 | réduction | n.f. reduction </br> - *réduction des effectifs* staff cuts </br> - *réduction d’impôts* tax cut |
 | impôt | (*taxe*) tax |
 | tarif | price, cost, rate |
+| pour l'instant | for the moment, for now, for the time being, so far |
 | grogne | dissatisfaction, discontent, (social) unrest |
 | grogner | grunt, grumble |
 | mouvement | movement |
 | massif | solid, massive |
 | touchant | touching, (affecting) |
+| y compris | including |
 | sidérurgie | steel industry |
 | acier | n.m. steel |
 | fer | n.m. iron |
@@ -151,6 +154,7 @@ The main differences are:
 | faiblir | weaken, get weaker |
 | pour que | (+*subjonctif*) so that |
 | à venir | forthcoming </br> - *dans les semaines à venir* in the weeks to come |
+| en matière de | regarding, concerning, in regard to, in respect of, when it comes to |
 | flagrant | obvious, evident, clear, blatant, flagrant |
 | employeur | employer </br> - *Mon employeur actuel est un homme juste.* My current employer is a fair man. |
 | imposer | impose |

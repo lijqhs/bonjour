@@ -105,7 +105,6 @@ cover:
 | *Je suis **triste** que ta femme **soit** occupée ce soir car je voulais que nous **dînions** ensemble, tous les quatre.* |
 
 
----
 
 ## *aussi ... que*
 
@@ -185,6 +184,40 @@ The French expression *en vouloir à* and its reflexive form *s'en vouloir* conv
 - *Elle s’en veut terriblement.* ("She’s terribly hard on herself.")  
 - *Est-ce que tu m’en veux ?* ("Are you mad at me?")
 
+---
+
+## Grammar Breakdown
+
+**"Il suffit de le regarder droit dans les yeux et lui dire, gentiment mais fermement."**
+
+1. "Il suffit de" - This is an impersonal expression meaning "It is enough to" or "One only needs to".
+   - "Il" is the impersonal subject pronoun
+   - "suffit" is the 3rd person singular present tense of the verb "suffire" (to be enough)
+   - "de" introduces the infinitive that follows
+
+2. "le regarder" - This is an infinitive verb phrase.
+   - "le" is a *direct object pronoun* (him/it)
+   - "regarder" is the infinitive form of the verb "to look at"
+
+3. "droit dans les yeux" - This is an adverbial phrase.
+   - "droit" is an adverb meaning "straight"
+   - "dans" is a preposition meaning "in"
+   - "les yeux" is a plural noun meaning "the eyes"
+
+4. "et" - This is a coordinating conjunction meaning "and"
+
+5. "lui dire" - Another infinitive verb phrase.
+   - "lui" is an *indirect object pronoun* meaning "to him/her"
+   - "dire" is the infinitive form of the verb "to say"
+
+6. "gentiment mais fermement" - This is an adverbial phrase modifying "dire".
+   - "gentiment" is an adverb meaning "kindly"
+   - "mais" is a coordinating conjunction meaning "but"
+   - "fermement" is an adverb meaning "firmly"
+
+The entire sentence is a complex infinitive construction that could be translated as:
+"It is enough to look him/her straight in the eyes and tell him/her, kindly but firmly"
+
 
 ---
 
@@ -194,6 +227,7 @@ The French expression *en vouloir à* and its reflexive form *s'en vouloir* conv
 | ---- | ---- | 
 | déranger | to bother, to mess up </br> - *Excusez-moi de vous déranger.* I’m sorry to bother you. |
 | propos | (= sujet) </br> - *à quel propos ?* what about? </br> - *à propos de* about </br> - *à propos (= au fait)* by the way |
+| à propos de | about |
 | empêcher | to prevent </br> - *On m'a empêché de sortir.* I was prevented from leaving. </br> *n'empêche* even so, all the same </br> - *N'empêche, ils auraient pu téléphoner.* All the same, they could have called. |
 | exigeant | demanding, hard to please |
 | maniaque | manic, fussy | 
@@ -211,6 +245,7 @@ The French expression *en vouloir à* and its reflexive form *s'en vouloir* conv
 | tout à fait | (interj) Absolutly! Too right! </br> - *Tu as bien ta montre ? Tout à fait !* Have you got your watch? Absolutely! </br> (adv) quite, completely, absolutely </br> - *Cette réponse est tout à fait correcte.* That response is quite right. |
 | permettre | to allow |
 | suffire | to be enough </br> - *Ça suffit !* That’s enough! |
+| regarder | look, watch, look at </br> - *regarder dans le vide* to stare into space </br> - *le regarder droit dans les yeux* look him straight in the eye |
 | gentiment | kindly, gently | 
 | fermement | (*solidement*) firmly, solidly |
 | à défaut | (*si ce n'est pas le cas*) if not | 
@@ -224,3 +259,4 @@ The French expression *en vouloir à* and its reflexive form *s'en vouloir* conv
 | vexé | offended |
 | triste | sad, upset |
 | en vouloir à quelqu’un | to be angry with somebody |
+| prévenir | let (sb) know, warn, tell </br> - *Je sais que c'est un empêchement de dernière minute mais, n'empêche, tu aurais pu me prévenir.* I know it's a last-minute impediment, but still, you could have warned me. |
