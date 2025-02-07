@@ -229,6 +229,7 @@ In many contexts, "fournir" is the preferred verb, while "pourvoir" is often rep
 | réunir | gather, join together |
 | se réunir | (*se joindre*) get together, meet |
 | discuter | (+ *avec*) talk to (sb), (+ *de*) talk about (sth) |
+| gréviste | striker </br> - *Les grévistes bloquaient l'entrée de l'usine.* The strikers were blocking the entrance to the factory. |
 | extrait | extract, excerpt, copy |
 | compte-rendu | report |
 | réunion | n.f. meeting |
