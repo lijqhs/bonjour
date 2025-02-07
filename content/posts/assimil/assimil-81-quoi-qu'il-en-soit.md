@@ -8,7 +8,7 @@ categories: ["leçon"]
 series: ["Assimil"]
 tags: [subjunctive mood, le subjonctif]
 cover: 
-    image: https://cdn.jsdelivr.net/gh/lijqhs/cdn@1.8/img/gallery/fr/rodrigo-kugnharski-pdWc5wm1STw-unsplash.jpg
+    image: https://cdn.jsdelivr.net/gh/lijqhs/cdn@1.8/img/gallery/fr/paul-rysz-bLF3vK_X2Vc-unsplash.jpg
     # hidden: true # hide everywhere but not in structured data
     hiddenInList: true # hide on list pages and home
     # hiddenInSingle: true # hide on single page
