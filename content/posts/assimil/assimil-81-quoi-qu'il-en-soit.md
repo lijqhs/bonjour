@@ -18,9 +18,9 @@ cover:
 ## Subordinating Conjunctions and Subjunctive Mood
 
 Subordinating conjunctions:
-- bien que
-- quoi que
-- pourvu que
+- bien que (although)
+- quoi que (whatever) 
+- pourvu que (let's hope that, provided that, as long as)
 
 Examples:
 - **Bien que** nous **soyons** amis, je ne peux pas vous aider. (Even though we're friends, I can't help you.)
@@ -34,15 +34,15 @@ Examples:
 
 - Ma fille peut faire ce qu'elle veut de sa vie, **pourvu qu**'elle **soit** heureuse. (My daughter can do what she wants with her life, as long as she is happy.)
 - **Pourvu que** nous **soyons** tous du même avis, je préparerai un communiqué de presse, comme prévu et on le publiera plus tard. (Provided that we are all of the same opinion, I'll prepare a press release, as planned, and we will publish it later.)
-- Pourvu que vous ayez tous les documents nécessaires, tout ira bien. (As long as you have all the necessary paperwork, everything will be fine.)
+- **Pourvu que** vous **ayez** tous les documents nécessaires, tout ira bien. (As long as you have all the necessary paperwork, everything will be fine.)
 
 ### *Quoi qu'il en soit*
 
 This expression, formed with the relative pronoun and the subjunctive, means *whatever*, *no matter what*.
 
-- Quoi qu'il en soit, ses idées gagnent du terrain et on doit être sur le qui-vive. (In any case, her ideas are gaining ground and we need to be on the alert.)
-- Quoi que nous fassions, nous aurons toujours tort. (Whatever we do we will always be in the wrong.)
-- Quoi que tu fasses, ton patron ne sera jamais d'accord avec toi : tu auras tort ! (Whatever you do, your boss will never agree with you: you'll be wrong!)
+- **Quoi qu**'il en **soit**, ses idées gagnent du terrain et on doit être sur le qui-vive. (In any case, her ideas are gaining ground and we need to be on the alert.)
+- **Quoi que** nous **fassions**, nous aurons toujours tort. (Whatever we do we will always be in the wrong.)
+- **Quoi que** tu **fasses**, ton patron ne sera jamais d'accord avec toi : tu auras tort ! (Whatever you do, your boss will never agree with you: you'll be wrong!)
 
 
 ---
@@ -59,17 +59,18 @@ The use of the subjunctive in the negative forms of *être certain que*, *être 
    - Example: Je suis certain que c'est vrai. (I am certain that it's true.)
 
 2. "Être probable que" (to be probable that):
-   - This expression is followed by the indicative mood in the affirmative form].
+   - This expression is followed by the indicative mood in the affirmative form.
    - Example: Il est probable qu'il viendra. (It is probable that he will come.)
 
 ### Negative Forms
 
 1. "Ne pas être certain que" and "ne pas être sûr que" (to not be certain/sure that):
    - In the negative form, these expressions are followed by the subjunctive mood.
-   - Example: Je ne suis pas certain qu'il vienne. (I am not certain that he will come.)
+   - Example: Je **ne suis pas certain qu**'il **vienne**. (I am not certain that he will come.)
 
 2. "Ne pas être probable que" (to not be probable that):
    - This expression is followed by the subjunctive mood in the negative form.
+   - Example: Il **n'est pas probable qu**'il **pleuve** demain. (It is not probable that it will rain tomorrow.)
 
 ### Examples from the text
 
@@ -78,6 +79,7 @@ The use of the subjunctive in the negative forms of *être certain que*, *être 
 - (subjunctive) Il **est peu probable que** Madame Laurent **comprenne** notre stratégie ou qu'elle **connaisse** notre vraie position.
 - (indicative) En revanche, il *est tout à fait probable qu*'elle *suspendra* les négociations si elle n'obtient pas ce qu'elle veut.
 - (indicative) Il *est certain qu*'elle *sera* accord avec nous.
+- (subjunctive) Il faut lui répondre dans un délai de deux semaines. Ce **n'est pas sûr qu**'il **attende** le mois prochain.
 
 ---
 
