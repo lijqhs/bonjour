@@ -269,7 +269,7 @@ In many contexts, "fournir" is the preferred verb, while "pourvoir" is often rep
 | en revanche | on the other hand |
 | tout à fait | quite, completely, absolutely |
 | suspendre | hang, suspend |
-| obtenir | get, obtain |
+| obtenir | get, obtain / [see conjugations](#obtenir) |
 | en vouloir à | be annoyed with, be angry with </br> - *De toutes les façons, les délégués du personnel en général nous en veulent à tous.* In any case, the staff representatives in general are angry with all of us. |
 | pouce | thumb |
 | se tourner les pouces | twiddle your thumbs |
