@@ -72,7 +72,7 @@ The use of the subjunctive in the negative forms of *être certain que*, *être 
    - This expression is followed by the subjunctive mood in the negative form.
    - Example: Il **n'est pas probable qu**'il **pleuve** demain. (It is not probable that it will rain tomorrow.)
 
-### Examples from the text
+### 💬 Examples from the text
 
 - (subjunctive) Il **n'est pas certain qu**'elle **attende** la fin des pourparlers avant de déclencher un grand mouvement social.
 - (subjunctive) Il **n'est pas sûr qu**'elle **soit** d'accord avec nous.
@@ -101,7 +101,7 @@ Note that in the present subjunctive:
 
 ---
 
-## Grammar Breakdown 1
+## 📔 Grammar Breakdown 1
 
 "Ce qui est sûr c'est que nous ne pouvons pas nous tourner les pouces **en attendant que** le problème **se règle** tout seul."
 
@@ -140,7 +140,7 @@ Note that in the present subjunctive:
 
 --- 
 
-## Grammar Breakdown 2
+## 📔 Grammar Breakdown 2
 
 "Au contraire, il faut patienter **jusqu'à ce que** Laurent **soumette** un document avec ses propositions."
 
@@ -215,14 +215,14 @@ Some time conjunctions in French require the use of the subjunctive mood in the 
 
 However, not all time conjunctions require the subjunctive. For instance, "après que" (after) is generally followed by the indicative mood in modern French.
 
-### Examples from the text
+### 💬 Examples from the text
 
 - Au contraire, il faut patienter **jusqu'à ce que** Laurent **soumette** un document avec ses propositions.
 - **Avant que** tu **finisses**, Yann, j'ai une anecdote qui illustre le genre d'individus à qui nous avons affaire.
 
 ---
 
-## Grammar Breakdown 3
+## 📔 Grammar Breakdown 3
 
 "Nous devons avoir fini de dresser la table **avant que** les invités n'**arrivent**."
 

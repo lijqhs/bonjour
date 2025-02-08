@@ -83,7 +83,7 @@ cover:
   *Je préfère **manger*** (Not *~~que je mange~~*).  
 - **Practice Common Triggers**: Focus on *il faut que, vouloir que, bien que*.
 
-### **Examples from the text**
+### 💬 **Examples from the text**
 
 | Examples |
 |-----------------|
@@ -186,7 +186,7 @@ The French expression *en vouloir à* and its reflexive form *s'en vouloir* conv
 
 ---
 
-## Grammar Breakdown
+## 📔 Grammar Breakdown
 
 **"Il suffit de le regarder droit dans les yeux et lui dire, gentiment mais fermement."**
 

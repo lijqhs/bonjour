@@ -17,7 +17,7 @@ cover:
 
 ## Subjunctive Mood
 
-Examples from the text:
+💬 Examples from the text:
 
 - Le SSP **exige que** ces réclamations **soient** entendues par le gouvernement et le patronat *dans le cadre de* la réduction du temps de travail.
 - Il **faut que** nous **élargissions** et **durcissions** le mouvement pour qu'il ne **faiblisse** pas dans les semaines à venir.
@@ -27,7 +27,7 @@ Examples from the text:
 - Il va **exiger que** vous **reveniez** travailler *dans les plus brefs délais* !
 - Car si c'est lui qui est malade, ses collègues vont **insister pour qu**'il **obéisse** au *médecin du travail*, et qu'il *y **réfléchisse** à deux fois* avant de revenir au bureau.
 
-Examples from the exercise:
+💬 Examples from the exercise:
 
 - Il est **dommage qu**'elle ne **soit** pas avec nous.
 - J'**insiste pour que** vous *y **réfléchissiez** à deux fois* avant de poursuivre le projet.
@@ -44,7 +44,7 @@ More initial verbs:
 
 --- 
 
-## Formation of Subjunctive Mood
+## 🎯 Formation of Subjunctive Mood
 
 | Subject | -ER: parler (to speak) | -IR: finir (to finish) | -RE: vendre (to sell) |
 |---------|------------------------|------------------------|----------------------|
@@ -75,7 +75,7 @@ Key observations:
 
 --- 
 
-## Qu'est-ce qui va se passer
+## *Qu'est-ce qui va se passer*
 
 1. "Qu'est-ce qui va se passer"
    - This form uses "qui" as the subject pronoun.
