@@ -252,6 +252,9 @@ In many contexts, "fournir" is the preferred verb, while "pourvoir" is often rep
 | adroit | dexterous, dextrous, deft, handy, smart, skillful |
 | négociateur | negotiator, mediator |
 | négociatrice | negotiator, mediator |
+| de plus | what is more, furthermore, moreover, besides, in addition |
+| de plus en plus | more and more, increasingly | 
+| de plus en plus fort | louder and louder, harder and harder, stronger and stronger |
 | expérimenté | experienced, seasoned |
 | pourparlers | talks, negotiations |
 | être en pourparlers | (*avoir des négociations, tractations*) be in talks, be in discussions |

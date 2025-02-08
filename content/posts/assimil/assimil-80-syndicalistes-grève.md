@@ -41,7 +41,10 @@ More initial verbs:
 - *attendre que* to expect that
 - *insister **pour** que* insist that
 
-## Formation
+
+--- 
+
+## Formation of Subjunctive Mood
 
 | Subject | -ER: parler (to speak) | -IR: finir (to finish) | -RE: vendre (to sell) |
 |---------|------------------------|------------------------|----------------------|
@@ -168,11 +171,16 @@ The main differences are:
 | simplement | simply |
 | dommage | damage </br> - *L'assurance paiera les dommages causés par la tempête.* My insurance will cover the damage caused by the storm. </br> What a shame! </br> - *Tu ne peux pas venir à ma fête ? Dommage !* You can't come to my party? What a shame! |
 | Quel dommage ! | What a shame! What a pity! |
+| reconnaissance | recognition, acknowledgement, gratitude, gratefulness |
+| mériter | deserve |
+| grippe | flu, influenza |
 | incommoder | bother, inconvenience |
 | traitement | n.m. treatment |
 | guérir | cure, heal, make (sb) better |
+| revenir | come back, return |
 | dans les plus brefs délais | as soon as possible, as quickly as possible |
 | honte | shame, disgrace </br> - *Cette équipe de football nous a couvert de honte.* This football team has brought shame upon us. </br> - *C'est une honte !* It's a disgrace! |
+| Quelle honte | It's disgraceful |
 | obéir | obey |
 | obéir à | obey, do as (sb) tells you </br> - *Obéir à tes parents !* Do as your parents tell you! |
 | médecin du travail | occupational health doctor, occupational health physician |
@@ -182,4 +190,5 @@ The main differences are:
 | démonter | take (sth) to pieces, take (sth) apart, dismantle, disassemble |
 | égal | equal |
 | égal à | equal to </br> - *Cinq est égal à trois plus deux.* Five is equal to three plus two. |
+| certains | (*quelques personnes*) some, certain, some people |
 | poursuivre | pursue, chase, hunt, go on with, continue |
