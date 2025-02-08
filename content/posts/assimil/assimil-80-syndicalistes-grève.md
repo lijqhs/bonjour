@@ -170,7 +170,7 @@ The main differences are:
 | paresseux | lazy, idle, slack |
 | simplement | simply |
 | dommage | damage </br> - *L'assurance paiera les dommages causés par la tempête.* My insurance will cover the damage caused by the storm. </br> What a shame! </br> - *Tu ne peux pas venir à ma fête ? Dommage !* You can't come to my party? What a shame! |
-| Quel dommage ! | What a shame! What a pity! |
+| Quel dommage | What a shame! What a pity! |
 | reconnaissance | recognition, acknowledgement, gratitude, gratefulness |
 | mériter | deserve |
 | grippe | flu, influenza |

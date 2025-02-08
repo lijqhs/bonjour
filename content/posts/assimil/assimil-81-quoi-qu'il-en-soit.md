@@ -101,9 +101,48 @@ Note that in the present subjunctive:
 
 ---
 
-## Grammar Breakdown
+## Grammar Breakdown 1
 
-"Au contraire, il faut patienter jusqu'à ce que Laurent soumette un document avec ses propositions."
+"Ce qui est sûr c'est que nous ne pouvons pas nous tourner les pouces **en attendant que** le problème **se règle** tout seul."
+
+## Clause by Clause Analysis
+
+1. "Ce qui est sûr c'est que" (What is certain is that)
+   - "Ce qui" is a relative pronoun meaning "what" or "that which"
+   - "est" is the third-person singular present tense of "être" (to be)
+   - "sûr" is an adjective meaning "sure" or "certain"
+   - "c'est que" is a common French construction to introduce a statement
+
+2. "nous ne pouvons pas" (we cannot)
+   - "nous" is the first-person plural subject pronoun "we"
+   - "ne...pas" is the negative structure in French
+   - "pouvons" is the first-person plural present tense of "pouvoir" (can/to be able to)
+
+3. "nous tourner les pouces" (twiddle our thumbs)
+   - "nous tourner" is a reflexive verb construction
+   - "les pouces" (the thumbs) is the direct object
+
+4. "en attendant que" (while waiting for)
+   - "en attendant" is a gerund form meaning "while waiting"
+   - "que" introduces the subordinate clause that follows
+
+5. "le problème se règle tout seul" (the problem resolves itself)
+   - "le problème" is the subject of this clause
+   - "se règle" is the reflexive form of "régler" (to resolve)
+   - "tout seul" means "by itself" or "on its own"
+
+## Grammar Points
+
+- The sentence uses the subjunctive mood in the last clause ("se règle") after "en attendant que"
+- The idiomatic expression "se tourner les pouces" (to twiddle one's thumbs) is used
+- The reflexive verb "se régler" is used to indicate the problem resolving itself
+- The sentence employs a complex structure with a main clause and a subordinate clause
+
+--- 
+
+## Grammar Breakdown 2
+
+"Au contraire, il faut patienter **jusqu'à ce que** Laurent **soumette** un document avec ses propositions."
 
 1. "Au contraire," 
    - Adverbial phrase meaning "On the contrary"
@@ -183,6 +222,37 @@ However, not all time conjunctions require the subjunctive. For instance, "aprè
 
 ---
 
+## Grammar Breakdown 3
+
+"Nous devons avoir fini de dresser la table **avant que** les invités n'**arrivent**."
+
+## Clause by Clause Analysis
+
+1. "Nous devons avoir fini de dresser la table" (We must have finished setting the table)
+   - "Nous" is the first-person plural subject pronoun "we"
+   - "devons" is the first-person plural present tense of "devoir" (must/to have to)
+   - "avoir fini" is the perfect infinitive form, meaning "to have finished"
+   - "de dresser" is an infinitive used after "fini", meaning "to set"
+   - "la table" is the direct object, meaning "the table"
+
+2. "avant que les invités n'arrivent" (before the guests arrive)
+   - "avant que" is a conjunction meaning "before"
+   - "les invités" is the subject of this clause, meaning "the guests"
+   - "n'" is the expletive 'ne', often used with "avant que" (not negative here)
+   - "arrivent" is the third-person plural present subjunctive of "arriver" (to arrive)
+
+## Grammar Points
+
+1. Perfect Infinitive: "avoir fini" is used to express an action that will be completed before another future action.
+
+2. Subjunctive Mood: "avant que" requires the use of the subjunctive mood in the clause that follows. Here, "arrivent" is in the subjunctive.
+
+3. Expletive 'ne': The "n'" before "arrivent" is not part of a negation. It's an optional, literary addition often used with "avant que".
+
+4. Complex Verb Structure: The main clause uses a modal verb (devoir) followed by a perfect infinitive (avoir fini), which is then followed by another infinitive (dresser).
+
+5. Temporal Relationship: The sentence expresses a sequence of events, with one action needing to be completed before another begins.
+
 
 ## *Pourvoir* vs. *Fournir*
 
@@ -237,6 +307,7 @@ In many contexts, "fournir" is the preferred verb, while "pourvoir" is often rep
 | réunion | n.f. meeting |
 | dérouler | roll out, run through </br> - *Le tapis rouge a été déroulé pour cet ambassadeur.* The red carpet was rolled out for the ambassador. | 
 | se dérouler | (*se passer*) take place </br> - *L'action de ce film se déroule en Égypte.* The film's action takes place in Egypt. |
+| bien que | although |
 | sourd | deaf |
 | se faire | (*être, sens passif*) be + (past participle) </br> - *Nous nous sommes fait attaquer par les médias qui nous désignent comme les méchants.* We have been attacked by the media, who are pointing at us as the bad guys. |
 | désigner | show, point (sb/sth) out, appoint, designate, indicate, mean, refer to |
@@ -260,6 +331,7 @@ In many contexts, "fournir" is the preferred verb, while "pourvoir" is often rep
 | être en pourparlers | (*avoir des négociations, tractations*) be in talks, be in discussions |
 | déclencher | trigger, spark, cause, start |
 | mouvement social | (*grève*) social movement |
+| quoi que | whatever |
 | gagner du terrain | gain ground |
 | sur le qui-vive | on the alert, on the lookout |
 | être sur le qui-vive | be on the alert |
@@ -272,22 +344,25 @@ In many contexts, "fournir" is the preferred verb, while "pourvoir" is often rep
 | obtenir | get, obtain / [see conjugations](#obtenir) |
 | en vouloir à | be annoyed with, be angry with </br> - *De toutes les façons, les délégués du personnel en général nous en veulent à tous.* In any case, the staff representatives in general are angry with all of us. |
 | pouce | thumb |
-| se tourner les pouces | twiddle your thumbs |
+| se tourner les pouces | twiddle your thumbs </br> - *Ce qui est sûr c'est que nous ne pouvons pas **nous tourner les pouces** en attendant que le problème se règle tout seul.* |
 | en attendant | meanwhile, meantime |
 | règler | adjust, settle, resolve |
 | se règler | be set, be adjusted, be settled, be resolved </br> - *Ce problème peut se régler en 10 minutes.* This problem can be resolved in ten minutes. |
 | tout seul | alone, all alone, all on your own, by yourself, all by yourself, without any help |
 | patienter | wait patiently, be patient |
+| jusqu'à ce que | (*en attendant que*) (+*subjonctif*) until |
 | soumettre | submit, subject, subdue, defeat | 
-| délai | period, time |
+| délai | period, time </br> - *Il faut le faire dans **un délai de dix jours**.* It has to be done within a ten-day period. </br> - *Quel est le délai pour ce travail ?* What's the deadline for this job? |
 | à bref délai | shortly, very soon |
 | rompre | terminate, break off | 
+| pourvu que | let's hope that, provided that, as long as |
 | communiqué | communiqué, report, release |
 | prévu | anticipated, expected, foreseen, predicted, planned |
 | prévoir | forecast, predict, plan, organize, foresee |
 | publier | publish, release |
 | pourvoir | provide, equip, endow, fill |
 | fournir | supply, provide, give, produce |
+| avant que | before </br> - *Nous devons avoir fini de dresser la table **avant que** les invités n'**arrivent**.* We have to finish laying the table before the guests arrive. |
 | anecdote | anecdote, story |
 | illustrer | illustrate | 
 | genre | type, sort |
@@ -305,3 +380,4 @@ In many contexts, "fournir" is the preferred verb, while "pourvoir" is often rep
 | sans doute | probably, no doubt, in all likelihood |
 | logique | (adj.) logical, (n.f.) logic |
 | tort | n.m. wrong, wrongdoing |
+| il est peu probable que | (+*subjonctif*) it is unlikely that |
