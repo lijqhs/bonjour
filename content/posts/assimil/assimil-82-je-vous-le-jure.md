@@ -307,7 +307,7 @@ Therefore, the sentence means: "The pollster is leaving, discouraged." It implie
 
 | mots | explications |
 | ---- | ---- | 
-| veuille | (*vouloir*) *je veuille*, *tu veuilles*, *il/elle veuille*, *nous voulions*, *vous vouliez*, *ils/elles veuillent* [see conjugations](./assimil-79-subjunctive-mood.md/#common-verb-conjugations-subjunctive-present) |
+| veuille | (*vouloir*) *je veuille*, *tu veuilles*, *il/elle veuille*, *nous voulions*, *vous vouliez*, *ils/elles veuillent* |
 | sondage | survey, opinion poll, poll | 
 | faire partie de | be part of |
 | faire partie intégrante de | be an integral part of |
