@@ -1,6 +1,6 @@
 ---
 title: 69 Avoir d'autres chats à fouetter
-slug: Avoir d'autres chats à fouetter
+slug: 69 Avoir d'autres chats à fouetter
 description: « Assimil French » Soixante-neuvième leçon - "Les animaux ne mentent pas..."
 author: aaron
 date: 2024-01-14

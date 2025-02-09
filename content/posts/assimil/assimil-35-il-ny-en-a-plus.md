@@ -1,6 +1,6 @@
 ---
 title: 35 Il n'y en a plus
-slug: il-ny-en-a-plus
+slug: 35 il-ny-en-a-plus
 description: « Assimil French » Trente-cinquième leçon - Révision
 author: aaron
 date: 2023-06-26

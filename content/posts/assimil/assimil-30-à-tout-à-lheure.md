@@ -1,6 +1,6 @@
 ---
 title: 30 À tout à l'heure
-slug: À tout à l'heure
+slug: 30 À tout à l'heure
 description: « Assimil French » Trentième leçon - J'ai un truc à te demander...
 author: aaron
 date: 2023-06-21

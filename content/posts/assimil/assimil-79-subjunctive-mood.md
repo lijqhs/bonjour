@@ -1,6 +1,6 @@
 ---
 title: 79 J'ai peur qu'il soit vexé
-slug: jai-peur-quil-soit-vexé
+slug: 79 J'ai peur qu'il soit vexé
 description: « Assimil French » Soixante-dix-neuvième leçon - Il faut que je trouve une bonne excuse...
 author: aaron
 date: 2025-02-03

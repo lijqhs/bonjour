@@ -1,6 +1,6 @@
 ---
 title: 56 Pronominal Verbs
-slug: pronominal-verbs
+slug: 56 pronominal-verbs
 description: « Assimil French » Cinquante-sixième leçon - Révision
 author: aaron
 date: 2023-09-13

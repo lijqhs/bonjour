@@ -1,6 +1,6 @@
 ---
 title: 39 Commencez sans moi
-slug: commencez-sans-moi
+slug: 39 commencez-sans-moi
 description: « Assimil French » Trente-neuvième leçon - Le septième art
 author: aaron
 date: 2023-06-30

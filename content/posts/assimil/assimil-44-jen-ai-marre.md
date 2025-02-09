@@ -1,6 +1,6 @@
 ---
 title: 44 J'en ai marre
-slug: Jen ai marre
+slug: 44 Jen ai marre
 description: « Assimil French » Quarante-quatrième leçon - Perturbations dans les transports...
 author: aaron
 date: 2023-07-29

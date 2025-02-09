@@ -1,6 +1,6 @@
 ---
 title: 75 Confiance en soi
-slug: Confiance en soi
+slug: 75 Confiance en soi
 description: « Assimil French » Soixante-quinzième leçon - Le Prix "Accord majeur"
 author: aaron
 date: 2024-07-05

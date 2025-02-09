@@ -1,6 +1,6 @@
 ---
 title: 28 Ça m'est égal
-slug: Ça m'est égal
+slug: 28 Ça m'est égal
 description: « Assimil French » Vingt-huitième leçon - Révision
 author: aaron
 date: 2023-06-19

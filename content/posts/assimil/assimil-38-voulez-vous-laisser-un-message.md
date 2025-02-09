@@ -1,6 +1,6 @@
 ---
 title: 38 Voulez-vous laisser un message ?
-slug: voulez-vous-laisser-un-message
+slug: 38 voulez-vous-laisser-un-message
 description: « Assimil French » Trente-huitième leçon - C'est de la part de qui ?
 author: aaron
 date: 2023-06-29

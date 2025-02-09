@@ -1,6 +1,6 @@
 ---
 title: 51 Dépêche-toi
-slug: dépêche-toi
+slug: 51 dépêche-toi
 description: « Assimil French » Cinquante et unième leçon - Hâtez-vous lentement !
 author: aaron
 date: 2023-09-08

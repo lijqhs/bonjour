@@ -1,6 +1,6 @@
 ---
 title: 01 Bonjour
-slug: Bonjour
+slug: 01 Bonjour
 description: « Assimil French » Première leçon - Comment allez-vous ?
 author: aaron
 date: 2023-05-01

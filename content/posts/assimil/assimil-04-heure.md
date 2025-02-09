@@ -1,6 +1,6 @@
 ---
 title: 04 Avez-vous l'heure ?
-slug: Avez-vous l'heure
+slug: 04 Avez-vous l'heure
 description: « Assimil French » Quatrième leçon - L'heure
 author: aaron
 date: 2023-05-04

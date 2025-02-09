@@ -1,6 +1,6 @@
 ---
 title: 36 Ça y est
-slug: ça-y-est
+slug: 36 ça-y-est
 description: « Assimil French » Trente-sixième leçon - J'espère que je n'ai rien oublié...
 author: aaron
 date: 2023-06-27

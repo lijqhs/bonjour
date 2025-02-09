@@ -1,6 +1,6 @@
 ---
 title: 19 C'est gratuit
-slug: C'est gratuit
+slug: 19 C'est gratuit
 description: « Assimil French » Dix-neuvième leçon - Un bel endroit pour une fête
 author: aaron
 date: 2023-06-10

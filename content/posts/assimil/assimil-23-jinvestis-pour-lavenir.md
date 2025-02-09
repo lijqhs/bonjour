@@ -1,6 +1,6 @@
 ---
 title: 23 J'investis pour l'avenir
-slug: J'investis pour l'avenir
+slug: 23 J'investis pour l'avenir
 description: « Assimil French » Vingt-troisième leçon - Comment réussir au loto
 author: aaron
 date: 2023-06-14

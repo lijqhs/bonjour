@@ -1,6 +1,6 @@
 ---
 title: 47 Allez, au boulot !
-slug: allez au boulot
+slug: 47 allez au boulot
 description: « Assimil French » Quarante-septième leçon - Un déménagement
 author: aaron
 date: 2023-08-02

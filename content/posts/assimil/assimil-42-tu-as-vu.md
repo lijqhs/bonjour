@@ -1,6 +1,6 @@
 ---
 title: 42 Tu as vu ?
-slug: tu-as-vu
+slug: 42 tu-as-vu
 description: « Assimil French » Quarantième-deuxième leçon - Révision
 author: aaron
 date: 2023-07-03

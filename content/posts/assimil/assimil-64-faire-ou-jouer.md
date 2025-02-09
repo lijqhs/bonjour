@@ -1,6 +1,6 @@
 ---
 title: 64 Faire ou Jouer
-slug: Faire ou Jouer
+slug: 64 Faire ou Jouer
 description: « Assimil French » Soixante-quatrième leçon - Je crains le pire...
 author: aaron
 date: 2023-12-26

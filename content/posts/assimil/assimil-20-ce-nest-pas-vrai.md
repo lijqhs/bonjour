@@ -1,6 +1,6 @@
 ---
 title: 20 Ce n'est pas vrai !
-slug: Ce n'est pas vrai
+slug: 20 Ce n'est pas vrai
 description: « Assimil French » Vingtième leçon - Un monde idéal
 author: aaron
 date: 2023-06-11

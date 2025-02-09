@@ -1,6 +1,6 @@
 ---
 title: 53 C'est simple comme bonjour
-slug: cest-simple-comme-bonjour
+slug: 53 cest-simple-comme-bonjour
 description: « Assimil French » Cinquante-troisième leçon - Je ne ferai plus jamais ça !
 author: aaron
 date: 2023-09-10

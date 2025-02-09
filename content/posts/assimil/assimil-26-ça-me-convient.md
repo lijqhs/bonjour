@@ -1,6 +1,6 @@
 ---
 title: 26 Ça me convient
-slug: Ça me convient
+slug: 26 Ça me convient
 description: « Assimil French » Vingt-sixième leçon - Déjeunons ensemble (suite)
 author: aaron
 date: 2023-06-17

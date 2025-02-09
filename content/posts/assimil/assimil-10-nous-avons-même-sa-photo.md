@@ -1,6 +1,6 @@
 ---
 title: 10 Nous avons même sa photo
-slug: Nous avons même sa photo
+slug: 10 Nous avons même sa photo
 description: « Assimil French » Dixième leçon - C'est très simple !
 author: aaron
 date: 2023-05-10

@@ -1,6 +1,6 @@
 ---
 title: 16 La Ville lumière
-slug: La Ville lumière
+slug: 16 La Ville lumière
 description: « Assimil French » Quinzième leçon - Un tour dans Paris (Deuxième partie)
 author: aaron
 date: 2023-05-16

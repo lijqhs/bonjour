@@ -1,6 +1,6 @@
 ---
 title: 48 Qu'est-ce qui se passe ?
-slug: quest ce qui se passe
+slug: 48 quest ce qui se passe
 description: « Assimil French » Quarante-huitième leçon - Ça ne me dit rien
 author: aaron
 date: 2023-08-05

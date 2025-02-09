@@ -1,6 +1,6 @@
 ---
 title: 40 J'ai horreur d'attendre
-slug: jai-horreur-dattendre
+slug: 40 jai-horreur-dattendre
 description: « Assimil French » Quarantième leçon - Tu es si impatient !
 author: aaron
 date: 2023-07-01

@@ -1,6 +1,6 @@
 ---
 title: 46 Aucun souci
-slug: Aucun souci
+slug: 46 Aucun souci
 description: « Assimil French » Quarante-sixième leçon - Depuis, je n'ai aucune nouvelle
 author: aaron
 date: 2023-08-01

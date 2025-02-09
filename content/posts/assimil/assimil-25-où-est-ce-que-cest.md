@@ -1,6 +1,6 @@
 ---
 title: 25 Où est-ce que c'est ?
-slug: Où est-ce que c'est
+slug: 25 Où est-ce que c'est
 description: « Assimil French » Vingt-cinquième leçon - Déjeunons ensemble
 author: aaron
 date: 2023-06-16

@@ -1,6 +1,6 @@
 ---
 title: 76 Je l'ai sur le bout de la langue
-slug: Je l'ai sur le bout de la langue
+slug: 76 Je l'ai sur le bout de la langue
 description: « Assimil French » Soixante-seizième leçon - "Culture générale" le jeu radiophonique
 author: aaron
 date: 2024-07-06

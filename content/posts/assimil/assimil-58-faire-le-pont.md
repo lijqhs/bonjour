@@ -1,6 +1,6 @@
 ---
 title: 58 Faire le pont
-slug: faire-le-pont
+slug: 58 faire-le-pont
 description: « Assimil French » Cinquante-huitème leçon - Un grincheux
 author: aaron
 date: 2023-09-18

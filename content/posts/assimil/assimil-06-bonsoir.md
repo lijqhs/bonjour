@@ -1,6 +1,6 @@
 ---
 title: 06 Bonsoir
-slug: Bonsoir
+slug: 06 Bonsoir
 description: « Assimil French » Sixième leçon - À l'hôtel
 author: aaron
 date: 2023-05-06

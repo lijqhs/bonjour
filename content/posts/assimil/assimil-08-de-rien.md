@@ -1,6 +1,6 @@
 ---
 title: 08 De rien !
-slug: De rien
+slug: 08 De rien
 description: « Assimil French » Huitième leçon - Une visite
 author: aaron
 date: 2023-05-08

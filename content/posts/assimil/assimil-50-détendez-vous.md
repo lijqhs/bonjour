@@ -1,6 +1,6 @@
 ---
 title: 50 Détendez-vous !
-slug: Détendez-vous
+slug: 50 Détendez-vous
 description: « Assimil French » Cinquantième leçon - Je m'ennuie...
 author: aaron
 date: 2023-09-07

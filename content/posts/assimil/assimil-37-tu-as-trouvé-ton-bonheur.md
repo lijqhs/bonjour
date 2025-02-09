@@ -1,6 +1,6 @@
 ---
 title: 37 Tu as trouvé ton bonheur ?
-slug: tu-as-trouvé-ton-bonheur
+slug: 37 tu-as-trouvé-ton-bonheur
 description: « Assimil French » Trente-septième leçon - J'ai réfléchi à la question du loyer...
 author: aaron
 date: 2023-06-28

@@ -1,6 +1,6 @@
 ---
 title: 27 Tout est complet
-slug: Tout est complet
+slug: 27 Tout est complet
 description: « Assimil French » Vingt-septième leçon - Hôtel complet
 author: aaron
 date: 2023-06-18

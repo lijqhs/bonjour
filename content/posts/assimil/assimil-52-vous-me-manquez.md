@@ -1,6 +1,6 @@
 ---
 title: 52 Vous me manquez
-slug: vous-me-manquez
+slug: 52 vous-me-manquez
 description: « Assimil French » Cinquante-deuxième leçon - Nous nous sommes bien amusés !
 author: aaron
 date: 2023-09-09

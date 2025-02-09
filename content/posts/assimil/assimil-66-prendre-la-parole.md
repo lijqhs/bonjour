@@ -1,6 +1,6 @@
 ---
 title: 66 Prendre la parole
-slug: Prendre la parole
+slug: 66 Prendre la parole
 description: « Assimil French » Soixante-sixième leçon - Président d'un jour
 author: aaron
 date: 2023-12-31

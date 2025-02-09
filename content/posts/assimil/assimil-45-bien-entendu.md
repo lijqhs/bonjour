@@ -1,6 +1,6 @@
 ---
 title: 45 Bien entendu
-slug: Bien entendu
+slug: 45 Bien entendu
 description: « Assimil French » Quarante-cinquième leçon - Il n'y a pas de métiers inutiles
 author: aaron
 date: 2023-07-31

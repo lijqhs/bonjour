@@ -1,6 +1,6 @@
 ---
 title: 77 The passive voice and pronominal verbs
-slug: The passive voice and pronominal verbs
+slug: 77 The passive voice and pronominal verbs
 description: « Assimil French » Soixante-dix-septième leçon - Révision
 author: aaron
 date: 2024-07-07

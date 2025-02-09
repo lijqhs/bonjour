@@ -1,6 +1,6 @@
 ---
 title: 07 Comment le savez-vous ?
-slug: Comment le savez-vous
+slug: 07 Comment le savez-vous
 description: « Assimil French » Septième leçon - Révision
 author: aaron
 date: 2023-05-07

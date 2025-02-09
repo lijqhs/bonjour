@@ -1,6 +1,6 @@
 ---
 title: 31 Je vous en prie
-slug: Je vous en prie
+slug: 31 Je vous en prie
 description: « Assimil French » Trente et unième leçon - J'en ai besoin rapidement
 author: aaron
 date: 2023-06-22

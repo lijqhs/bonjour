@@ -1,6 +1,6 @@
 ---
 title: 17 avoir envie de
-slug: avoir envie de
+slug: 17 avoir envie de
 description: « Assimil French » Dix-septième leçon - Quels sont vos projets ?
 author: aaron
 date: 2023-06-01

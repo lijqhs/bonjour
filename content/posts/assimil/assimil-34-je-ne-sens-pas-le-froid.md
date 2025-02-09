@@ -1,6 +1,6 @@
 ---
 title: 34 Je ne sens pas le froid
-slug: Je ne sens pas le froid
+slug: 34 Je ne sens pas le froid
 description: « Assimil French » Trente-quatrième leçon - Les randonneurs
 author: aaron
 date: 2023-06-25

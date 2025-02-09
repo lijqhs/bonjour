@@ -1,6 +1,6 @@
 ---
 title: 32 Vous n'êtes pas au courant ?
-slug: Vous n'êtes pas au courant
+slug: 32 Vous n'êtes pas au courant
 description: « Assimil French » Trente-deuxième leçon - Je ne peux plus continuer comme ça
 author: aaron
 date: 2023-06-23

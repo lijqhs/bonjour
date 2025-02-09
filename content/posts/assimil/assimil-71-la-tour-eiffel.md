@@ -1,6 +1,6 @@
 ---
 title: 71 La Tour Eiffel
-slug: La Tour Eiffel
+slug: 71 La Tour Eiffel
 description: « Assimil French » Soixante et onzième leçon - "La Dame de fer"
 author: aaron
 date: 2024-01-22

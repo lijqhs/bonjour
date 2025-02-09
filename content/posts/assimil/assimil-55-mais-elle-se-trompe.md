@@ -1,6 +1,6 @@
 ---
 title: 55 Mais elle se trompe
-slug: mais-elle-se-trompe
+slug: 55 mais-elle-se-trompe
 description: « Assimil French » Cinquante-cinquième leçon - Mais c'est horrible, ton film !
 author: aaron
 date: 2023-09-12

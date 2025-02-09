@@ -1,6 +1,6 @@
 ---
 title: 24 Qu'est-ce qui ne va pas
-slug: Qu'est-ce qui ne va pas
+slug: 24 Qu'est-ce qui ne va pas
 description: « Assimil French » Vingt-quatrième leçon - Je ne vais pas bien du tout
 author: aaron
 date: 2023-06-15

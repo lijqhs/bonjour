@@ -1,6 +1,6 @@
 ---
 title: 02 Au restaurant
-slug: Au restaurant
+slug: 02 Au restaurant
 description: « Assimil French » Deuxième leçon - Le café
 author: aaron
 date: 2023-05-02

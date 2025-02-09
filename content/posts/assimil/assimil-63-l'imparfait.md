@@ -1,6 +1,6 @@
 ---
 title: 63 L'imparfait
-slug: l'imparfait
+slug: 63 l'imparfait
 description: « Assimil French » Soixante-troisième leçon - Révision
 author: aaron
 date: 2023-12-18

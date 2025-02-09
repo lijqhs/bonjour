@@ -1,6 +1,6 @@
 ---
 title: 67 Conjugation w/ avoir and être
-slug: Conjugation w avoir and être
+slug: 67 Conjugation w avoir and être
 description: « Assimil French » Soixante-septième leçon - L'encre la plus pâle...
 author: aaron
 date: 2024-01-04

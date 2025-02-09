@@ -1,6 +1,6 @@
 ---
 title: 65 Le conditionnel
-slug: Le conditionnel
+slug: 65 Le conditionnel
 description: « Assimil French » Soixante-cinquième leçon - Cent pour cent des gagnants ont tenté leur chance !
 author: aaron
 date: 2023-12-29

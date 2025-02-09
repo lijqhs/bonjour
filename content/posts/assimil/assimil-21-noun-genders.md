@@ -1,6 +1,6 @@
 ---
 title: 21 Noun Genders
-slug: noun-genders
+slug: 21 noun-genders
 description: « Assimil French » Vingt et unième leçon - Révision
 author: aaron
 date: 2023-06-12

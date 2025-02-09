@@ -1,6 +1,6 @@
 ---
 title: 05 Allez tout droit
-slug: Allez tout droit
+slug: 05 Allez tout droit
 description: « Assimil French » Cinquième leçon - Je cherche le métro
 author: aaron
 date: 2023-05-05

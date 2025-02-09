@@ -1,6 +1,6 @@
 ---
 title: 14 BAGS
-slug: BAGS
+slug: 14 BAGS
 description: « Assimil French » Quatorzième leçon - Révision
 author: aaron
 date: 2023-05-14

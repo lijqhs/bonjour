@@ -1,6 +1,6 @@
 ---
 title: 60 Laissez-moi parler
-slug: laissez-moi-parler
+slug: 60 laissez-moi-parler
 description: « Assimil French » Soixantième leçon - Le voisinage est de plus en plus dangereux !
 author: aaron
 date: 2023-09-20

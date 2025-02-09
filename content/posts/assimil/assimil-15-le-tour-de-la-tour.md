@@ -1,6 +1,6 @@
 ---
 title: 15 le tour de la tour
-slug: le tour de la tour
+slug: 15 le tour de la tour
 description: « Assimil French » Quinzième leçon - Un tour dans Paris (Première partie)
 author: aaron
 date: 2023-05-15

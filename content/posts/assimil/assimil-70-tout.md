@@ -1,6 +1,6 @@
 ---
 title: 70 Tout
-slug: Tout
+slug: 70 Tout
 description: « Assimil French » Soixante-dixième leçon - Révision
 author: aaron
 date: 2024-01-17

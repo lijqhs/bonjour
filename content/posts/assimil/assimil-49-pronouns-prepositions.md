@@ -1,6 +1,6 @@
 ---
 title: 49 Pronous, Preposition
-slug: Pronous, Preposition
+slug: 49 Pronous, Preposition
 description: « Assimil French » Quarante-neuvième leçon - Révision
 author: aaron
 date: 2023-08-06

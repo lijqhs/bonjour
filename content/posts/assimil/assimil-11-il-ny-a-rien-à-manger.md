@@ -1,6 +1,6 @@
 ---
 title: 11 Il n'y a rien à manger
-slug: Il n'y a rien à manger
+slug: 11 Il n'y a rien à manger
 description: « Assimil French » Onzième leçon - Au marché (Première partie)
 author: aaron
 date: 2023-05-11

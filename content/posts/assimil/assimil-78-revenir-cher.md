@@ -1,6 +1,6 @@
 ---
 title: 78 Nous leur en avons promis
-slug: nous leur en avons promis
+slug: 78 Nous leur en avons promis
 description: « Assimil French » Soixante-dix-huitième leçon - "Les voyages forment la jeunesse"
 author: aaron
 date: 2025-02-01

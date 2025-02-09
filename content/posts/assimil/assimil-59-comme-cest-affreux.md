@@ -1,6 +1,6 @@
 ---
 title: 59 Comme c'est affreux
-slug: Comme-cest-affreux
+slug: 59 comme-cest-affreux
 description: « Assimil French » Cinquante-neuvième leçon - Il ne gagnait (presque) jamais
 author: aaron
 date: 2023-09-19

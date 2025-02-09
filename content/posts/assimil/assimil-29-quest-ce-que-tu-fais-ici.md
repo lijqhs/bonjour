@@ -1,6 +1,6 @@
 ---
 title: 29 Qu'est-ce que tu fais ici ?
-slug: Qu'est-ce que tu fais ici
+slug: 29 Qu'est-ce que tu fais ici
 description: « Assimil French » Vingt-neuvième leçon - Comment vas-tu ?
 author: aaron
 date: 2023-06-20

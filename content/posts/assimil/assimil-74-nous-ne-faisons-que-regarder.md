@@ -1,6 +1,6 @@
 ---
 title: 74 Nous ne faisons que regarder
-slug: Nous ne faisons que regarder
+slug: 74 Nous ne faisons que regarder
 description: « Assimil French » Soixante-quatorzième leçon - Les soldes
 author: aaron
 date: 2024-06-02

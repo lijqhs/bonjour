@@ -1,6 +1,6 @@
 ---
 title: 12 Elles sont à combien ?
-slug: Elles sont à combien
+slug: 12 Elles sont à combien
 description: « Assimil French » Douzième leçon - Au marché (Deuxième partie)
 author: aaron
 date: 2023-05-12

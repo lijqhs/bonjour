@@ -1,6 +1,6 @@
 ---
 title: 18 Mon emploi du temps est très chargé
-slug: Mon emploi du temps est très chargé
+slug: 18 Mon emploi du temps est très chargé
 description: « Assimil French » Dix-huitième leçon - Prenons rendez-vous avec le banquier
 author: aaron
 date: 2023-06-09

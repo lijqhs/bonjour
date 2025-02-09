@@ -1,6 +1,6 @@
 ---
 title: 22 Je n'ai pas un sou
-slug: Je n'ai pas un sou
+slug: 22 Je n'ai pas un sou
 description: « Assimil French » Vingt-deuxième leçon - Réfléchissez, choisissez, jouez
 author: aaron
 date: 2023-06-13

@@ -1,6 +1,6 @@
 ---
 title: 43 Personne ne le sait
-slug: Personne ne le sait
+slug: 43 Personne ne le sait
 description: « Assimil French » Quarante-troisième leçon - Le foot féminin
 author: aaron
 date: 2023-07-27

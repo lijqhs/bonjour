@@ -1,6 +1,6 @@
 ---
 title: 33 Je ne vois rien qui m'intéresse
-slug: Je ne vois rien qui m'intéresse
+slug: 33 Je ne vois rien qui m'intéresse
 description: « Assimil French » Trente-troisième leçon - Je n'ai rien dans ma garde-robe
 author: aaron
 date: 2023-06-24

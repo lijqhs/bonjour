@@ -1,6 +1,6 @@
 ---
 title: 57 Comment ça se fait
-slug: comment-ça-se-fait
+slug: 57 comment-ça-se-fait
 description: « Assimil French » Cinquante-septième leçon - Vive les Bretons !
 author: aaron
 date: 2023-09-17

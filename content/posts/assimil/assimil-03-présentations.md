@@ -1,6 +1,6 @@
 ---
 title: 03 Présentations
-slug: Présentations
+slug: 03 Présentations
 description: « Assimil French » Troisième leçon - Présentations
 author: aaron
 date: 2023-05-03
