@@ -1,6 +1,6 @@
 ---
-title: 82 Je vous le jure
-slug: Je vous le jure
+title: 82 Personne ne me passionne
+# slug: 82 Personne ne me passionne
 description: « Assimil French » Soixante-vingt-deuxième leçon - Qu'ils sont idiots !
 author: aaron
 date: 2025-02-08
@@ -169,10 +169,11 @@ Remember, "ne ... aucun" is a strong negative that emphasizes the complete absen
 
 ### 💬 Examples from the text
 
-- Pour certains, s'entretenir dans la rue avec un inconnu **ne** pose **aucun** problème ;
-- alors que pour d'autres, ça **n'**a **aucun** intérêt - et ils le font savoir.
-- En vérité, je **n'**ai **aucune** opinion, tout court.
-- Ils **ne** posent **aucune** question intéressante.
+- Pour certains, s'entretenir dans la rue avec un inconnu ne pose aucun problème ;
+- alors que pour d'autres, ça n'a aucun intérêt - et ils le font savoir.
+- En vérité, je n'ai aucune opinion, tout court.
+- Je n'en connais aucun.
+- Ils ne posent aucune question intéressante.
 
 ---
 
@@ -280,6 +281,32 @@ Examples:
 
 ---
 
+## *Ça m'est indifférent*
+
+"Ça m'est indifférent" is a French phrase that means "I don't mind," "It's all the same to me," or "I'm indifferent."
+
+Let's break it down:
+
+*   **Ça:** This; it (shortened form of "cela")
+*   **m':** to me (shortened form of "me," an indirect object pronoun)
+*   **est:** is (third-person singular present tense of the verb "être," to be)
+*   **indifférent:** indifferent, of no concern
+
+Here's the grammar breakdown:
+
+*   "Ça" is the subject of the sentence.
+*   "m'" is an indirect object pronoun, indicating to whom the indifference applies.
+*   "est" is the verb.
+*   "indifférent" is an adjective that describes the subject "ça." Because the implied noun is masculine, "indifférent" takes the masculine form.
+
+The sentence structure is somewhat inverted to emphasize the indifference. A more literal, but less common, word order would be "Ça est indifférent à moi."
+
+Examples of how you might use this phrase:
+
+*   "On va au cinéma ou au restaurant?" "Ça m'est indifférent." ("Are we going to the movies or a restaurant?" "I don't mind.")
+*   "Tu préfères le bleu ou le rouge?" "Ça m'est indifférent." ("Do you prefer blue or red?" "It's all the same to me.")
+
+---
 
 ## Grammar Breakdown
 
@@ -316,8 +343,10 @@ Therefore, the sentence means: "The pollster is leaving, discouraged." It implie
 | pré-électoral | pre-election |
 | s'entretenir | be maintained, be looked after |
 | s'entretenir avec | talk to, talk with, have a discussion with |
+| dans la rue | in the street, on the street |
 | inconnu | adj. unknown, unidentified, n.m. (n.f. *inconnue*) unknown person, unidentified person |
 | poser problème | pose a problem, cause a problem |
+| alors que | while, when, even though, whereas </br> - *Ma sœur est petite alors que je suis grande.* My sister is short, whereas I am tall. |
 | faire savoir | (*porter (qch) à la connaissance de (qqn)*) let (sb) know (sth) </br> - *Madame vous **fait savoir** qu'elle sera absente cette après-midi.* Madam would like to let you know that she will be absent this afternoon. |
 | court | short |
 | questionnaire | questionnaire |
@@ -326,6 +355,7 @@ Therefore, the sentence means: "The pollster is leaving, discouraged." It implie
 | encombrer | (*prendre de la place*) be in the way, take up too much space, take up too much room </br> (*saturer*) block </br> - *Les appels téléphoniques encombrent la ligne.* The phone calls are blocking the line. |
 | s'agir de | (*être au sujet de*) be a question of, be a matter of ([see details](#sagir-de)) |
 | il s'agit de | it has to do with, it's a question of </br> - *Je dois vous parler : il s'agit de votre salaire.* I have to talk to you, it has to do with your salary. |
+| parler de tout et de rien | talk about anything and everything |
 | quelques instants | a few moments </br> - *Pouvez-vous attendre quelques instants ? Le rendez-vous précédent n'est pas encore fini.* |
 | accorder | (*qch à qqn*) agree to [sth] with [sb], give [sth] to [sb], grant [sth] to [sb] |
 | faire vite | (*se dépêcher*) be quick |
@@ -345,7 +375,9 @@ Therefore, the sentence means: "The pollster is leaving, discouraged." It implie
 | efficace | effective |
 | concerner | affect, concern, relate to, apply to </br> - *Cette réunion te **concerne**, c'est à propos de la restructuration de ton service.* This meeting affects you; it's about the restructuring of your department. |
 | autorité | authority |
+| sans aucun intérêt | without any interest |
 | passionner | interest, stimulate, excite |
 | se passionner pour | be passionate about, be fascinated by </br> - *Charlotte **se passionne pour** la danse classique.* Charlotte is passionate about classical dance. |
 | sondeur | pollster |
 | découragé | discouraged | 
+| marmonner | (*parler sans articuler*) mumble, mutter |

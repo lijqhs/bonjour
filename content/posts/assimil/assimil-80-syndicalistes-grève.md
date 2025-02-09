@@ -1,6 +1,6 @@
 ---
 title: 80 Certains sont plus égaux que d'autres
-slug: Certains sont plus égaux que d'autres
+slug: 80 Certains sont plus égaux que d'autres
 description: « Assimil French » Soixante-vingtième leçon - "Notre action ne dépend que de vous."
 author: aaron
 date: 2025-02-04
