@@ -1,7 +1,7 @@
 ---
 title: 81 Quoi qu'il en soit
 slug: 81-quoi-quil-en-soit
-description: « Assimil French » Soixante-vingt-unième leçon - La réaction des patrons
+description: « Assimil French » Quatre-vingt-unième leçon - La réaction des patrons
 author: aaron
 date: 2025-02-05
 categories: ["leçon"]

@@ -1,7 +1,7 @@
 ---
 title: 82 Personne ne me passionne
 slug: 82 Personne ne me passionne
-description: « Assimil French » Soixante-vingt-deuxième leçon - Qu'ils sont idiots !
+description: « Assimil French » Quatre-vingt-deuxième leçon - Qu'ils sont idiots !
 author: aaron
 date: 2025-02-08
 categories: ["leçon"]
