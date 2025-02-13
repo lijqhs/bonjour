@@ -5,7 +5,7 @@ author: aaron
 date: 2023-12-27
 categories: ["vocabulaire"]
 tags: ["voudrais", "veux"]
-series: ["scène de vie"]
+series: ["attention particulière"]
 cover: 
     image: https://cdn.jsdelivr.net/gh/lijqhs/cdn@1.7/img/gallery/s/jeshoots-com-TWRCH-GaKr4-unsplash.jpg
     hiddenInList: true

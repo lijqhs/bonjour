@@ -2,10 +2,10 @@
 title: les ou leur
 slug: les ou leur
 author: aaron
-date: 2025-02-13
+date: 2025-02-12
 categories: ["grammaire"]
 tags: ["les", "leur"]
-series: ["scène de vie"]
+series: ["attention particulière"]
 cover: 
     image: https://cdn.jsdelivr.net/gh/lijqhs/cdn@1.7/img/gallery/u/1/ian-dooley-DuBNA1QMpPA-unsplash.jpg
     hiddenInList: true
