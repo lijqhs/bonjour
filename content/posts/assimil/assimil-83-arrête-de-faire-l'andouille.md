@@ -72,8 +72,14 @@ cover:
 | chou | n.m. cabbage </br> adj. adorable, lovely, sweet |
 | mon chou | my dear, sweetheart |
 | être dans les choux | not be with it, be all at sea, be lost, be miles away from the ball |
+| mauvaise | wrong, incorrect, bad |
+| au mauvais moment | at the wrong time |
+| dans le mauvais sens | the wrong way, in the wrong direction |
+| perdre connaissance | (***s'évanouir***) lose consciousness, pass out |
 | tomber dans les pommes | faint, pass out </br> - *Après ce gros effort, l’athlète est tombée dans les pommes.* Following this huge effort, the athlete fainted. |
 | Spécialité de la Normandie | "Spécialité de la Normandie" means "Normandy specialty" or "Normandy specialty food" in French. Normandy is known for its diverse culinary specialties, both savory and sweet. Some of the most iconic foods from this region include andouille de Vire, seafood, cheeses, lamb, teurgoule, apple dishes, and escalopes à la Normande. |
+| en vacances | on holiday, on vacation |
+| aller en vacances | go on holiday, go on vacation |
 | radis | radish, penny, cent |
 | ne pas gagner un radis | not earn a penny, not earn much at all </br> - *Je travaille dur, mais je ne gagne pas un radis.* I work hard, but I don't earn a penny. |
 | publicité | advertising, publicity, commercial, ad |
