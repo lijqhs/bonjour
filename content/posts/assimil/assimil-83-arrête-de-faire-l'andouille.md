@@ -4,7 +4,7 @@ slug: 83 Arrête de faire l'andouille
 description: « Assimil French » Quatre-vingt-troisièm leçon - Du beurre dans les épinards...
 author: aaron
 date: 2025-02-11
-categories: ["leçon"]
+categories: ["leçon", "vocabulaire"]
 series: ["Assimil"]
 tags: [idioms]
 cover: 
