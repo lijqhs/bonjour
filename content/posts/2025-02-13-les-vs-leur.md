@@ -1,5 +1,5 @@
 ---
-title: les ou leur
+title: Les ou Leur
 slug: les ou leur
 author: aaron
 date: 2025-02-13

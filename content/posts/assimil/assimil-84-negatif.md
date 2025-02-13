@@ -6,9 +6,9 @@ author: aaron
 date: 2025-02-13
 categories: ["leçon", "grammaire"]
 series: ["Assimil"]
-tags: [idioms]
+tags: [idioms, negative]
 cover: 
-    image: https://cdn.jsdelivr.net/gh/lijqhs/cdn@1.8/img/gallery/s/ian-schneider-dqMxDqdhg_4-unsplash.jpg
+    image: https://cdn.jsdelivr.net/gh/lijqhs/cdn@1.8/img/gallery/fr/inha-bae-e1EfrTVeEZs-unsplash.jpg
     # hidden: true # hide everywhere but not in structured data
     hiddenInList: true # hide on list pages and home
     # hiddenInSingle: true # hide on single page
