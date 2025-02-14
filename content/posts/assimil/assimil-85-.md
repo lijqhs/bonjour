@@ -4,7 +4,7 @@ slug: 85 Occupe-toi de tes oignons
 description: « Assimil French » Quatre-vingt-cinquième leçon - Comment ça, je massacre le français ?
 author: aaron
 date: 2025-02-14
-categories: ["leçon", "grammaire"]
+categories: ["leçon", "vocabulaire"]
 series: ["Assimil"]
 tags: [idioms]
 cover: 
@@ -12,7 +12,7 @@ cover:
     # hidden: true # hide everywhere but not in structured data
     hiddenInList: true # hide on list pages and home
     # hiddenInSingle: true # hide on single page
-draft: true
+# draft: true
 ---
 
 
@@ -50,3 +50,19 @@ draft: true
 | se mêler de [qch] | (*prendre part à [qch]*) meddle in [sth], interfere in [sth] |
 | filer | (*transformer en fil*) spin, fly, run, dash </br> - *Excuse-moi, il est midi, il faut que je file.* Sorry, it's lunchtime; I have to fly. |
 | Il faut que je file | I have to dash |
+| Pour l'amour du ciel ! | For God's sake! |
+| massacrer | slaughter, massacre |
+| Molière | French author of sophisticated comedies, Molière was a French playwright and actor in the 17th century whose real name was Jean-Baptiste Poquelin. Molière's plays were very popular and he became a star at the court of King Louis XIV. | 
+| la langue de Molière | "the language of Molière" and is a common way to refer to the French language. The expression is a way to honor a famous author who has contributed to a language. |
+| de même | likewise, the same |
+| deux fois plus | twice as much </br> - *Cette année, il a plu deux fois plus que l'année dernière.* This year it rained twice as much as last year. |
+| emprunter | borrow </br> *emprunter [qch] à [qqn]* (=*se faire prêter [qch]*) borrow [sth] from [sb] </br> - *J'ai emprunté sa tondeuse au voisin, car la mienne était en panne.* I borrowed the neighbour's lawnmower, as mine wasn't working. (I borrowed a lawnmower from my neighbour, because mine had broken down.) |
+| truc | trick, thing, stuff |
+| espèce | species, variety, type |
+| espèce de | (*sorte de*) +[qch] kind of [sth], type of [sth], sort of [sth], form of [sth] </br> - *La galette est une espèce de crêpe au blé noir.* The "galette" is a sort of buckwheat pancake. </br> *péjoratif* (*emphase négative*) you </br> - *Espèce d'imbécile !* You (damn) fool! </br> - *Espèce d'idiot !* You little idiot! |
+| galette | buckwheat pancake, waffle |
+| voyou | lout, gangster, bandit, thug </br> (*enfant turbulent*) rascal, scallywag (a mischievous or cheeky person, especially a child or man (typically used in an affectionate way), a person who behaves badly but in an amusingly mischievous rather than harmful way) |
+| curiosité | curiosity |
+| vilain | awful, dreadful, ugly, nasty, naughty child |
+| défaut | fault, flaw |
+| Et comment ! | Do I ever! / Yes please! |
