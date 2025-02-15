@@ -1,5 +1,5 @@
 ---
-title: `Il fait` ou `Il faut`
+title: *Il fait* ou *Il faut*
 slug: il-fait-vs-il-faut
 author: aaron
 date: 2025-02-13
