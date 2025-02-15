@@ -47,7 +47,8 @@ cover:
 | conseiller clientèle | customer adviser |
 | mettre son nez dans | (+qch) peer at [sth], peer into [sth] </br> - *Tu mets ton nez partout.* You stick your nose into everything. |
 | mêler | mix, blend, confuse </br> - *Arrête ! Tu me mêles.* Stop! You're confusing me. |
-| se mêler de [qch] | (*prendre part à [qch]*) meddle in [sth], interfere in [sth] |
+| se mêler de | (*prendre part à [qch]*) meddle in [sth], interfere in [sth] |
+| se mêler de ses affaires | mind your own business |
 | filer | (*transformer en fil*) spin, fly, run, dash </br> - *Excuse-moi, il est midi, il faut que je file.* Sorry, it's lunchtime; I have to fly. |
 | Il faut que je file | I have to dash |
 | Pour l'amour du ciel ! | For God's sake! |
@@ -66,3 +67,4 @@ cover:
 | vilain | awful, dreadful, ugly, nasty, naughty child |
 | défaut | fault, flaw |
 | Et comment ! | Do I ever! / Yes please! |
+| quand même | all the same, still, anyway, even so </br> - *Je sais que je ne dois pas me mêler des affaires des autres, mais je suis quand même curieux.* I know that I'm not supposed to meddle in other people's business, but I'm still curious. |
