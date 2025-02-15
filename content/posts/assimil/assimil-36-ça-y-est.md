@@ -6,7 +6,7 @@ author: aaron
 date: 2023-06-27
 categories: ["leçon", "vocabulaire", "grammaire"]
 series: ["Assimil"]
-tags: [y, passé composé]
+tags: ["y", passé composé]
 cover: 
     image: https://cdn.jsdelivr.net/gh/lijqhs/cdn@1.7/img/gallery/ca/james-yBHVDzr9NDU-unsplash.jpg
     # hidden: true # hide everywhere but not in structured data
@@ -146,22 +146,50 @@ what / which
 | mots | explications |
 | ---- | ---- |
 | le volet | shutter [^4]| 
+| vérifier | verify, check, confirm |
 | le grenier | attic |
 | verrouiller | to bolt. P.P. verrouillé |
+| fermer à clé | *fermer [qch] à clé* (=*verrouiller*) lock </br> - *Vous avez fermé la porte à clé ?* Have you locked the door? |
 | un verrou | a bolt |
+| une serrure | n.f. lock |
+| réfrigérateur | n.m. fridge |
+| congélateur | n.m. freezer |
 | la cave | cellar |
+| vider | empty |
+| poubelle | n.f. trash can, garbage can |
+| salle de bains | bathroom |
 | la corbeille | basket, recycle bin <br/> *une corbeille à papier* a wastepaper basket <br/> *corbeille à pain* breadbasket |
+| corbeille à papier | wastepaper basket |
+| Ne t'inquiète pas | Don't worry |
+| cacher | hide, conceal |
 | la bague | ring |
 | le collier | necklace |
+| ce que | what |
+| déposer | drop off, leave, deposit | 
 | coffre | chest, safe, trunk [^5] |
+| en ligne | online, on the internet |
+| démander à | *demander [qch] (à [qqn])* ask [sb] [sth] |
 | boîte à lettres | mailbox |
 | de temps en temps | from time to time |
 | le drap | sheet (for bed) |
+| nettoyer | clean |
+| nettoyage | cleaning |
+| nettoyage à sec | dry cleaning |
+| laver | wash |
 | la vaisselle | dishes |
 | arroser | to water |
 | débrancher | to unplug |
+| four | n.m. oven |
+| appareil | device, appliance |
+| électrique | electric, electrical |
+| heureusement | fortunately, luckily |
+| oublier | forget |
+| billet d'avion | plane ticket </br> - *Les billets d'avion se réservent facilement sur internet désormais.* Plane tickets can easily be booked online these days. |
 | laisser | to leave, to let <br/> - *J'ai laissé mon parapluie à la maison.* I've left my umbrella at home. <br/> - *Laisse-le parler.* Let him speak. | 
 | un sac à main | a handbag |
+| salon | living room, lounge, sitting room |
+| tout va bien | all is well, everything is fine |
+| tous les jours | every day, daily |
 
 
 [^4]: [volet and house words (pic)](https://www.collinsdictionary.com/dictionary/french-english/volet)
