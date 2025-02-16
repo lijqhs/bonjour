@@ -146,6 +146,7 @@ what / which
 | mots | explications |
 | ---- | ---- |
 | commander | be in charge of [sth], order |
+| fenêtre | n.f. window |
 | le volet | shutter [^4]| 
 | vérifier | verify, check, confirm |
 | le grenier | attic |

@@ -47,3 +47,19 @@ Indirect object pronouns are used to avoid repeating a noun.
 | nous    | to/for us          | Elle nous montre la ville. (She shows us the city.) |
 | vous    | to/for you         | Je vous envoie un message. (I am sending you a message.) |
 | leur    | to/for them        | Ils leur parlent. (They are talking to them.) |
+
+
+
+## Vocabulaire
+
+| mots | explications |
+| ---- | ---- |
+| à côté de | next to, alongside, beside </br> - *La mairie est à côté de l'église.* The town hall is next to the church. |
+| à côté | next door, nearby, close by </br> - *Voici l'église, et à côté, vous avez la mairie.* This is the church and next door is the town hall. |
+| hors de prix | (*beaucoup trop cher*) prohibitively expensive, unaffordable |
+| au moins | at least |
+| tant pis | (*Tant pis !*) Never mind! / Too bad! / Oh well! |
+| en fait | in fact, actually |
+| forger | (metal) forge |
+| forgeron | blacksmith |
+| C'est en forgeant que l'on devient forgeron | Practice makes perfect |

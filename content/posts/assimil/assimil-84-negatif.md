@@ -113,5 +113,10 @@ French has many fixed negative expressions.
 | avoir un cœur d'artichaut | (*tomber facilement amoureux*) be a hopeless romantic, fall in love easily |
 | Les voyages forment la jeunesse | Travel broadens the mind |
 | C'est dans les vieux pots qu'on fait la meilleure soupe | The best wine comes in old bottles |
+| travaux | (pl. *travail*) work |
 | reporter | n.m. reporter </br> postpone, put off </br> - *La réunion a été reportée à la semaine prochaine.* The meeting has been postponed until next week. </br> - *reporter le rendez-vous* postpone the appointment |
+| reporter le rendez-vous | postpone the appointment |
 | faire appel à | call on, call in, ask |
+| chantier | construction site |
+| en ce moment | at the moment, currently |
+| sentir | smell, feel, be aware of </br> - *Je commence à sentir la fatigue.* |
