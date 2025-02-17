@@ -51,18 +51,50 @@ For second group verbs (*-ir*), which means their past participles are formed by
 
 | mots | explications |
 | ---- | ---- |
+| loyer | (*prix de la location*) rent |
+| ça fait | (*+ [durée]*) (=*il y a*) have been doing [sth] for + [duration] |
+| louer | v. rent |
 | arrondissement | a neighbourhood / arrondir, to round off |
 | jugement | a judgement / juger, to judge |
 | avertissement | a warning / avertir, to warn |
+| avertir | to warn |
 | grandir | to grow |
 | élargir | to widen | 
 | réussir | to succeed |
+| immobilier | property, real estate |
+| agent immobilier | estate agent, real estate agent, realtor |
 | joindre | to put together, to contact |
-| le bonheur | happiness <br/> - *Après, trois mariages, elle a enfin trouvé le bonheur : être seule.* After three marriages, she finally found happiness: being alone. |
+| formulaire | form |
+| fournir | supply, provide, give |
+| renseignement | information |
+| rappeler | call [sb] back | 
+| lendemain | n.m. the next day |
+| propriété | n.f. property |
+| bonheur | n.m. happiness <br/> ▶︎ *Après, trois mariages, elle a enfin trouvé le bonheur : être seule.* After three marriages, she finally found happiness: being alone. |
 | moyen | ADJ. FEM moyenne, average, medium |
-| le moyen | way <br/> - *Je n'en ai pas les moyens.* I can't afford it. |
+| le moyen | way <br/> ▶︎ *Je n'en ai pas les moyens.* I can't afford it. |
+| avoir les moyens | (*avoir assez d'argent*) have money, have the money |
+| ce n'est pas dans mes moyens | (*c'est trop cher*) I can't afford it |
+| donner | give |
+| cour | courtyard |
+| intérieur | inside, interior, indoor |
+| premier étage | first floor |
+| intéressant | interesting, of interest, attractive |
+| bruyant | noisy |
+| spacieux | spacious, roomy | 
+| dernier étage | (*niveau le plus élevé d'une construction*) top floor |
+| joli | pretty, lovely, nice |
+| énorme | enormous, gigantic, huge |
+| terrasse | balcony, terrace, outside seating area |
+| tout autour | all around |
+| rien | nothing |
+| au-dessus | upstairs, above <br/> ▶︎ *J'habite au-dessus.* I live upstairs. <br/> ▶︎ *au-dessus de la table* above the table |
+| prohibitif | (*prix : exorbitant*) (price) prohibitive, prohibitively high |
+| élevé | high |
 | mensuel | monthly |
-| le loyer | rent |
-| au-dessus | upstairs, above <br/> - *J'habite au-dessus.* I live upstairs. <br/> - *au-dessus de la table* above the table |
-| au-dessous | downstairs, underneath <br/> - *dix degrés au-dessous de zéro* ten degrees below zero |
+| vivre | live |
+| au-dessous | downstairs, underneath <br/> ▶︎ *dix degrés au-dessous de zéro* ten degrees below zero |
+| en effet | indeed, that's right, actually, in fact, you're right, yes |
+| sérieusement | seriously, diligently, assiduously, painstakingly </br> ▶︎ *Il prépare sérieusement ses examens.* He is preparing diligently for his exams. |
 | garantir | to guarantee |
+| avoir de la chance | be lucky  </br> ▶︎ *Mon père a garanti mon loyer. J'ai vraiment de la chance !*|

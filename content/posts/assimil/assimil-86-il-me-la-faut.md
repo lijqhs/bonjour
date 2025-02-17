@@ -286,3 +286,4 @@ If the subject **changes**, these verbs must be followed by **"que"** + a conjug
 | rien de plus simple | (*c'est très simple*) nothing could be more simple |
 | assis | seated, sitting | 
 | en face | in front of, opposite |
+| rouvrir | open [sth] again |
