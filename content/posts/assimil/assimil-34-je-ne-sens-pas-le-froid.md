@@ -53,6 +53,9 @@ The present participle of regular *-ir* verbs ends in **-issant** (e.g., *finiss
 | choisir   | to choose       | choisissant        | choisis / choisis / choisit / choisissons / choisissez / choisissent |
 | *répartir*  | to divide into <br> to share out <br> (=partager) | répartissant | répartis / répartis / répartit / répartissons / répartissez / répartissent |
 
+
+---
+
 ## plural for nouns ending in *-ou*
 
 
@@ -68,11 +71,17 @@ Seven nouns ending in `ou` that form their plural by adding `x` instead of the u
 | joujou   | joujoux | toy(s)             |
 | pou      | poux   | louse/lice          |
 
+
+---
+
 ## *y compris*
 
 - *Ils l'organisent quatre fois par an, y compris en automne et en hiver.* They organise it four times a year, including in autumn and winter.
 - *Toute la famille est invitée, y compris ton frère.* The whole family is invited, including your brother.
 - *Tu connais Colmar ? - J'y habite.* Do you know Colmar? - I live there.
+
+
+---
 
 ## *il faut* vs. *il fait*
 
@@ -107,16 +116,48 @@ Key differences:
 - "Il faut" is often followed by an infinitive or "que" + subjunctive, while "il fait" is usually followed by an adjective or noun when describing weather.
 
 
+---
+
+## *Avoir mal à*
+
+**"Avoir mal à"** is a common French expression used to indicate **pain or discomfort in a specific part of the body**. It follows this structure:  
+
+📌 **Avoir mal à + definite article (le, la, l’, les) + body part**  
+
+### ✅ **Examples:**  
+- *J’ai mal à la tête.* → **I have a headache.**  
+- *Il a mal au dos.* → **He has back pain.**  
+- *Nous avons mal aux pieds après avoir marché toute la journée.* → **Our feet hurt after walking all day.**  
+
+### 🔹 **Contraction Rules:**  
+- **à + le** → **au** (*J’ai mal au ventre.*)  
+- **à + la** → **à la** (*Elle a mal à la gorge.*)  
+- **à + l’** → **à l’** (*Tu as mal à l’estomac.*)  
+- **à + les** → **aux** (*Ils ont mal aux yeux.*)  
+
+---
+
 ## Vocabulaire
 
 | mots | explications |
 | ---- | ---- |
-| le randonneur | hiker |
+| randonneur | n.m. hiker |
+| randonneuse | n.f. hiker |
+| courir | run |
+| genou | n.m. knee |
+| avoir mal à | pain or discomfort in a specific part of the body ([see above](#avoir-mal-à)) |
+| souffrir | suffer |
+| énormément | enormously, tremendously |
+| marche | step, walking, hike </br> ▶︎ *Il y a 1665 marches pour monter en haut de la Tour Eiffel.* There are 1,665 steps to get to the top of the Eiffel Tower. </br> ▶︎ *La marche est bonne pour le cœur.* Walking is good for the heart. |
 | vers | PREP. towards, at about |
+| s'arrêter | (*se terminer*) end, (*s'interrompre*) stop, break off, (*rester quelque part*) stay |
 | chemin | path, way <br> - *en chemin* on the way |
 | mi-chemin | ADV. halfway |
+| près de | close to, near |
+| tout seul | alone, all alone |
 | gêner | to bother, to feel awkward <br> - *Je ne voudrais pas vous gêner.* I don't want to bother you. |
 | tout de suite | straightaway <br> - *J'y vais tout de suite.* I'll go straightaway. |
-| le temps | weather, time <br> - *Je n'ai pas le temps pour ce mauvais temps.* I don't have time for this bad weather. |
-| le copain | friend, boyfriend |
-| la copine | friend, girlfriend |
+| temps | n.m. weather, time <br> - *Je n'ai pas le temps pour ce mauvais temps.* I don't have time for this bad weather. |
+| copain | n.m. friend, boyfriend |
+| copine | n.f. friend, girlfriend |
+| mettre le nez dehors | (*sortir*) go outside, go out, venture outside, venture out, venture outdoors |
