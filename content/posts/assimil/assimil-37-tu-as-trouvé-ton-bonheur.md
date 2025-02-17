@@ -76,7 +76,7 @@ For second group verbs (*-ir*), which means their past participles are formed by
 | avoir les moyens | (*avoir assez d'argent*) have money, have the money |
 | ce n'est pas dans mes moyens | (*c'est trop cher*) I can't afford it |
 | donner | give |
-| cour | courtyard |
+| cour | **n.f.** courtyard |
 | intérieur | inside, interior, indoor |
 | premier étage | first floor |
 | intéressant | interesting, of interest, attractive |
@@ -91,6 +91,7 @@ For second group verbs (*-ir*), which means their past participles are formed by
 | au-dessus | upstairs, above <br/> ▶︎ *J'habite au-dessus.* I live upstairs. <br/> ▶︎ *au-dessus de la table* above the table |
 | prohibitif | (*prix : exorbitant*) (price) prohibitive, prohibitively high |
 | élevé | high |
+| salaire | **n.m.** wage, salary | 
 | mensuel | monthly |
 | vivre | live |
 | au-dessous | downstairs, underneath <br/> ▶︎ *dix degrés au-dessous de zéro* ten degrees below zero |
@@ -98,3 +99,4 @@ For second group verbs (*-ir*), which means their past participles are formed by
 | sérieusement | seriously, diligently, assiduously, painstakingly </br> ▶︎ *Il prépare sérieusement ses examens.* He is preparing diligently for his exams. |
 | garantir | to guarantee |
 | avoir de la chance | be lucky  </br> ▶︎ *Mon père a garanti mon loyer. J'ai vraiment de la chance !*|
+| prendre des vacances | (*poser des jours de congé*) take a vacation |
