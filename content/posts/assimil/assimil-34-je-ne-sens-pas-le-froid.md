@@ -116,6 +116,20 @@ All other nouns ending in **-ou** form their plural by adding **-s** (e.g., *tro
 
 ---
 
+## *très* ou *trop*
+
+Both **"Il fait très froid."** and **"Il fait trop froid."** are grammatically correct in French, but they have slightly different meanings:  
+
+- **"Il fait très froid."** → "It is very cold."  
+  - This is a neutral way of saying that the weather is very cold.  
+- **"Il fait trop froid."** → "It is too cold."  
+  - This suggests that the cold is excessive or unbearable, implying a negative judgment.  
+
+So, if you simply want to describe very cold weather, use **"Il fait très froid."**  
+If you want to express discomfort or complain about the cold, use **"Il fait trop froid."**
+
+---
+
 ## Vocabulaire
 
 | mots | explications |
@@ -134,9 +148,14 @@ All other nouns ending in **-ou** form their plural by adding **-s** (e.g., *tro
 | mi-chemin | ADV. halfway |
 | près de | close to, near |
 | tout seul | alone, all alone |
+| pluvieux | (*dominé par la pluie*) rainy, wet |
+| pleuvoir | v. rain |
+| neiger | v. snow |
 | gêner | to bother, to feel awkward <br> - *Je ne voudrais pas vous gêner.* I don't want to bother you. |
 | tout de suite | straightaway <br> - *J'y vais tout de suite.* I'll go straightaway. |
 | temps | n.m. weather, time <br> - *Je n'ai pas le temps pour ce mauvais temps.* I don't have time for this bad weather. |
+| patron | boss |
+| tournée | round |
 | copain | n.m. friend, boyfriend |
 | copine | n.f. friend, girlfriend |
 | mettre le nez dehors | (*sortir*) go outside, go out, venture outside, venture out, venture outdoors |
