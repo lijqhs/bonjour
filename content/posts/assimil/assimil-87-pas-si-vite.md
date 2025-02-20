@@ -6,13 +6,39 @@ author: aaron
 date: 2025-02-18
 categories: ["leçon", "vocabulaire"]
 series: ["Assimil"]
-tags: [ne, subjunctive]
+tags: [ne, subjunctive, venir de]
 cover: 
     image: https://cdn.jsdelivr.net/gh/lijqhs/cdn@1.8/img/gallery/s/lei-jiang-csPvbh_E1uc-unsplash.jpg
     # hidden: true # hide everywhere but not in structured data
     hiddenInList: true # hide on list pages and home
     # hiddenInSingle: true # hide on single page
 # draft: true
+---
+
+## *venir de*
+
+**"Venir de"** is a French phrase that means **"to have just (done something)"** when followed by an infinitive verb. It's used to express **recent past**, similar to saying **"just"** in English.  
+
+### Structure:  
+✅ **Venir (conjugated) + de + infinitive**  
+Example:  
+- **Je viens de manger.** → *I just ate.*  
+- **Elle vient de partir.** → *She just left.*  
+- **Nous venons de finir le projet.** → *We just finished the project.*  
+
+### Conjugation of **Venir** (in Present Tense):
+| Person | Conjugation |
+|---------|-------------|
+| Je | viens |
+| Tu | viens |
+| Il/Elle/On | vient |
+| Nous | venons |
+| Vous | venez |
+| Ils/Elles | viennent |
+
+💡 **Note:** "Venir de" is different from just "Venir," which means "to come."  
+- **Il vient de Paris.** → *He comes from Paris.* (not recent past!)  
+
 ---
 
 ## `ne` as an expletive
@@ -153,6 +179,80 @@ Many impersonal expressions that require the **subjunctive** can be restructured
 ---
 
 
+### *On aurait dit*
+
+The French phrase **"On aurait dit"** is commonly used to express resemblance or a perceived impression. It translates roughly to **"It looked like"**, **"It seemed like"**, or **"One would have said"** in English.  
+
+#### **Grammar Breakdown**  
+- **"On"** → A subject pronoun meaning "one" or "people" (used impersonally).  
+- **"aurait dit"** → The past conditional of **"dire"** (to say), which conveys a hypothetical or uncertain statement.  
+
+Thus, **"On aurait dit"** literally means **"One would have said"**, but it's often used idiomatically to indicate something **appears to be a certain way**.  
+
+#### **Examples in Context**  
+1. **"On aurait dit un fantôme."**  
+   → *It looked like a ghost.*  
+2. **"On aurait dit du marbre."**  
+   → *It seemed like marble.*  
+3. **"On aurait dit qu’il allait pleurer."**  
+   → *It looked like he was about to cry.*  
+
+#### **Why Use "On aurait dit"?**  
+This phrase is useful for describing impressions, illusions, or things that resemble something else. It allows the speaker to **soften a statement** or indicate **subjectivity** in their observation.  
+
+---
+
+## *Tout laisse à penser*  
+
+The French expression **"Tout laisse à penser"** means **"Everything suggests"** or **"Everything leads one to believe"** in English. It's used to indicate that all available evidence or signs point toward a particular conclusion.  
+
+#### **Breakdown of the phrase:**  
+- **"Tout"** → *Everything*  
+- **"laisse"** → *leaves* (third-person singular of **laisser**, meaning "to leave" or "to let")  
+- **"à penser"** → *to think* / *to believe*  
+
+Thus, the phrase can be understood as **"Everything allows one to think that..."**  
+
+### **Examples in Context:**  
+1. **"Tout laisse à penser qu'il va démissionner."**  
+   → *Everything suggests that he is going to resign.*  
+2. **"Tout laisse à penser que c'était un accident."**  
+   → *All indications point to it being an accident.*  
+3. **"Tout laisse à penser que la situation va s’améliorer."**  
+   → *Everything suggests that the situation will improve.*  
+
+### **Synonyms & Alternatives:**  
+- **"Il semble que..."** → *It seems that...*  
+- **"Tout porte à croire que..."** → *Everything leads one to believe that...*  
+- **"On peut supposer que..."** → *One can assume that...*  
+
+
+---
+
+## **Imperative Rule for -ER Verbs**  
+
+In the **imperative (command) tense**, **-ER verbs** (and similar verbs like **essayer**) drop the final **-s** in the **tu** form.  
+
+✅ **Tu form:** Remove the **-s**  
+❌ **Do not use the regular present tense "tu" form**  
+
+### **Examples:**  
+- **Parler → Parle !** (*Speak!*)  
+- **Regarder → Regarde !** (*Look!*)  
+- **Essayer → Essaie !** (*Try!*)  
+- **Donner → Donne !** (*Give!*)  
+- **Essaie encore une fois !** → (*Try again!*)
+- **Essaye ce plat, il est délicieux.** → (*Try this dish, it's delicious.*)
+
+#### **🚨 Exception: When Followed by "Y" or "En"**  
+If the verb is followed by **"y"** or **"en"**, the **-s** is kept for pronunciation:  
+- **Vas-y !** (*Go ahead!*) (from *aller*)  
+- **Manges-en !** (*Eat some!*)  
+- **Essaies-en !** (*Try some!*)  
+
+---
+
+
 ## Vocabulaire
 
 | mots | explications |
@@ -161,6 +261,7 @@ Many impersonal expressions that require the **subjunctive** can be restructured
 | mener | (*diriger, commander*) lead, direct </br> (*conduire une action*) carry out, conduct |
 | enquête | survey, inquiry, investigation |
 | net | adj. (f. nette) clear, distinct |
+| venir de faire | have just done [sth] |
 | réchauffer | heat, warm up |
 | ennemi | enemy, foe, adversary |
 | sans vie | lifeless, dead |
@@ -216,6 +317,7 @@ Many impersonal expressions that require the **subjunctive** can be restructured
 | flotter | float |
 | odeur | smell, perfume, scent, fragrance, odor |
 | drôle | funny, odd, weird, strange |
+| on aurait dit | it looked like, it seemed like (one would have said) |
 | amande | almond |
 | amer | adj. (f.*⇒amère*) bitter |
 | amande amère | bitter almond |
@@ -239,3 +341,8 @@ Many impersonal expressions that require the **subjunctive** can be restructured
 | filer | dash, run, fly |
 | surtout pas | definitely not |
 | pas si vite | (*Attends !*) not so fast |
+| fond | bottom |
+| au fond de | at the bottom of [sth], at the end of [sth], at the back of [sth] |
+| au fin fond de | in the darkest depths of [sth], in the depths of [sth] |
+| fondre | melt, thaw |
+| Tout laisse à penser | Everything suggests |
