@@ -1,18 +1,18 @@
 ---
-title: 88
-slug: 88
+title: 88 Sois prudent
+slug: 88 Sois prudent
 description: « Assimil French » Quatre-vingt-huitième leçon - Le commissaire Périer mène l'enquête (suite)
 author: aaron
-date: 2025-02-21
+date: 2025-02-24
 categories: ["leçon", "vocabulaire"]
 series: ["Assimil"]
 tags: [subjunctive, argot, slang]
 cover: 
-    image: https://cdn.jsdelivr.net/gh/lijqhs/cdn@1.8/img/gallery/s/lei-jiang-csPvbh_E1uc-unsplash.jpg
+    image: https://cdn.jsdelivr.net/gh/lijqhs/cdn@1.8/img/gallery/s/lance-anderson-QdAAasrZhdk-unsplash.jpg
     # hidden: true # hide everywhere but not in structured data
     hiddenInList: true # hide on list pages and home
     # hiddenInSingle: true # hide on single page
-draft: true
+# draft: true
 ---
 
 ## *quoi que*, *qui que*, *quel que*, *où que*
@@ -127,7 +127,6 @@ When the relative clause contains expressions that indicate **uniqueness, rarity
    (*There is no one who can help me.*)  
    → **"Il n'y a personne"** expresses a general negation/rarity, requiring the subjunctive **puisse**.
 
----
 
 ### 📝 **Key Rule Summary**
 Use the **subjunctive** in a relative clause when:
@@ -142,6 +141,65 @@ Use the **subjunctive** in a relative clause when:
 - C'est l'hiver **le plus froid** qu'on ***ait*** connu depuis longtemps.
 - Tu es **la seule personne** qui ***puisse*** m'aider.
 - Je suis **l'unique personne** qui ***connaisse*** notre indic.
+
+---
+
+## imperative and subjunctive
+
+The **imperative form** (*l'impératif*) of **être** is identical to its **subjunctive form** (*subjonctif présent*). This happens because the **imperative** is based on the **subjunctive stem** for irregular verbs like *être*. 
+
+
+### 📌 **1. Present Subjunctive of "Être"**
+The **subjunctive present** conjugation of *être* is:
+
+| Person | Subjunctive Present |
+|---------|--------------------|
+| que je | sois |
+| que tu | sois |
+| qu'il/elle/on | soit |
+| que nous | soyons |
+| que vous | soyez |
+| qu'ils/elles | soient |
+
+
+### 📌 **2. Imperative Form of "Être"**
+The **imperative** (*l'impératif*) only exists in **tu, nous, and vous** forms.  
+For **être**, the forms are:
+
+| Person | Imperative |
+|---------|-------------|
+| (tu) | sois |
+| (nous) | soyons |
+| (vous) | soyez |
+
+As you can see, these are **exactly the same** as the **subjunctive** forms for *tu, nous,* and *vous*!
+
+
+### 📌 **3. Why Is This the Case?**
+- The **imperative** is used to **give commands or advice** (e.g., *Sois prudent !* – "Be careful!").
+- The **subjunctive** expresses **doubt, desire, necessity, or emotion** (e.g., *Il faut que tu sois prudent.* – "You must be careful.").
+- Since both the **imperative** and **subjunctive** express **hypothetical or non-assertive situations**, the forms of *être* ended up being the same in these cases.
+
+
+### ✅ **Examples**
+1. **Subjunctive:**  
+   - *Il faut que tu sois à l'heure.* (*You must be on time.*)  
+   - *Je veux que vous soyez heureux.* (*I want you to be happy.*)  
+
+2. **Imperative:**  
+   - *Sois à l'heure !* (*Be on time!*)  
+   - *Soyez heureux !* (*Be happy!*)  
+
+The meaning is different, but the forms are identical.
+
+
+### 📌 **4. Important Difference: No Subject in the Imperative**
+In the **imperative**, the subject is omitted, while in the **subjunctive**, it is always explicitly stated:
+
+- **(Imperative)** Sois gentil ! (*Be nice!*) → No subject  
+- **(Subjunctive)** Il faut que tu sois gentil. (*You must be nice.*) → "tu" is required
+
+---
 
 
 ## Vocabulaire
@@ -202,3 +260,4 @@ Use the **subjunctive** in a relative clause when:
 | coûte que coûte | (*de toute façon, peu importe le prix*) at all costs, whatever the cost </br> ▶︎ *Vous devez tenir ce bastion coûte que coûte !* You must defend this position at all costs! |
 | tâche | n.f. (*travail, ouvrage*) (housework, responsibility) task </br> ▶︎ *Élever des enfants est une lourde tâche.* Bringing up children is a difficult task. </br> n.f. (*rôle, mission*) job, role, remit </br> ▶︎ *Ce genre de travail ne fait pas partie de ma tâche.* This type of work is not part of my job. |
 | indic | [*abr, argot*] (*indicateur de la police*) informant, informer |
+| infusion | herbal tea, infusion |
