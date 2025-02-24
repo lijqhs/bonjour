@@ -274,6 +274,8 @@ If the verb is followed by **"y"** or **"en"**, the **-s** is kept for pronuncia
 | obtenir | get, obtain |
 | arme | weapon |
 | redouter | (*craindre*) fear </br> ▶︎ *Il faut redouter l'orage.* We have to fear the storm. |
+| redoutable | (*terrible, très fort*) formidable, impressive |
+| arme redoutable | formidable weapon, dangerous weapon |
 | contaminer | contaminate |
 | réserve | reserve, stock |
 | potable | drinkable, drinking </br> ▶︎ *Cette eau n'est pas potable* This water is not drinkable. </br> (*acceptable*) OK, okay, all right, not bad, not so bad, tolerable </br> ▶︎ *Ce film est pas exceptionnel mais il est potable.* The film isn't great, but it's OK. |

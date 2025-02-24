@@ -85,6 +85,63 @@ Used to indicate an unspecified location, meaning "wherever" or "no matter where
 
 These expressions are mostly used in **formal or written French**, though they can also be found in spoken French in more structured speech.  
 
+---
+
+## subjunctive with superlatives
+
+The **subjunctive** is often used in **relative clauses** when they contain **superlatives** or **expressions of uniqueness**, especially when there's an element of subjectivity, doubt, or emotion.
+
+---
+
+### 📌 **1. Subjunctive with Superlatives**
+When a **superlative** (e.g., *le plus, le moins, le meilleur, le pire, le seul, l’unique*) is used in a relative clause, the **subjunctive** is often required if the statement expresses a subjective opinion rather than an objective fact.
+
+#### ✅ **Examples**
+1. **C'est la meilleure idée que je puisse imaginer.**  
+   (*This is the best idea that I can imagine.*)  
+   → The speaker expresses a subjective opinion, so **"puisse"** (subjunctive of *pouvoir*) is used.
+
+2. **C’est le pire film que j’aie jamais vu.**  
+   (*This is the worst movie that I have ever seen.*)  
+   → The speaker is expressing a subjective judgment, so **"aie"** (subjunctive of *avoir*) is used.
+
+3. **C'est la seule solution qui soit possible.**  
+   (*This is the only solution that is possible.*)  
+   → The phrase **"la seule solution"** implies uniqueness, triggering the subjunctive (**soit** from *être*).
+
+---
+
+### 📌 **2. Subjunctive with Expressions of Uniqueness or Rarity**
+When the relative clause contains expressions that indicate **uniqueness, rarity, or exclusivity**, the **subjunctive** is used.
+
+#### ✅ **Examples**
+1. **C'est le seul professeur qui comprenne mes difficultés.**  
+   (*He is the only teacher who understands my difficulties.*)  
+   → Since "le seul professeur" expresses **uniqueness**, the subjunctive **comprenne** (from *comprendre*) is used.
+
+2. **C'est la première fois que je voie un tel paysage.**  
+   (*This is the first time I have seen such a landscape.*)  
+   → "La première fois que" suggests a unique event, so **voie** (subjunctive of *voir*) is used.
+
+3. **Il n'y a personne qui puisse m'aider.**  
+   (*There is no one who can help me.*)  
+   → **"Il n'y a personne"** expresses a general negation/rarity, requiring the subjunctive **puisse**.
+
+---
+
+### 📝 **Key Rule Summary**
+Use the **subjunctive** in a relative clause when:
+✅ The clause includes a **superlative** and expresses a **subjective judgment**.  
+✅ The noun is **unique, first, last, or only one** of its kind.  
+✅ The statement implies **doubt, subjectivity, or emotion** rather than an objective fact.
+
+### Examples from the text
+
+- C'est clair, et c'est **le seul renseignement** plus ou moins fiable que nous ***ayons*** reçu jusqu'à présent, **la meilleure piste** que nous ***puissions*** suivre.
+- Mais aussi, peut-être, **le plus gros mensonge** qui ***soit***.
+- C'est l'hiver **le plus froid** qu'on ***ait*** connu depuis longtemps.
+- Tu es **la seule personne** qui ***puisse*** m'aider.
+- Je suis **l'unique personne** qui ***connaisse*** notre indic.
 
 
 ## Vocabulaire
@@ -123,3 +180,25 @@ These expressions are mostly used in **formal or written French**, though they c
 | d'après | according to |
 | démasquer | unmask, uncover, discover |
 | découvert | p.p.⇒*découvrir* discover |
+| ficher | (*mettre sur fiche*) mettre sur fiche </br> ⭐(=*faire*) do </br> ▶︎ *Mais qu'est-ce que tu fiches ici ? Je n'ai rien fiché ce matin.* What the heck are you doing here? I haven't done anything this morning. </br> ▶︎ *Qu'est-ce qu'il fiche, Georges ? Il est en retard.* What's Georges up to? He's late. </br> p.p. *fiché* |
+| se ficher de | (*ne rien avoir à faire de*) not give a damn about [sb/sth], not care about [sb/sth] </br> ▶︎ *Je me fiche bien de tes réflexions !* I don't give a damn what you think! |
+| s'en ficher | not care, be unable to care less, not give a toss </br> ▶︎ *Je m'en fiche* I don't care |
+| fichu | (*hors d'usage*) ruined, wrecked |
+| être fichu | (*sans espoir*) it's no good, it's no use |
+| flingue | (*[argot] arme à feu*) gun |
+| causer | (*provoquer, occasionner*) cause, bring about </br> ⭐ (*converser*) chat, have a chat, talk |
+| costaud | strong, sturdy |
+| fringuer | (*habiller*) dress |
+| gueule | (*bouche d'animal*) (of an animal) mouth, (nose and mouth) muzzle </br> ⭐ (*visage*) face, (slang) mug </br> ▶︎ *Ce type a vraiment une sale gueule.* That guy's got a really ugly mug. |
+| ça se voit que | (*c'est flagrant que*) you can tell, it is obvious, it is clear </br> ▶︎ *Quand j'entends les réflexions de la femme de Marc, ça se voit qu'elle n'a jamais travaillé* </br> ▶︎ ⭐ *Ça se voyait qu'il n'était pas un enfant de chœur, si tu vois ce que je veux dire.* You could tell he was no altar boy, if you see what I mean. |
+| enfant de chœur | (*servant de messe*) altar boy |
+| ne pas être un enfant de chœur | ⭐ (*ne pas être inoffensif*) be no angel </br> ▶︎ *Cet homme a déjà été en prison pour meurtre, ce n'est pas un enfant de cœur que je sache.* |
+| flic | (*agent de police*) (informal) cop |
+| louche | n.f. (*ustensile de cuisine creux*) (utensil) ladle </br> ⭐ (*bizarre, suspect*) fishy, shady </br> ▶︎ *Cette histoire est bien louche.* This story is very shady. |
+| pour autant | (*toutefois*) for all that |
+| raconter des salades | (*mentir*) spin a yarn, tell stories, tell tall stories, tell fibs |
+| fiable | (*de confiance*) reliable, dependable |
+| mensonge | lie |
+| coûte que coûte | (*de toute façon, peu importe le prix*) at all costs, whatever the cost </br> ▶︎ *Vous devez tenir ce bastion coûte que coûte !* You must defend this position at all costs! |
+| tâche | n.f. (*travail, ouvrage*) (housework, responsibility) task </br> ▶︎ *Élever des enfants est une lourde tâche.* Bringing up children is a difficult task. </br> n.f. (*rôle, mission*) job, role, remit </br> ▶︎ *Ce genre de travail ne fait pas partie de ma tâche.* This type of work is not part of my job. |
+| indic | [*abr, argot*] (*indicateur de la police*) informant, informer |
