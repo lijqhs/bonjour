@@ -134,7 +134,7 @@ Use the **subjunctive** in a relative clause when:
 ✅ The noun is **unique, first, last, or only one** of its kind.  
 ✅ The statement implies **doubt, subjectivity, or emotion** rather than an objective fact.
 
-### Examples from the text
+### 📔 **Examples from the text**
 
 - C'est clair, et c'est **le seul renseignement** plus ou moins fiable que nous ***ayons*** reçu jusqu'à présent, **la meilleure piste** que nous ***puissions*** suivre.
 - Mais aussi, peut-être, **le plus gros mensonge** qui ***soit***.
