@@ -246,6 +246,7 @@ In the **imperative**, the subject is omitted, while in the **subjunctive**, it 
 | s'en ficher | not care, be unable to care less, not give a toss </br> ▶︎ *Je m'en fiche* I don't care |
 | fichu | (*hors d'usage*) ruined, wrecked |
 | être fichu | (*sans espoir*) it's no good, it's no use |
+| porter | carry |
 | flingue | (*[argot] arme à feu*) gun |
 | causer | (*provoquer, occasionner*) cause, bring about </br> ⭐ (*converser*) chat, have a chat, talk |
 | costaud | strong, sturdy |
