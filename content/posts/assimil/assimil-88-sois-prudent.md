@@ -206,6 +206,9 @@ In the **imperative**, the subject is omitted, while in the **subjunctive**, it 
 
 | mots | explications |
 | ---- | ---- | 
+| se cacher | hide |
+| s'échapper | escape |
+| échapper à | escape from [sb], avoid |
 | flingueur | n.m. (*tueur professionnel*) gunman, hit man (n.f. *flingueuse*) |
 | gaffer | make a gaffe, make a blunder |
 | gaffe | blunder, gaffe |
