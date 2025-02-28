@@ -224,7 +224,30 @@ These expressions revolve around **gift-giving (literal or figurative)** and **s
 | **Ne pas faire de cadeau** | To be ruthless in general | *Ils n’ont fait aucun cadeau en compétition.* *(They showed no mercy in the competition.)* |
 | **Sans se faire de cadeau** | To be tough on each other | *Les adversaires se sont battus sans se faire de cadeau.* *(The opponents fought fiercely.)* |
 
+---
 
+## ***Il me fait de la peine***
+
+**Meaning:**  
+- **"Il me fait de la peine"** translates to **"He makes me feel sorry"** or **"He makes me feel sad."**  
+- It expresses **sympathy or sadness** for someone, indicating that their situation or behavior evokes a sense of emotional discomfort or pity.
+
+
+### **Usage & Examples:**
+
+- **"Il me fait de la peine, il a perdu son travail."**  
+  *(He makes me feel sorry, he lost his job.)*  
+
+- **"Elle me fait de la peine avec ses problèmes."**  
+  *(She makes me feel sad with her problems.)*  
+
+- **"Il me fait de la peine quand il parle de ses difficultés."**  
+  *(He makes me feel sorry when he talks about his struggles.)*
+
+
+### **Explanation:**
+- **"Faire de la peine"** literally means "to cause pain" or "to make someone feel emotional discomfort."  
+- It’s used to express **empathy** or a **sad emotional reaction** to someone's situation.
 
 --- 
 
