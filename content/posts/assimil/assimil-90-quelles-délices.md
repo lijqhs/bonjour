@@ -8,13 +8,12 @@ categories: ["leçon", "vocabulaire"]
 series: ["Assimil"]
 tags: [genre, aussitôt]
 cover: 
-    image: https://cdn.jsdelivr.net/gh/lijqhs/cdn@1.8/img/gallery/ca/frank-mckenna-dwZi4Vp9g7s-unsplash.jpg
+    image: https://cdn.jsdelivr.net/gh/lijqhs/cdn@1.8/img/gallery/fr/free-nomad-N5DuEK-I5hc-unsplash.jpg
     # hidden: true # hide everywhere but not in structured data
     hiddenInList: true # hide on list pages and home
     # hiddenInSingle: true # hide on single page
 # draft: true
 ---
-
 
 
 ## **Aussitôt**  
@@ -78,7 +77,7 @@ This is a shortened version of:
 ✔ **The past participle remains without "avoir" or "être"**, making the structure more formal and direct.  
 ✔ **This is common in written or literary French** but is less frequent in casual speech.  
 
-
+---
 
 ## Vocabulaire
 
@@ -142,13 +141,16 @@ This is a shortened version of:
 | **crème** | n.m. (*café avec de la crème ou du lait*) white coffee </br> n.f. (*matière grasse du lait*) (dairy product) cream |
 | chantilly | (*crème fouettée sucrée*) whipped cream |
 | crème chantilly | (*crème fouettée sucrée*) whipped cream |
+| servir | serve |
 | **physique** | n.m. (*aspect corporel*) physique, build, appearance </br> n.f. (science mécanique) physics |
 | physique de jeune premier | (*physique jeune et séduisant*) body of a film star, body of a Greek god, body of an Adonis |
+| agréable | enjoyable, pleasurable, nice |
 | séduisant | attractive, charming, seductive |
 | **quelque chose** | pron.m. something |
 | **chose** | n.f. thing |
 | petit quelque chose | (*chose attirant l'attention*) certain something </br> (*petit cadeau*) (gift) little something |
 | délice | n.m. delight, joy, pleasure |
 | délices | n.f. joys, pleasures |
+| décidément | really, definitely, certainly |
 | outil | tool |
 | utile | adj. necessary, useful, helpful </br> n.m. utility, usefulness, necessity |
