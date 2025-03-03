@@ -3,7 +3,7 @@ title: 90 Quelles délices
 slug: 90 Quelles délices
 description: « Assimil French » Quatre-vingt-dixième leçon - "Le" ou "la" ? - Les deux !
 author: aaron
-date: 2025-03-03
+date: 2025-03-02
 categories: ["leçon", "vocabulaire"]
 series: ["Assimil"]
 tags: [genre, aussitôt]
