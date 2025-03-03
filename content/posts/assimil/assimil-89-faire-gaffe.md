@@ -258,6 +258,9 @@ These expressions revolve around **gift-giving (literal or figurative)** and **s
 | faire la tête | to sulk, pull a long face |
 | faire la fête | (*célébrer [qch]*) party, celebrate, (*prendre du bon temps*) party |
 | chalet | chalet, cabin, cottage |
+| au pied de | at the foot of [sth], at the bottom of [sth] |
+| piste | track, path </br> (*ski : descente aménagée*) (skiing) piste |
+| affaire | matter, affair, business </br> belongings, possessions, things, stuff | 
 | faire la grasse matinée | (*rester au lit jusque tard*) sleep in, have a lie-in, sleep late </br> ▶︎ *J'aime faire la grasse matinée le dimanche.* I love lying in on Sundays. |
 | matinée | morning |
 | gras | adj. (f. *-se*) greasy, fatty </br> n.m. fat |
@@ -268,6 +271,7 @@ These expressions revolve around **gift-giving (literal or figurative)** and **s
 | faire venir | (*appeler*) get, fetch, ask [sb] to come </br> ▶︎ *Professeur Dupont, faites venir les élèves délégués.* Fetch the student representatives, Mr Dupont. |
 | du coup | (*et donc*) so, because of that |
 | faire une croix sur | to forgo, write off, say goodbye to |
+| à vrai dire | (*pour être franc*) to tell the truth, to be honest |
 | Il faut le faire ! | (*c'est impressionnant*) That takes some doing! |
 | se faire + [infinitif] | be + [past participle], get + [past participle] |
 | esprit | mind, spirit |
