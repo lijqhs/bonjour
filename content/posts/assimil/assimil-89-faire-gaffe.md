@@ -6,7 +6,7 @@ author: aaron
 date: 2025-02-28
 categories: ["leçon", "vocabulaire"]
 series: ["Assimil"]
-tags: [subjunctive, argot, slang]
+tags: [subjunctive, faire]
 cover: 
     image: https://cdn.jsdelivr.net/gh/lijqhs/cdn@1.8/img/gallery/ca/frank-mckenna-dwZi4Vp9g7s-unsplash.jpg
     # hidden: true # hide everywhere but not in structured data
