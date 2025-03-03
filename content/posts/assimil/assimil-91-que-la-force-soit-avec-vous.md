@@ -4,7 +4,7 @@ slug: 91 Que la force soit avec vous
 description: « Assimil French » Quatre-vingt-onzième leçon - Révision
 author: aaron
 date: 2025-03-03
-categories: ["leçon", "vocabulaire"]
+categories: ["leçon", "grammaire"]
 series: ["Assimil"]
 tags: [interrogative, causative, subjunctive, dont]
 cover: 
