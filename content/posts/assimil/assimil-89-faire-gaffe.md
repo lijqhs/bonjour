@@ -271,6 +271,7 @@ These expressions revolve around **gift-giving (literal or figurative)** and **s
 | faire venir | (*appeler*) get, fetch, ask [sb] to come </br> ▶︎ *Professeur Dupont, faites venir les élèves délégués.* Fetch the student representatives, Mr Dupont. |
 | du coup | (*et donc*) so, because of that |
 | faire une croix sur | to forgo, write off, say goodbye to |
+| à vrai dire | (*pour être franc*) to tell the truth, to be honest |
 | Il faut le faire ! | (*c'est impressionnant*) That takes some doing! |
 | se faire + [infinitif] | be + [past participle], get + [past participle] |
 | esprit | mind, spirit |
