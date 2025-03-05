@@ -6,7 +6,7 @@ author: aaron
 date: 2025-03-03
 categories: ["leçon", "grammaire"]
 series: ["Assimil"]
-tags: [interrogative, causative, subjunctive, dont]
+tags: [interrogative, causative, subjunctive, dont, pluperfect]
 cover: 
     image: https://cdn.jsdelivr.net/gh/lijqhs/cdn@1.8/img/gallery/ca/chong-wei-2-xVyphdcCY-unsplash.jpg
     # hidden: true # hide everywhere but not in structured data
@@ -153,6 +153,7 @@ The causative emphasizes that someone **caused** the action, while the passive j
 | **Quand que** / **À quelque moment que** | *À quelque moment que tu viennes, préviens-moi.* (*Whenever you come, let me know.*) |
 | **De quelque manière que** | *De quelque manière que tu répondes, sois poli.* (*However you answer, be polite.*) |
 
+---
 
 ## *dont*
 
@@ -188,6 +189,80 @@ Never use "de" and "dont" together in the same sentence[2].
 3. 🚫 Not for subjects
 "Dont" cannot replace the subject of a sentence[1].
 
+---
+
+## **The Pluperfect Tense (Le Plus-que-parfait)**  
+
+The **pluperfect tense (plus-que-parfait)** is used to describe an action that **took place before another past action**. It is the equivalent of **"had + past participle"** in English (e.g., *I had finished*).  
+
+
+### **1. Formation of the Pluperfect**  
+The **plus-que-parfait** is formed with:  
+✅ **Imperfect tense of "avoir" or "être" + past participle of the main verb**  
+
+#### **Avoir as the Auxiliary (Most Verbs)**
+| Subject | **Avoir** (Imperfect) | Past Participle | Example |
+|---------|-------------------|-----------------|---------|
+| Je | avais | fini | *J'avais fini.* (*I had finished.*) |
+| Tu | avais | mangé | *Tu avais mangé.* (*You had eaten.*) |
+| Il/Elle/On | avait | parlé | *Elle avait parlé.* (*She had spoken.*) |
+| Nous | avions | acheté | *Nous avions acheté une maison.* (*We had bought a house.*) |
+| Vous | aviez | vu | *Vous aviez vu ce film.* (*You had seen this movie.*) |
+| Ils/Elles | avaient | pris | *Ils avaient pris le train.* (*They had taken the train.*) |
+
+#### **Être as the Auxiliary (For Reflexive and Certain Verbs)**
+Some verbs use **être** instead of **avoir**, mainly:  
+- **Dr. & Mrs. Vandertramp verbs** (verbs of motion like *aller, venir, partir*)  
+- **Reflexive verbs** (*se lever, se réveiller*)  
+
+| Subject | **Être** (Imperfect) | Past Participle | Example |
+|---------|-----------------|-----------------|---------|
+| Je | étais | allé(e) | *J’étais allé(e) au marché.* (*I had gone to the market.*) |
+| Tu | étais | parti(e) | *Tu étais parti tôt.* (*You had left early.*) |
+| Il/Elle/On | était | arrivé(e) | *Elle était arrivée à l’heure.* (*She had arrived on time.*) |
+| Nous | étions | venus | *Nous étions venus en voiture.* (*We had come by car.*) |
+| Vous | étiez | entré(e)(s) | *Vous étiez entrés dans la salle.* (*You had entered the room.*) |
+| Ils/Elles | étaient | resté(e)s | *Elles étaient restées à la maison.* (*They had stayed at home.*) |
+
+
+### **2. Agreement Rules**  
+✅ Verbs that use **être** must agree in gender and number with the subject.  
+✅ Reflexive verbs **always take être** and follow the same agreement rules.  
+
+🔹 **Example (With Agreement)**  
+- *Elle était allée au musée.* (*She had gone to the museum.*)  
+- *Nous étions partis tôt.* (*We had left early.*)  
+
+
+### **3. When to Use the Pluperfect**  
+
+✅ **To Describe an Action Completed Before Another Past Action**  
+- *J’avais déjà mangé quand tu es arrivé.* (*I had already eaten when you arrived.*)  
+
+✅ **To Explain a Cause or Background in the Past**  
+- *Il pleurait parce qu’il avait perdu son portefeuille.* (*He was crying because he had lost his wallet.*)  
+
+✅ **To Express Regret or a Missed Opportunity**  
+- *Si j’avais su, je serais venu plus tôt.* (*If I had known, I would have come earlier.*)  
+
+
+### **4. Comparison with Other Past Tenses**  
+
+| **Tense** | **Example** | **English Equivalent** | **Use** |
+|-----------|------------|-----------------|------|
+| **Passé composé** | *J’ai fini mon travail.* | *I finished my work.* | Completed action in the past |
+| **Imparfait** | *Je faisais mes devoirs.* | *I was doing my homework.* | Ongoing/habitual past action |
+| **Plus-que-parfait** | *J’avais déjà mangé.* | *I had already eaten.* | Action completed before another past event |
+
+
+### **Summary**  
+| **Rule** | **Example** |
+|----------|------------|
+| **Use "avoir" or "être" in the imperfect + past participle** | *J'avais terminé mes études avant de commencer à travailler.* (*I had finished my studies before starting work.*) |
+| **Use for actions that happened before another past event** | *Quand nous sommes arrivés, il était déjà parti.* (*When we arrived, he had already left.*) |
+| **Verbs with "être" must agree in gender/number** | *Elles étaient parties tôt.* (*They had left early.*) |
+
+---
 
 ## Vocabulaire
 
