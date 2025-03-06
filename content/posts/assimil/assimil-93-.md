@@ -101,4 +101,4 @@ draft: true
 | colère | anger, rage |
 
 
-[ˆ1]: [Prise de la Bastille](https://fr.wikipedia.org/wiki/Prise_de_la_Bastille)
+[^1]: [Prise de la Bastille](https://fr.wikipedia.org/wiki/Prise_de_la_Bastille)
