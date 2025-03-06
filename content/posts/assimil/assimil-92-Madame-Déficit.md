@@ -225,11 +225,11 @@ In French, **"cerveau"** and **"cervelle"** both refer to the brain, but they ha
 
 ---
 
-### **Passé Simple**  
+## **Passé Simple**  
 
 The **passé simple** is mostly used in literature and formal writing. If you've ever read a French novel or historical text, you've probably seen it in action!  
 
-#### **What is the Passé Simple?**  
+### **What is the Passé Simple?**  
 The **passé simple** is a past tense used to describe **completed actions in the past**, similar to the **passé composé**. However, there's a key difference:  
 
 - The **passé composé** (*j'ai mangé, il est parti*) is used in everyday speech and writing.  
@@ -241,14 +241,14 @@ For example, in this sentence:
 👉 **"fut"** is the **passé simple** of "être" (to be), showing completed actions ("was adored and hated").  
 👉 **"était"** is in the **imperfect** because it describes a continuous state ("was kept away").  
 
-#### **Passé Simple vs. Imparfait: What's the Difference?**  
+### **Passé Simple vs. Imparfait: What's the Difference?**  
 | **Passé Simple** (Simple Past) | **Imparfait** (Imperfect) |  
 |----------------------|-----------------|  
 | Describes a **completed action** that happened once in the past. | Describes a **continuous, habitual, or background action** in the past. |  
 | Example: *Il arriva à Paris en 1805.* (He arrived in Paris in 1805.) | Example: *Il habitait à Paris à cette époque.* (He was living in Paris at that time.) |  
 | Used in **written storytelling, history, and literature**. | Used in **spoken and written language** to describe settings and habits. |  
 
-#### **How to Conjugate Common Verbs in Passé Simple**  
+### **How to Conjugate Common Verbs in Passé Simple**  
 Here’s a handy table with **some common verbs** in the passé simple!  
 
 | **Infinitive** | **Je** | **Tu** | **Il/Elle/On** | **Nous** | **Vous** | **Ils/Elles** |  
@@ -260,7 +260,7 @@ Here’s a handy table with **some common verbs** in the passé simple!
 | **Dire** (to say) | dis | dis | dit | dîmes | dîtes | dirent |  
 | **Prendre** (to take) | pris | pris | prit | prîmes | prîtes | prirent |  
 
-#### **When Should You Learn Passé Simple?**  
+### **When Should You Learn Passé Simple?**  
 If you're just starting with French, **focus on passé composé and imparfait** first. But if you love reading in French, learning the passé simple will **help you understand books, news articles, and history texts** much better!  
 
 ---
