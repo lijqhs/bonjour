@@ -241,7 +241,7 @@ In the **imperative**, the subject is omitted, while in the **subjunctive**, it 
 | d'après | according to |
 | démasquer | unmask, uncover, discover |
 | découvert | p.p.⇒*découvrir* discover |
-| ficher | (*mettre sur fiche*) mettre sur fiche </br> ⭐(=*faire*) do </br> ▶︎ *Mais qu'est-ce que tu fiches ici ? Je n'ai rien fiché ce matin.* What the heck are you doing here? I haven't done anything this morning. </br> ▶︎ *Qu'est-ce qu'il fiche, Georges ? Il est en retard.* What's Georges up to? He's late. </br> p.p. *fiché* |
+| ficher | (*mettre sur fiche*) mettre sur fiche </br> ⭐(=*faire*) do </br> ▶︎ *Mais qu'est-ce que tu fiches ici ? Je n'ai rien fiché ce matin.* What the heck are you doing here? I haven't done anything this morning. </br> ▶︎ *Qu'est-ce qu'il fiche, Georges ? Il est en retard.* What's Georges up to? He's late. </br> p.p. *fichu* [^1] |
 | se ficher de | (*ne rien avoir à faire de*) not give a damn about [sb/sth], not care about [sb/sth] </br> ▶︎ *Je me fiche bien de tes réflexions !* I don't give a damn what you think! |
 | s'en ficher | not care, be unable to care less, not give a toss </br> ▶︎ *Je m'en fiche* I don't care |
 | fichu | (*hors d'usage*) ruined, wrecked |
@@ -265,3 +265,5 @@ In the **imperative**, the subject is omitted, while in the **subjunctive**, it 
 | tâche | n.f. (*travail, ouvrage*) (housework, responsibility) task </br> ▶︎ *Élever des enfants est une lourde tâche.* Bringing up children is a difficult task. </br> n.f. (*rôle, mission*) job, role, remit </br> ▶︎ *Ce genre de travail ne fait pas partie de ma tâche.* This type of work is not part of my job. |
 | indic | [*abr, argot*] (*indicateur de la police*) informant, informer |
 | infusion | herbal tea, infusion |
+
+[^1]: [ficher](https://www.larousse.fr/conjugaison/francais/ficher/4695)

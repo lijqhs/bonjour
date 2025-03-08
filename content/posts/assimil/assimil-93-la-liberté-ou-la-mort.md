@@ -41,7 +41,7 @@ cover:
 | marquer | mark |
 | tournant | n.m. (*route : changement de direction*) corner, bend </br> ⭐ (*changement*) turning point, watershed |
 | majeur | main, major |
-| prise | (*action de s'emparer de [qch]*) taking, seizing, seizure, ⭐ (Bastille) storming </br> ▶︎ *Avez-vous étudié la prise de la Bastille[^1] ?* Have you learned about the storming of the Bastille? |
+| prise | (*action de s'emparer de [qch]*) taking, seizing, seizure, ⭐ (Bastille) storming </br> ▶︎ *Avez-vous étudié la prise de la Bastille[^1] ?* Have you learned about the storming of the Bastille? </br> socket, plug socket |
 | libéré | released, freed |
 | libérer | (prisoner) release |
 | libérer [qqn] de [qch] | (*débarrasser [qqn] de [qch] qui entrave*) free [sb] from [sth], release [sb] from [sth] </br> ▶︎ *Les secouristes l'ont libéré de son siège.* The rescuers freed him from his seat. |
