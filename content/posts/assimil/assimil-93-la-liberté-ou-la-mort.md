@@ -1,18 +1,18 @@
 ---
-title: 93
-slug: 93
+title: 93 La liberté ou la mort
+slug: 93 La liberté ou la mort
 description: « Assimil French » Quatre-vingt-treizième leçon - Un cours d'histoire "Le jour de gloire est arrivé !"
 author: aaron
-date: 2025-03-05
+date: 2025-03-07
 categories: ["leçon", "vocabulaire"]
 series: ["Assimil"]
-tags: [prefixes, imperative, subjunctive, passé simple]
+tags: [passé simple]
 cover: 
-    image: https://cdn.jsdelivr.net/gh/lijqhs/cdn@1.8/img/gallery/fr/dorian-mongel-PuRFKwR4B2o-unsplash.jpg
+    image: https://cdn.jsdelivr.net/gh/lijqhs/cdn@1.8/img/gallery/fr/dorian-mongel-X8bwXanmSOo-unsplash.jpg
     # hidden: true # hide everywhere but not in structured data
     hiddenInList: true # hide on list pages and home
     # hiddenInSingle: true # hide on single page
-draft: true
+# draft: true
 ---
 
 ## **passé simple** conjugation
@@ -99,6 +99,29 @@ draft: true
 | menaçant | threatening, menacing, ominous |
 | menacer | threaten, menace |
 | colère | anger, rage |
+| emporter | take, take [sth] away (*em-* away) </br> ▶︎ *Une grande pizza s'il vous plait. - À manger sur place ou à emporter ?* |
+| l'emporter | (gagner, avoir l'avantage) win, prevail, win out </br> ▶︎ *C'est le système le plus simple qui a fini par l'emporter.* It was the simplest system that prevailed. |
+| fureur | (*colère violente*) (person) rage |
+| peuple | people, population |
+| concentrer | concentrate, gather |
+| se concentrer | focus, concentrate |
+| se concentrer sur [qch] | concentrate on [sth], focus on [sth] |
+| rendre [qch] à [qqn/qch] | give [sth] back to [sb/sth], give [sb] [sth] back |
+| se rendre | (*cesser le combat*) yield, surrender |
+| révolutionnaire | adj. noun. revolutionary |
+| commémorer | commemorate |
+| haine | hatred, hate |
+| traître | traitor |
+| menteur | liar |
+| donjon | (*plus grosse tour d'un château*) keep, donjon |
+| contenir | include, contain, hold |
+| poignée | handle, handful, fistful |
+| une poignée de [qch/qqn] | (*petit nombre*) (figurative) a handful of [sb/sth] |
+| prisonnier | prisoner |
+| lourd | heavy |
+| faire penser [qqn] à faire [qch] | (*rappeler à [qqn] de faire [qch]*) remind [sb] to do [sth], put [sb] in mind of [sb/sth], bring [sth/sb] to mind, suggest |
+| quai | quay, platform |
+| t'as qu'à …, tu n'as qu'à … | (*tu devrais*) you just have to…, just… </br> ▶︎ *Vous n'avez qu'à suivre cette rue toute droite, qui débouche sur les quais de la Seine.* |
 
 
 [^1]: [Prise de la Bastille](https://fr.wikipedia.org/wiki/Prise_de_la_Bastille)
