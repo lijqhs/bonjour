@@ -187,11 +187,11 @@ Note that in the present subjunctive:
 
 Time conjunctions in French are words or phrases used to express when an action occurs in relation to another. They help structure sentences and provide temporal context. Some common French time conjunctions include:
 
-- Avant que (before)
-- Après que (after)
-- Pendant que (while)
-- Jusqu'à ce que (until)
-- Dès que (as soon as)
+- **Avant que (before)**: Always takes the subjunctive
+- Après que (after): Always takes the indicative
+- Pendant que (while): Always takes the indicative
+- **Jusqu'à ce que (until)**: Always takes the subjunctive
+- Dès que (as soon as): Always takes the indicative
 
 These conjunctions are often used to introduce subordinate clauses, which can affect the mood of the verb that follows.
 
