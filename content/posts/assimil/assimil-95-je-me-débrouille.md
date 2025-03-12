@@ -304,4 +304,4 @@ This phrase emphasizes that someone **never expected something**.
 
 
 
-[^1] [Wikipedia: Côte d'Azur](https://fr.wikipedia.org/wiki/C%C3%B4te_d%27Azur)
+[^1]: [Wikipedia: Côte d'Azur](https://fr.wikipedia.org/wiki/C%C3%B4te_d%27Azur)
