@@ -1,5 +1,5 @@
 ---
-title: "Ficher" and Its Past Participles: "Fiché" vs. "Fichu" 🇫🇷✨
+title: Ficher and Its Past Participles Fiché vs. Fichu 🇫🇷✨
 slug: ficher-fiché-fichu
 author: aaron
 date: 2025-03-13

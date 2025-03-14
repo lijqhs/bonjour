@@ -240,6 +240,9 @@ This phrase emphasizes that someone **never expected something**.
 | diamant | diamond |
 | se souvenir de [qch/qqn] | (*se rappeler [qch]*) remember, recall |
 | sidérer | (*stupéfier, abasourdir*) stun, stagger, stupefy |
+| disparaître dans la nature | (*disparaître de façon non prévue*) vanish into thin air |
+| prévue | ⇒p.p. *prévoir* forecast, predict |
+| concernant | (*à propos de*) with reference to, with regard to, regarding, concerning </br> ▶︎ *Concernant votre demande, elle sera étudiée demain.* With reference to your request, it will be looked into tomorrow. |
 | concerner | affect, concern, relate to [sth/sb], apply to [sth/sb] |
 | porte-parole | (*représentant*) spokesperson, spokesman, spokeswoman |
 | préciser | (*mieux définir*) explain, clarify, tell, advise |
@@ -269,6 +272,7 @@ This phrase emphasizes that someone **never expected something**.
 | mouton | sheep |
 | cochon | pig |
 | taureau | bull, ox, Taurus |
+| être au rendez-vous | (*être présent*) be no lack of [sth], not be lacking |
 | joie | joy, pleasure, delight, glee |
 | agriculteur | (n.f. ⇒*agricultrice*) (*exploitant fermier*) farmer |
 | fermier | (*propriétaire d'une ferme*) farmer </br> (*relatif à la ferme*) farm, agricultural |
