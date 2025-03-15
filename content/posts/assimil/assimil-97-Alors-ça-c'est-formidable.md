@@ -25,7 +25,7 @@ It comes from archery and target shooting. **"Le mille"** refers to the center o
 ### Usage
 It's used to say that someone is absolutely right or has found the correct answer.  
 
-### ✅Example  
+### ✅Examples
 
 — *À mon avis, il a refusé l’offre parce qu’il a une meilleure opportunité ailleurs.*  
 — *Exactement, en plein dans le mille !* 🎯  
@@ -41,7 +41,7 @@ The French expression **"avoir failli faire quelque chose"** means **"to have al
 ### Structure:  
 **Avoir failli + [infinitive verb]**  
 
-### Examples:  
+### ✅Examples
 🔹 *J’ai failli tomber dans l’escalier.*  
 ➡ (*I almost fell down the stairs.*)  
 
@@ -85,7 +85,7 @@ It comes from the card game **Belote**, where "rebelote" is announced when a pla
 ### Usage
 It can express **resignation, frustration, or amusement** about a situation happening again.  
 
-### ✅Example
+### ✅Examples
 ➡ *Il a encore oublié notre rendez-vous… Rebelote !*  
 ➡ *(He forgot our meeting again... Here we go again!)*
 
@@ -95,7 +95,7 @@ It can express **resignation, frustration, or amusement** about a situation happ
 
 The French expression **"tirer son épingle du jeu"** means **to manage to get out of a difficult situation skillfully or advantageously**. It implies being able to **avoid trouble, stand out, or succeed where others may struggle**.  
 
-### Breakdown of the expression:  
+### Breakdown of the expression
 - **Tirer** = to pull or withdraw  
 - **Son épingle** = one's pin  
 - **Du jeu** = from the game  
@@ -128,7 +128,7 @@ The phrase comes from sports, especially horse racing and athletics, where the *
 
 The French expression **"encaisser le coup"** means **"to take a hit"** (figuratively) or **"to endure a shock or difficulty"**. It refers to someone **absorbing a difficult situation, bad news, or an emotional blow** without immediately reacting or breaking down.  
 
-### Breakdown of the expression:  
+### Breakdown of the expression
 - **Encaisser** = to cash in, to take in, or to withstand  
 - **Le coup** = the blow or hit  
 
