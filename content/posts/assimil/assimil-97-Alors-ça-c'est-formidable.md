@@ -15,17 +15,17 @@ cover:
 # draft: true
 ---
 
-## *En plein dans le mille !*
+## ***En plein dans le mille !***
 
 The French expression **"En plein dans le mille !"** means **"Exactly!"**, **"Spot on!"**, or **"Right on target!"**.  
 
-### **Origin**  
+### Origin
 It comes from archery and target shooting. **"Le mille"** refers to the center of the target, the highest-scoring area. Hitting **"en plein dans le mille"** means hitting the exact spot, achieving perfect accuracy.  
 
-### **Usage**  
+### Usage
 It's used to say that someone is absolutely right or has found the correct answer.  
 
-✅ **Example**  
+### ✅Example  
 
 — *À mon avis, il a refusé l’offre parce qu’il a une meilleure opportunité ailleurs.*  
 — *Exactement, en plein dans le mille !* 🎯  
@@ -34,7 +34,7 @@ It's used to say that someone is absolutely right or has found the correct answe
 
 ---
 
-## **avoir failli faire quelque chose**
+## ***avoir failli faire quelque chose***
 
 The French expression **"avoir failli faire quelque chose"** means **"to have almost done something"** or **"to have nearly done something."** It expresses an action that was very close to happening but ultimately did not.  
 
@@ -51,7 +51,7 @@ The French expression **"avoir failli faire quelque chose"** means **"to have al
 🔹 *Nous avons failli rater notre train.*  
 ➡ (*We almost missed our train.*)  
 
-### Examples from the text
+### ✅Examples from the text
 
 - Nous avions le nez dans le guidon, si bien que vous avons failli déclarer forfait au bout de six mois, car les choses se sont compliquées.
 - On a failli vous mettre KO, mais vous avez encaissé les coups. Chapeau !
@@ -59,39 +59,39 @@ The French expression **"avoir failli faire quelque chose"** means **"to have al
 
 ---
 
-## *botter en touche*
+## ***botter en touche***
 
 **"Botter en touche"** is a French idiom meaning **to avoid a question or issue**, **to dodge a subject**, or **to sidestep a problem** instead of addressing it directly.  
 
-### **Origin:**  
+### Origin
 It comes from **rugby**, where kicking the ball "en touche" (out of bounds) interrupts the game and delays the opponent's play.  
 
-### **Usage:**  
+### Usage 
 It’s often used in politics, interviews, or debates when someone avoids answering a direct question.  
 
-✅ **Example:**  
+### ✅Examples
 ➡ *Lorsqu’on lui a demandé son avis sur la réforme, le ministre a botté en touche.*  
 ➡ *(When asked about the reform, the minister dodged the question.)*
 
 ---
 
-## *Rebelote*
+## ***Rebelote***
 
 **"Rebelote"** is a French expression meaning **"here we go again"** or **"once again"**. It is used when something happens again, often in a repetitive or predictable way.  
 
-### **Origin:**  
+### Origin 
 It comes from the card game **Belote**, where "rebelote" is announced when a player has both the King and Queen of trumps, earning extra points. Over time, it became a general expression for something repeating.  
 
-### **Usage:**  
+### Usage
 It can express **resignation, frustration, or amusement** about a situation happening again.  
 
-✅ **Example:**  
+### ✅Example
 ➡ *Il a encore oublié notre rendez-vous… Rebelote !*  
 ➡ *(He forgot our meeting again... Here we go again!)*
 
 ---
 
-## *tirer son épingle du jeu*
+## ***tirer son épingle du jeu***
 
 The French expression **"tirer son épingle du jeu"** means **to manage to get out of a difficult situation skillfully or advantageously**. It implies being able to **avoid trouble, stand out, or succeed where others may struggle**.  
 
@@ -102,20 +102,20 @@ The French expression **"tirer son épingle du jeu"** means **to manage to get o
 
 Originally, it referred to a game where players withdrew their pins before they could be trapped. Over time, it came to symbolize **being able to escape or succeed cleverly in a challenging situation**.  
 
-### Example in context:  
+### ✅Examples
 🔹 *Malgré la crise économique, cette petite entreprise a su tirer son épingle du jeu.*  
 (*Despite the economic crisis, this small company managed to do well.*)  
 
 ---
 
-## *dernière ligne droite*
+## ***dernière ligne droite***
 
 The French expression **"dernière ligne droite"** translates to **"the final stretch"** in English. It refers to **the last phase of a process, project, or event**, often implying that the goal is near, but some effort is still needed to reach it.  
 
-### Origin:  
+### Origin
 The phrase comes from sports, especially horse racing and athletics, where the **"last straight line"** is the final section of the track before the finish line.  
 
-### Examples in context:  
+### ✅Examples
 🔹 *Nous sommes dans la dernière ligne droite avant le lancement du produit.*  
 ➡ (*We are in the final stretch before the product launch.*)  
 
@@ -124,7 +124,7 @@ The phrase comes from sports, especially horse racing and athletics, where the *
 
 ---
 
-## *encaisser le coup*
+## ***encaisser le coup***
 
 The French expression **"encaisser le coup"** means **"to take a hit"** (figuratively) or **"to endure a shock or difficulty"**. It refers to someone **absorbing a difficult situation, bad news, or an emotional blow** without immediately reacting or breaking down.  
 
@@ -134,7 +134,7 @@ The French expression **"encaisser le coup"** means **"to take a hit"** (figurat
 
 It comes from the idea of a boxer taking a punch and staying on their feet, symbolizing resilience in tough situations.  
 
-### Examples in context:  
+### ✅Examples
 🔹 *Il a perdu son emploi, mais il a su encaisser le coup.*  
 ➡ (*He lost his job, but he managed to take it in stride.*)  
 
@@ -143,7 +143,7 @@ It comes from the idea of a boxer taking a punch and staying on their feet, symb
 
 ---
 
-## *Chapeau !*
+## ***Chapeau !***
 
 The French expression **"Chapeau !"** is an informal way to say **"Hats off!"** or **"Well done!"** in English. It is used to express admiration or respect for someone's achievement, effort, or talent.  
 
@@ -152,7 +152,7 @@ The expression **tirer un coup de chapeau à** means to *take one's hat off to*,
 
 It comes from the gesture of **tipping or removing one's hat** as a sign of respect or appreciation, which was common in the past.  
 
-### Examples in context:  
+### ✅Examples
 🔹 *Tu as réussi cet examen avec une super note ? Chapeau !*  
 ➡ (*You passed this exam with a great score? Hats off!* 👏)  
 
@@ -200,7 +200,7 @@ It’s a short but powerful way to congratulate someone.
 | mettre la barre haut | (⇒*placer la barre haut*) |
 | rudimentaire | rudimentary, basic |
 | aussi … que | (*comparaison : autant que*) as ... as |
-| départ | (*fait de partir*) departure </br> ⭐(début de [qch]) start, outset |
+| départ | (*fait de partir*) departure </br> ⭐(*début de [qch]*) start, outset |
 | au départ | to begin with, to start with, at first |
 | étape | stage, step |
 | brûler les étapes | (*se précipiter, aller trop vite*) cut corners, jump the gun, progress in leaps and bounds |
@@ -247,6 +247,6 @@ It’s a short but powerful way to congratulate someone.
 | épingle | (*petite tige pointue*) pin |
 | dernière ligne droite | (*ultime effort à fournir*) (figurative) home straight, home stretch, homestretch, last push, final push |
 | encaisser le coup | (*se remettre d'un coup dur*) (sports) take a blow, (figurative) take it (all) in your stride, take it on the chin |
-| encaisser | (*mettre en caisse*) box, pack, put [sth] in cases, </br> (*recevoir : un coup*) take, withstand </br> *Pendant plus de cinq minutes, le boxeur a encaissé les coups de son adversaire sans faiblir.* The boxer withstood his opponent's blows without flinching for over five minutes. |
+| encaisser | (*mettre en caisse*) box, pack, put [sth] in cases, </br> ⭐(*recevoir : un coup*) take, withstand </br> ▶︎ *Pendant plus de cinq minutes, le boxeur a encaissé les coups de son adversaire sans faiblir.* The boxer withstood his opponent's blows without flinching for over five minutes. |
 | caisse | box, case </br> *argot (automobile)* car, motor, ride, wheels |
 | Chapeau l'artiste ! | (*félicitations ! Bravo !*) Hats off to the artist!, Hats off to the performer! Bravo! |
