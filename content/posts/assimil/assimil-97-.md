@@ -6,7 +6,7 @@ author: aaron
 date: 2025-03-14
 categories: ["leçon", "vocabulaire"]
 series: ["Assimil"]
-tags: [prefix, suffix, -esse]
+tags: []
 cover: 
     image: https://cdn.jsdelivr.net/gh/lijqhs/cdn@1.8/img/gallery/ca/eugene-aikimov-azqdBkIHVo0-unsplash.jpg
     # hidden: true # hide everywhere but not in structured data
@@ -15,171 +15,128 @@ cover:
 draft: true
 ---
 
+## *En plein dans le mille !*
 
-## **Sentence Breakdown**
+The French expression **"En plein dans le mille !"** means **"Exactly!"**, **"Spot on!"**, or **"Right on target!"**.  
 
-### Sentence with subjunctive form
+### **Origin**  
+It comes from archery and target shooting. **"Le mille"** refers to the center of the target, the highest-scoring area. Hitting **"en plein dans le mille"** means hitting the exact spot, achieving perfect accuracy.  
 
-**Un film, on peut le voir et puis le revoir à l'infini, sans qu'il perde sa fraîcheur.**
+### **Usage**  
+It's used to say that someone is absolutely right or has found the correct answer.  
 
-- **"Un film,"** → Subject of the sentence. It refers to a movie in general.  
-- **"on peut le voir"** → Main clause. "On" (impersonal pronoun) means "one" or "we" in a general sense. "Peut" means "can," and "le voir" means "watch it."  
-- **"et puis le revoir à l'infini,"** → "Et puis" means "and then," indicating continuity. "Le revoir" means "watch it again," and "à l’infini" means "endlessly" or "infinitely," suggesting that this can be repeated without limit.  
-- **"sans qu'il perde sa fraîcheur"** → A subordinate clause introduced by "***sans que***" (meaning "without"). "Il" refers to the movie, "perde" (***subjunctive form of "perdre"***) means "loses," and "sa fraîcheur" means "its freshness" or "original appeal."  
+✅ **Example**  
 
-### Sentence without subjunctive form
-
-**Mais une histoire drôle, une plaisanterie, une boutade - appelez-la comme vous voudrez - est périmée dès qu'on l'entend et ne supporte pas la répétition.**
-
-- **"Mais une histoire drôle, une plaisanterie, une boutade"** → The subject of the sentence. It refers to a joke, a witticism, or a humorous story.  
-- **"appelez-la comme vous voudrez"** → A parenthetical clause meaning "call it whatever you like." "La" refers to the joke, and "comme vous voudrez" means "as you wish."  
-- **"est périmée dès qu'on l'entend"** → The main clause. "Est périmée" (from "périmer") means "is expired" or "becomes outdated." "Dès qu’on l’entend" means "as soon as one hears it," implying that a joke loses its freshness immediately after being told.  
-- **"et ne supporte pas la répétition"** → "Et" (and) introduces another idea. "Ne supporte pas" means "does not tolerate" or "cannot handle," and "la répétition" means "repetition," meaning a joke doesn’t work if it’s repeated.  
-
-#### Why no subjunctive
-
-The phrase **"dès qu'on l'entend"** (as soon as one hears it) does **not** require the subjunctive because **"dès que" (as soon as)** introduces a factual, concrete event rather than something hypothetical or uncertain.  
-
-##### Rule:  
-The **subjunctive** is generally used after conjunctions that express **doubt, uncertainty, necessity, emotion, or possibility** (e.g., *avant que, bien que, pour que*).  
-However, **"dès que" (as soon as)** expresses a real-time occurrence, so it takes the **indicative**, which is used for facts and statements of certainty.
-
-##### Example Comparisons:
-✅ **Indicative (certainty, fact):**  
-- *Dès qu'on l'entend, elle est périmée.* → *As soon as one hears it, it is outdated.* (Fact: the joke becomes stale immediately.)  
-- *Je t'appellerai dès que j'arriverai.* → *I will call you as soon as I arrive.* (A future fact, but still certain.)  
-
-🚫 **Subjunctive (incorrect in this case):**  
-- *Dès qu'on l'**entende*** ❌ (Incorrect because hearing the joke is not uncertain; it’s a concrete event.)  
-
-However, if you used **"avant que"** (before), you **would** need the subjunctive:  
-- *Avant qu'on ne l'**entende**, elle est encore drôle.* → *Before one hears it, it is still funny.*  
-
-So, in short: **"dès que" takes the indicative because it refers to something real and certain, not hypothetical or uncertain.**
+— *À mon avis, il a refusé l’offre parce qu’il a une meilleure opportunité ailleurs.*  
+— *Exactement, en plein dans le mille !* 🎯  
+(*In my opinion, he refused the offer because he has a better opportunity elsewhere.*  
+— *Exactly, spot on!*)
 
 
 ---
 
-## Suffix **"-esse"**
+## *botter en touche*
 
-The suffix **"-esse"** in French is used to form **feminine nouns**, either from masculine nouns or adjectives. It often conveys a sense of **femininity, abstract qualities, or states**.  
+**"Botter en touche"** is a French idiom meaning **to avoid a question or issue**, **to dodge a subject**, or **to sidestep a problem** instead of addressing it directly.  
 
-### **Common Uses of "-esse"**  
+### **Origin:**  
+It comes from **rugby**, where kicking the ball "en touche" (out of bounds) interrupts the game and delays the opponent's play.  
 
-1. **Feminine Forms of Masculine Nouns**  
-   - *Prince → Princesse* (prince → princess)  
-   - *Maître → Maîtresse* (master → mistress)  
-   - *Tigre → Tigresse* (tiger → tigress)  
-   - *Dieu → Déesse* (god → goddess)  
+### **Usage:**  
+It’s often used in politics, interviews, or debates when someone avoids answering a direct question.  
 
-2. **Abstract Nouns from Adjectives (States or Qualities)**  
-   - *Riche → Richesse* (rich → wealth)  
-   - *Sage → Sagesse* (wise → wisdom)  
-   - *Vieux → Vieillesse* (old → old age)  
-   - *Tendre → Tendresse* (soft, tender, gentle → tenderness, affection, gentleness)
-   - *Gentil → Gentillesse* (kind → kindness)
-
-3. **Special Cases with Unique Meanings**  
-   - *Gros → Grossesse* (big → pregnancy) → **Not "bigness," but a state of being big**  
-   - *Poli → Politesse* (polite → politeness)  
-
-This suffix is similar to **"-ness"** in English (*kind → kindness, rich → richness*), making abstract concepts from adjectives.
+✅ **Example:**  
+➡ *Lorsqu’on lui a demandé son avis sur la réforme, le ministre a botté en touche.*  
+➡ *(When asked about the reform, the minister dodged the question.)*
 
 ---
 
-## Prefix **"a-"**
+## *Rebelote*
 
-In French, the prefix "a-" (or "ad-" before a vowel) is added to nouns, adjectives, and verbs to convey movement towards a particular state or being. This prefix often indicates a change or transformation, emphasizing the process of becoming or approaching a certain condition.
+**"Rebelote"** is a French expression meaning **"here we go again"** or **"once again"**. It is used when something happens again, often in a repetitive or predictable way.  
 
-### **Examples**
+### **Origin:**  
+It comes from the card game **Belote**, where "rebelote" is announced when a player has both the King and Queen of trumps, earning extra points. Over time, it became a general expression for something repeating.  
 
-1. **Affoler** (to panic): From "fou" (crazy), the prefix "a-" transforms it into a verb meaning "to drive crazy" or "to cause panic".
+### **Usage:**  
+It can express **resignation, frustration, or amusement** about a situation happening again.  
 
-2. **Adoucir** (to soften): From "doux" (soft), "a-" creates a verb meaning "to make softer" or "to smooth".
-
-3. **Alléger** (to lighten): From "léger" (light), "a-" forms a verb meaning "to make lighter" or "to ease".
-
-Additional examples:
-
-- Agrandir (to enlarge): From "grand" (big)
-- Appauvrir (to impoverish): From "pauvre" (poor)
-- Affaiblir (to weaken): From "faible" (weak)
-- Aplatir (to flatten): From "plat" (flat)
-- Améliorer (to improve): From "meilleur" (better)
-
-
-### **Examples from the text**
-
-- L'humour adoucit les mœurs et allège notre quotidien grisâtre je te - je vous - le garantis.
+✅ **Example:**  
+➡ *Il a encore oublié notre rendez-vous… Rebelote !*  
+➡ *(He forgot our meeting again... Here we go again!)*
 
 ---
+
 
 ## Vocabulaire
 
 | mots | explications |
 | ---- | ---- | 
-| rire de [qch] | laugh at [sth] |
-| psychiatre | psychiatrist </br> ▶︎ *À la différence du psychologue, le psychiatre a une approche médicale des maladies mentales.* Unlike psychologists, psychiatrists take a medical approach to mental illness. | 
-| humoriste | (*professionnel du rire*) humorist, (stage or TV performer) comedian |
-| rigoler | (*rire*) laugh, have a laugh </br> ▶︎ *On a bien rigolé hier chez Mathieu !* We had a good laugh at Matthew's yesterday! |
-| aussi … que | (*comparaison : autant que*) as ... as, just as ... as |
-| feuille d'impôts | tax form |
-| spectacle | show, performance, spectacle, showbusiness, entertainment, entertainment industry |
-| le monde du spectacle | (*ensemble des artistes*) the world of show business, the show business world |
-| infini | adj. infinite, indefinite, countless </br> n.m. infinity, the infinity of space, infinite space |
-| à l'infini | adv. endlessly, limitlessly, boundlessly |
-| fraîcheur | freshness, coolness |
-| une histoire drôle | a funny story |
-| plaisanterie | joke |
-| boutade | witticism |
-| blague | joke, trick |
-| périmer | (*rendre obsolète*) make [sth] obsolete, (formal) render [sth] obsolete |
-| dès que | (*à partir de : temps*) as soon as |
-| supporter | support, bear, accept | 
-| renouveler | renew |
-| **enfermer** | shut up, shut away, lock up (⇒`en`+`fermer`) |
-| s'enfermer | lock yourself in, shut yourself in |
-| **empocher** | (mettre dans sa poche) put in one's pocket (⇒`poche`: pocket) (`em-` often used to transform nouns into verbs) |
-| se fier | trust |
-| **se méfier** | be suspicious of, be wary of, beware of, be careful, take care (`mé-`⇒`mal`, negativity, badness, etc. en⇒`mis`) |
-| à double tour | with two turns of the key |
-| enfermer à double tour | double-lock |
-| fermer [qch] à double tour | double-lock, make sure [sth] is firmly locked |
-| faire rire | make [sb] laugh |
-| faire rire [qqn] | make [sb] laugh |
-| autoriser | authorize |
-| autoriser [qqn] à faire [qch] | authorize [sb] to do [sth] |
-| en même temps | at the same time | 
-| tutoyer | (*dire « tu »*) call [sb] "tu", address [sb] as "tu", use "tu" with [sb] |
-| **politesse** | politeness, manners |
-| gâcher | waste, throw [sth] away, spoil, ruin, mess [sth] up |
-| prime | bonus, premium |
-| primer | (*récompenser*) award a prize to [sb/sth] | 
-| gag | (*scène comique*) joke, gag |
-| perdre de vue | (*oublier*) lose sight of [sth] |
-| **affoler** | (*inquiéter*) throw [sb] into a panic, panic |
-| **s'affoler** | (*s'inquiéter*) panic, go into a panic, (figurative) lose your head |
-| taquiner | tease, annoy |
-| lointain | distant, remote, far-off |
-| méchanceté | ill-will, malice, spite, maliciousness, spitefulness, nastiness |
-| **rhabiller** | (habiller de nouveau) dress [sb] again (`re-` before a half-vowel `h`, `e` is omitted) |
-| Rhabillez-vous | put your clothes back on, get dressed again |
-| préjugé | prejudice, bias |
-| peste | plague, pest, nuisance |
-| fuir [qch] comme la peste | (*éviter [qch] au maximum*) avoid like the plague |
-| *éviter quelqu'un comme la peste* | to avoid someone like the plague |
-| *se méfier de quelqu'un comme de la peste* | to be wary of / to mistrust someone |
-| petite peste | (*personne énervante et méchante*) little pest, little nuisance </br> ▶︎ *Arrête de la taquiner, tu es une vraie petite peste.* Stop teasing her, you really are a little pest. |
-| idées reçues | received ideas, preconceived ideas | 
-| mœurs | customs, habits, traditions, behaviour, morals |
-| bonnes mœurs | good moral standards |
-| grisâtre | grayish, drab, bleak |
-| toucher à sa fin | (*se finir*) come to an end, near the end |
-| suffisamment | enough, sufficiently |
-| suffisamment de [qch] | enough, sufficient |
-| élément | component, element, fact, information, piece of information |
-| vouvoyer | (*utiliser « vous » au lieu de « tu »*) use "vous" with [sb] |
-| enceinte | n.f. wall, outer wall, speaker, inside, interior </br> ⭐ adj. be pregnant |
-| être enceinte de + [durée] | be + [weeks/months] pregnant |
-| debout | standing, upright |
-| transports en commun | public transit, public transportation |
+| en plein dans le mille | (*au centre d'une cible*) in the bull's-eye, right in the bull's-eye </br> ▶︎ *Cet archer a planté sa flèche en plein dans le mille.* </br> (*exactement*) spot on </br> ▶︎ *En plein dans le mille ! C'est pour ça qu'il a demandé ça !* |
+| mille | (*quantité de mille unités*) a thousand </br> ⭐(*disque central des jeux de fléchettes*) bull's-eye |
+| en plein [qch] | in the middle of [sth] |
+| pousse | (*bourgeon*) shoot, sprout </br> ▶︎ *C'est au printemps que les arbres ont de jeunes pousses.* It's in spring that the trees have young shoots. |
+| pousser | (*croître, se développer*) grow, (teeth) come through, push through, push, drive |
+| jeune pousse | (*start-up, entreprise basée sur Internet*) newly formed company, Internet startup |
+| pousse de bambou | (*très jeune bambou*) bamboo shoot |
+| spécialisé | (*très compétent sur un domaine*) specializing |
+| mettre au point | *Photographie* (*régler pour améliorer la netteté*) focus, bring [sth] into focus </br> ⭐(*élaborer*) develop </br> ▶︎ *Nous allons mettre au point de nouvelles formes d'énergie respectueuses de l'environnement.* We are going to develop new, environment-friendly forms of energy. |
+| respectueux | adj. respectful, polite </br> ▶︎ *Elle est très respectueuse à l'égard de ses parents.* She is very respectful towards her parents. </br> (*soucieux*) conscientious | 
+| respectueux de l'environnement | (*qui protège a nature*) environmentally aware |
+| la mise au point | n.f. focus, development |
+| dispositif | n.m. mechanism, device </br> ▶︎ *un dispositif de pointage* a pointing device, mouse </br> widely used in the media and advertising as a blanket term for all kinds of **plans, systems, arrangements**, etc </br> ▶︎ *un dispositif d'assurance* an insurance system, scheme, measure, etc |
+| remplacer | replace |
+| remplacer [qch] (par [qch]) | (*utiliser [qch] à la place de [qch] d'autre*) replace [sth] with [sth] |
+| pneu | (*pneumatique*) tire |
+| pneu neige | (*pneu adapté à l'hiver*) snow tire, winter tire |
+| coussin | cushion |
+| coussin d'air | (*matelas*) air cushion |
+| reportage | (*compte rendu médiatique*) report |
+| filet | net |
+| innovant | innovative | 
+| partielle | partial, incomplete |
+| parcours | n.m. route, path, course, experience, studies, academic career |
+| sans faute | adv. without fail |
+| sans-faute | flawless performance |
+| avoir le vent en poupe | **to have the wind in one's sails** (It comes from sailing: "la poupe" is the stern (back) of a ship. When the wind blows from behind, the ship moves faster and more easily. It describes a person, company, or project that is experiencing great success or strong momentum.) |
+| poupe | (*arrière d'un navire*) (ship) stern |
+| placer la barre haut | (*viser haut, être ambitieux*) (figurative) set the bar high |
+| mettre la barre haut | (⇒*placer la barre haut*) |
+| rudimentaire | rudimentary, basic |
+| aussi … que | (*comparaison : autant que*) as ... as |
+| départ | (*fait de partir*) departure </br> ⭐(début de [qch]) start, outset |
+| au départ | to begin with, to start with, at first |
+| étape | stage, step |
+| brûler les étapes | (*se précipiter, aller trop vite*) cut corners, jump the gun, progress in leaps and bounds |
+| coiffer | do [sb]'s hair |
+| concurrent | noun. competitor, contestant, rival, (adj.) competing |
+| poteau | post | 
+| au poteau | (*condamnation, réprobation*) Down with [sb/sth] |
+| coiffer [qqn] au poteau | (*finir juste devant [qqn]*) pip [sb] at the post |
+| guidon | (*pièce de direction*) (bike) handlebars |
+| avoir le nez dans le guidon | (*être focalisé sur sa tâche*) (informal, figurative) have your nose to the grindstone </br> (*ne pas prendre assez de recul*) be so focused on [sth] that you can no longer see the big picture, lose perspective, lose all perspective |
+| si bien que | (*de telle façon que*) so much that, so much so that |
+| avoir failli faire [qch] | (*avoir manqué de faire*) almost did [sth], nearly did [sth] |
+| faillir à [qch] | fail in [sth] |
+| forfait | flat fee, flat rate, withdrawal, forfeit |
+| jeter l'éponge | (*abandonner un projet, une idée*) throw in the towel |
+| coûteux | (*cher*) costly, expensive |
+| cap | (*Géographie : pointe de terre*) cape, headland </br> (*direction*) course, direction </br> (*étape*) stage |
+| changer de cap | (*navire : changer de direction*) change course |
+| renvoyer | (*envoyer à nouveau*) send [sth] again, resend |
+| renvoyer [qqn] dans les cordes | (*remettre [qqn] à sa place*) (figurative) put [sb] in his/her place |
+| envoyer | send |
+| rendre compte de [qch] | report on [sth], give a report on [sth], give a summary of [sth] |
+| se rendre compte de [qch] | realize, become aware of [sth], become aware that |
+| reculer | (aller en arrière) go back, go backwards, step backwards, (especially in vehicle) reverse |
+| sauter | jump |
+| reculer pour mieux sauter | (*prendre du recul*) (figurative) take a step back to see the big picture, take a step back in order to take a big jump forward, prepare to move ahead |
+| soumis | p.p. ⇒*soumettre* submit |
+| investissement | investment |
+| botter en touche | (*éluder une question*) (sports) kick into touch, evade the issue, dodge the issue, pass the buck |
+| botter | put boots on, boot, kick |
+| sous prétexte que | (*simplement parce que*) on the pretext that |
+| sous prétexte de | (*en invoquant une raison*) on the pretext of |
+| le nôtre | (*qui est à nous*) ours </br> ▶︎ *Ce n'est pas votre problème, c'est le nôtre.* |
+| ça alors | Goodness! Goodness me! My goodness! |
+| rebelote | (*figure valant des points supplémentaires*) (cards: double trump) rebelote </br> (*marquant [qch] qui se répète*) same thing again, yet again |
