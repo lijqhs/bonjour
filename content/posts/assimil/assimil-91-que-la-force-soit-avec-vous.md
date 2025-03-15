@@ -52,12 +52,12 @@ This is the most formal way to ask questions in French and is commonly used in w
 The **French causative** structure with **"faire"** is used when one person causes another to do something. It can express different shades of meaning depending on context, including **making, letting, or having someone do something**.
 
 
-### **1. Basic Structure**
+### 1. Basic Structure
 The core structure is:
 
 **Faire + infinitive + (agent/doer of the action, if needed)**
 
-#### **Examples:**
+📔 **Examples:**
 - **Je fais laver ma voiture.**  
   → *I am having my car washed.*  
   _(Someone else does the washing, not me.)_
@@ -71,10 +71,10 @@ The core structure is:
   _(The students do the reading.)_
 
 
-### **2. Expressing Who Performs the Action**
+### 2. Expressing Who Performs the Action
 When you mention **who actually does the action**, you usually introduce them with **"par"** (for things done by professionals) or **"à"** (when someone is made to do something). However, in spoken French, this is often left out.
 
-#### **Examples:**
+📔 **Examples:**
 - **Je fais nettoyer la maison par une femme de ménage.**  
   → *I have the house cleaned by a housekeeper.*  
 
@@ -85,10 +85,10 @@ When you mention **who actually does the action**, you usually introduce them wi
   → *She had her computer repaired by a technician.*  
 
 
-### **3. Reflexive Verbs in the Causative**
+### 3. Reflexive Verbs in the Causative
 When the action affects the subject themselves, **"se faire"** is used.
 
-#### **Examples:**
+📔 **Examples:**
 - **Je me fais couper les cheveux.**  
   → *I am getting my hair cut.*  
 
@@ -100,7 +100,7 @@ When the action affects the subject themselves, **"se faire"** is used.
 - **Elle s’est faite couper les cheveux.** (❌ Incorrect)
 
 
-### **4. Causative in Different Tenses**
+### 4. Causative in Different Tenses
 The verb **"faire"** can be conjugated in different tenses, while the second verb remains in the **infinitive**.
 
 | **Tense** | **Example** | **Translation** |
@@ -111,7 +111,7 @@ The verb **"faire"** can be conjugated in different tenses, while the second ver
 | **Futur** | Nous ferons construire une maison. | We will have a house built. |
 
 
-### **5. Causative vs. Passive**
+### 5. Causative vs. Passive
 Sometimes, **"faire + infinitive"** can resemble the **passive voice** because the subject isn’t doing the action directly.
 
 - **Il a fait arrêter le voleur.**  
@@ -124,7 +124,7 @@ Compare with the passive:
 The causative emphasizes that someone **caused** the action, while the passive just states that it happened.
 
 
-### **6. Difference Between "Faire" and "Laisser"**
+### 6. Difference Between "Faire" and "Laisser"
 - **Faire + infinitive** → Someone causes an action to happen.  
 - **Laisser + infinitive** → Someone allows an action to happen.
 
@@ -134,7 +134,7 @@ The causative emphasizes that someone **caused** the action, while the passive j
 | Il laisse travailler son fils. | He lets his son work. |
 
 
-### **Summary**
+### Summary
 - **"Faire + infinitive"** means *to make/have someone do something.*
 - The actual **doer of the action** can be introduced with **"par"** (professional) or **"à"** (person made to do something).
 - Reflexive verbs use **"se faire"** (e.g., *se faire couper les cheveux*).
@@ -155,7 +155,7 @@ The causative emphasizes that someone **caused** the action, while the passive j
 
 ---
 
-## *dont*
+## *Dont*
 
 ### Main Uses of "Dont"
 
@@ -196,11 +196,11 @@ Never use "de" and "dont" together in the same sentence[2].
 The **pluperfect tense (plus-que-parfait)** is used to describe an action that **took place before another past action**. It is the equivalent of **"had + past participle"** in English (e.g., *I had finished*).  
 
 
-### **1. Formation of the Pluperfect**  
+### 1. Formation of the Pluperfect
 The **plus-que-parfait** is formed with:  
 ✅ **Imperfect tense of "avoir" or "être" + past participle of the main verb**  
 
-#### **Avoir as the Auxiliary (Most Verbs)**
+#### Avoir as the Auxiliary (Most Verbs)
 | Subject | **Avoir** (Imperfect) | Past Participle | Example |
 |---------|-------------------|-----------------|---------|
 | Je | avais | fini | *J'avais fini.* (*I had finished.*) |
@@ -210,7 +210,7 @@ The **plus-que-parfait** is formed with:
 | Vous | aviez | vu | *Vous aviez vu ce film.* (*You had seen this movie.*) |
 | Ils/Elles | avaient | pris | *Ils avaient pris le train.* (*They had taken the train.*) |
 
-#### **Être as the Auxiliary (For Reflexive and Certain Verbs)**
+#### Être as the Auxiliary (For Reflexive and Certain Verbs)
 Some verbs use **être** instead of **avoir**, mainly:  
 - **Dr. & Mrs. Vandertramp verbs** (verbs of motion like *aller, venir, partir*)  
 - **Reflexive verbs** (*se lever, se réveiller*)  
@@ -225,7 +225,7 @@ Some verbs use **être** instead of **avoir**, mainly:
 | Ils/Elles | étaient | resté(e)s | *Elles étaient restées à la maison.* (*They had stayed at home.*) |
 
 
-### **2. Agreement Rules**  
+### 2. Agreement Rules
 ✅ Verbs that use **être** must agree in gender and number with the subject.  
 ✅ Reflexive verbs **always take être** and follow the same agreement rules.  
 
@@ -234,7 +234,7 @@ Some verbs use **être** instead of **avoir**, mainly:
 - *Nous étions partis tôt.* (*We had left early.*)  
 
 
-### **3. When to Use the Pluperfect**  
+### 3. When to Use the Pluperfect
 
 ✅ **To Describe an Action Completed Before Another Past Action**  
 - *J’avais déjà mangé quand tu es arrivé.* (*I had already eaten when you arrived.*)  
@@ -246,7 +246,7 @@ Some verbs use **être** instead of **avoir**, mainly:
 - *Si j’avais su, je serais venu plus tôt.* (*If I had known, I would have come earlier.*)  
 
 
-### **4. Comparison with Other Past Tenses**  
+### 4. Comparison with Other Past Tenses
 
 | **Tense** | **Example** | **English Equivalent** | **Use** |
 |-----------|------------|-----------------|------|
@@ -255,7 +255,7 @@ Some verbs use **être** instead of **avoir**, mainly:
 | **Plus-que-parfait** | *J’avais déjà mangé.* | *I had already eaten.* | Action completed before another past event |
 
 
-### **Summary**  
+### Summary
 | **Rule** | **Example** |
 |----------|------------|
 | **Use "avoir" or "être" in the imperfect + past participle** | *J'avais terminé mes études avant de commencer à travailler.* (*I had finished my studies before starting work.*) |
