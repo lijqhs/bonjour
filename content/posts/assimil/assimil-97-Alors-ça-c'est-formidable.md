@@ -1,7 +1,7 @@
 ---
 title: 97 Alors ça, c'est formidable !
 slug: 97 Alors ça, c'est formidable !
-description: « Assimil French » Quatre-vingt-septième leçon - En plein ddans le mille !
+description: « Assimil French » Quatre-vingt-dix-septième leçon - En plein ddans le mille !
 author: aaron
 date: 2025-03-14
 categories: ["leçon", "vocabulaire"]
