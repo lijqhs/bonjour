@@ -6,7 +6,7 @@ author: aaron
 date: 2025-03-14
 categories: ["leçon", "vocabulaire"]
 series: ["Assimil"]
-# tags: []
+tags: [idioms]
 cover: 
     image: https://cdn.jsdelivr.net/gh/lijqhs/cdn@1.8/img/gallery/ca/eugene-aikimov-azqdBkIHVo0-unsplash.jpg
     # hidden: true # hide everywhere but not in structured data
@@ -196,7 +196,7 @@ It’s a short but powerful way to congratulate someone.
 | sans-faute | flawless performance |
 | avoir le vent en poupe | **to have the wind in one's sails** (It comes from sailing: "la poupe" is the stern (back) of a ship. When the wind blows from behind, the ship moves faster and more easily. It describes a person, company, or project that is experiencing great success or strong momentum.) |
 | poupe | (*arrière d'un navire*) (ship) stern |
-| placer la barre haut | (*viser haut, être ambitieux*) (figurative) set the bar high |
+| placer la barre haut | (*viser haut, être ambitieux*) (figurative) set the bar high (**haut** is an adverb here, not an adjective, and therefore does not agree with **la barre**) |
 | mettre la barre haut | (⇒*placer la barre haut*) |
 | rudimentaire | rudimentary, basic |
 | aussi … que | (*comparaison : autant que*) as ... as |
