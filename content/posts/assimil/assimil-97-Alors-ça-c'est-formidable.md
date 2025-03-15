@@ -1,18 +1,18 @@
 ---
-title: 97
-slug: 97
+title: 97 Alors ça, c'est formidable !
+slug: 97 Alors ça, c'est formidable !
 description: « Assimil French » Quatre-vingt-septième leçon - En plein ddans le mille !
 author: aaron
 date: 2025-03-14
 categories: ["leçon", "vocabulaire"]
 series: ["Assimil"]
-tags: []
+# tags: []
 cover: 
     image: https://cdn.jsdelivr.net/gh/lijqhs/cdn@1.8/img/gallery/ca/eugene-aikimov-azqdBkIHVo0-unsplash.jpg
     # hidden: true # hide everywhere but not in structured data
     hiddenInList: true # hide on list pages and home
     # hiddenInSingle: true # hide on single page
-draft: true
+# draft: true
 ---
 
 ## *En plein dans le mille !*
@@ -31,6 +31,30 @@ It's used to say that someone is absolutely right or has found the correct answe
 — *Exactement, en plein dans le mille !* 🎯  
 (*In my opinion, he refused the offer because he has a better opportunity elsewhere.*  
 — *Exactly, spot on!*)
+
+---
+
+## **avoir failli faire quelque chose**
+
+The French expression **"avoir failli faire quelque chose"** means **"to have almost done something"** or **"to have nearly done something."** It expresses an action that was very close to happening but ultimately did not.  
+
+### Structure:  
+**Avoir failli + [infinitive verb]**  
+
+### Examples:  
+🔹 *J’ai failli tomber dans l’escalier.*  
+➡ (*I almost fell down the stairs.*)  
+
+🔹 *Elle a failli oublier son rendez-vous.*  
+➡ (*She almost forgot her appointment.*)  
+
+🔹 *Nous avons failli rater notre train.*  
+➡ (*We almost missed our train.*)  
+
+### Examples from the text
+
+- Nous avions le nez dans le guidon, si bien que vous avons failli déclarer forfait au bout de six mois, car les choses se sont compliquées.
+- On a failli vous mettre KO, mais vous avez encaissé les coups. Chapeau !
 
 
 ---
@@ -64,6 +88,78 @@ It can express **resignation, frustration, or amusement** about a situation happ
 ✅ **Example:**  
 ➡ *Il a encore oublié notre rendez-vous… Rebelote !*  
 ➡ *(He forgot our meeting again... Here we go again!)*
+
+---
+
+## *tirer son épingle du jeu*
+
+The French expression **"tirer son épingle du jeu"** means **to manage to get out of a difficult situation skillfully or advantageously**. It implies being able to **avoid trouble, stand out, or succeed where others may struggle**.  
+
+### Breakdown of the expression:  
+- **Tirer** = to pull or withdraw  
+- **Son épingle** = one's pin  
+- **Du jeu** = from the game  
+
+Originally, it referred to a game where players withdrew their pins before they could be trapped. Over time, it came to symbolize **being able to escape or succeed cleverly in a challenging situation**.  
+
+### Example in context:  
+🔹 *Malgré la crise économique, cette petite entreprise a su tirer son épingle du jeu.*  
+(*Despite the economic crisis, this small company managed to do well.*)  
+
+---
+
+## *dernière ligne droite*
+
+The French expression **"dernière ligne droite"** translates to **"the final stretch"** in English. It refers to **the last phase of a process, project, or event**, often implying that the goal is near, but some effort is still needed to reach it.  
+
+### Origin:  
+The phrase comes from sports, especially horse racing and athletics, where the **"last straight line"** is the final section of the track before the finish line.  
+
+### Examples in context:  
+🔹 *Nous sommes dans la dernière ligne droite avant le lancement du produit.*  
+➡ (*We are in the final stretch before the product launch.*)  
+
+🔹 *Il ne reste que deux semaines avant l’examen, c’est la dernière ligne droite !*  
+➡ (*There are only two weeks left before the exam, this is the final stretch!*)  
+
+---
+
+## *encaisser le coup*
+
+The French expression **"encaisser le coup"** means **"to take a hit"** (figuratively) or **"to endure a shock or difficulty"**. It refers to someone **absorbing a difficult situation, bad news, or an emotional blow** without immediately reacting or breaking down.  
+
+### Breakdown of the expression:  
+- **Encaisser** = to cash in, to take in, or to withstand  
+- **Le coup** = the blow or hit  
+
+It comes from the idea of a boxer taking a punch and staying on their feet, symbolizing resilience in tough situations.  
+
+### Examples in context:  
+🔹 *Il a perdu son emploi, mais il a su encaisser le coup.*  
+➡ (*He lost his job, but he managed to take it in stride.*)  
+
+🔹 *Quand elle a appris la nouvelle, elle a eu du mal à encaisser le coup.*  
+➡ (*When she heard the news, she had a hard time handling it.*)  
+
+---
+
+## *Chapeau !*
+
+The French expression **"Chapeau !"** is an informal way to say **"Hats off!"** or **"Well done!"** in English. It is used to express admiration or respect for someone's achievement, effort, or talent.  
+
+### Origin:  
+The expression **tirer un coup de chapeau à** means to *take one's hat off to*, i.e. congratulate, acknowledge, etc.
+
+It comes from the gesture of **tipping or removing one's hat** as a sign of respect or appreciation, which was common in the past.  
+
+### Examples in context:  
+🔹 *Tu as réussi cet examen avec une super note ? Chapeau !*  
+➡ (*You passed this exam with a great score? Hats off!* 👏)  
+
+🔹 *Il a couru un marathon malgré sa blessure. Chapeau !*  
+➡ (*He ran a marathon despite his injury. Well done!*)  
+
+It’s a short but powerful way to congratulate someone.
 
 ---
 
@@ -140,3 +236,17 @@ It can express **resignation, frustration, or amusement** about a situation happ
 | le nôtre | (*qui est à nous*) ours </br> ▶︎ *Ce n'est pas votre problème, c'est le nôtre.* |
 | ça alors | Goodness! Goodness me! My goodness! |
 | rebelote | (*figure valant des points supplémentaires*) (cards: double trump) rebelote </br> (*marquant [qch] qui se répète*) same thing again, yet again |
+| légèrement | lightly, gently, softly |
+| dossier | file |
+| viser | aim | 
+| banc | bench |
+| initial | (*f: initiale, mpl: initiaux, fpl: initiales*) initial |
+| convaincant | adj. persuasive, convincing |
+| balle est dans ton camp | *figuré (c'est à toi d'agir)* (figurative) the ball is in your court |
+| tirer son épingle du jeu | (*bien s'en sortir*) play your cards right |
+| épingle | (*petite tige pointue*) pin |
+| dernière ligne droite | (*ultime effort à fournir*) (figurative) home straight, home stretch, homestretch, last push, final push |
+| encaisser le coup | (*se remettre d'un coup dur*) (sports) take a blow, (figurative) take it (all) in your stride, take it on the chin |
+| encaisser | (*mettre en caisse*) box, pack, put [sth] in cases, </br> (*recevoir : un coup*) take, withstand </br> *Pendant plus de cinq minutes, le boxeur a encaissé les coups de son adversaire sans faiblir.* The boxer withstood his opponent's blows without flinching for over five minutes. |
+| caisse | box, case </br> *argot (automobile)* car, motor, ride, wheels |
+| Chapeau l'artiste ! | (*félicitations ! Bravo !*) Hats off to the artist!, Hats off to the performer! Bravo! |
