@@ -3,7 +3,7 @@ title: 100 Ma patrie, c'est la langue française
 slug: 100 Ma patrie c'est la langue française
 description: « Assimil French » Centième leçon - La langue française
 author: aaron
-date: 2025-03-16
+date: 2025-03-17
 categories: ["leçon", "vocabulaire", "grammaire"]
 series: ["Assimil"]
 tags: [future perfect]
@@ -12,7 +12,7 @@ cover:
     # hidden: true # hide everywhere but not in structured data
     hiddenInList: true # hide on list pages and home
     # hiddenInSingle: true # hide on single page
-draft: true
+# draft: true
 
 ---
 
