@@ -107,3 +107,4 @@ The **pluperfect and past conditional are often used together** in conditional s
 
 | mots | explications |
 | ---- | ---- | 
+| raconter | tell, say | 
