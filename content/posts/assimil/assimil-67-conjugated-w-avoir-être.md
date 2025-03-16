@@ -85,3 +85,4 @@ to be doing something
 | souvenir | memory </br> **se souvenir** to remember </br> - *se souvenir de qn/qch* to remember sb/sth </br> - *Je me souviens qu’il neigeait ce jour-là.* I remember it was snowing that day. </br> - *Souviens-toi : "L'encre la plus pâle vaut mieux que la meilleure mémoire."* Remember: "The palest ink is better than the best memory." | 
 | la valise | suitcase |
 | le courrier | mail </br> - *le courrier électronique* email |
+| être en train de faire quelque chose | to be doing something |
