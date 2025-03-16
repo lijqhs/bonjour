@@ -151,9 +151,40 @@ workaround: use ***on***
 
 | mots | explications |
 | ---- | ---- | 
-| neuf | ADJ. new (FEM. neuve) / number nine <br> - *des chaussures neuves* new shoes |
-| vendre | to sell <br> - *vendre quelque chose à quelqu'un* to sell somebody something <br> - *se vendre* to sell; to sell oneself |
-| actuel | present <br> - *à l'heure actuelle* at the present time <br> - ***actuellement*** at present (*actuellement* does not mean *actually*) |
-| humeur | mood <br> - *Il est de bonne humeur.* He's in a good mood. <br> - *Elle était de mauvaise humeur.* She was in a bad mood. |
-| humour | humour <br> - *avoir de l'humour* to have a sense of humour |
+| neuf | ADJ. new (FEM. neuve) / number nine </br> ▶︎ *des chaussures neuves* new shoes |
+| vendre | to sell </br> ▶︎ *vendre quelque chose à quelqu'un* to sell somebody something </br> ▶︎ *se vendre* to sell; to sell oneself |
+| actuel | present </br> ▶︎ *à l'heure actuelle* at the present time </br> ▶︎ ***actuellement*** at present (*actuellement* does not mean *actually*) |
+| humeur | mood </br> ▶︎ *Il est de bonne humeur.* He's in a good mood. </br> ▶︎ *Elle était de mauvaise humeur.* She was in a bad mood. |
+| humour | humour </br> ▶︎ *avoir de l'humour* to have a sense of humour |
 | vivement | strongly |
+| *aujourd'hui*     | today </br> ▶︎ *Aujourd'hui, il fait beau.* (*It is nice today.*)                                 |
+| *demain*          | tomorrow </br> ▶︎ *Demain, nous partirons en vacances.* (*Tomorrow, we will go on vacation.*)     |
+| *hier*            | yesterday </br> ▶︎ *Hier, j'ai vu un film.* (*Yesterday, I saw a movie.*)                         |
+| *après-demain*    | the day after tomorrow </br> ▶︎ *Nous avons une réunion après-demain.* (*We have a meeting the day after tomorrow.*) |
+| *avant-hier*      | the day before yesterday </br> ▶︎ *J'ai fini mon travail avant-hier.* (*I finished my work the day before yesterday.*) |
+| *maintenant*      | now </br> ▶︎ *Je le fais maintenant.* (*I am doing it now.*)                                     |
+| *tout de suite*   | right away </br> ▶︎ *Viens ici tout de suite.* (*Come here right away.*)                         |
+| *bientôt*         | soon </br> ▶︎ *Il reviendra bientôt.* (*He will come back soon.*)                                |
+| *tôt*             | early </br> ▶︎ *Ils sont arrivés tôt.* (*They arrived early.*)                                  |
+| *tard*            | late </br> ▶︎ *Elle rentre toujours tard.* (*She always comes home late.*)                      |
+| *déjà*            | already </br> ▶︎ *Il est déjà parti.* (*He has already left.*)                                  |
+| *encore*          | still, again </br> ▶︎ *Elle est encore là.* (*She is still here.*)                              |
+| *toujours*        | always </br> ▶︎ *Il est toujours à l'heure.* (*He is always on time.*)                         |
+| *jamais*          | never </br> ▶︎ *Je ne mange jamais de viande.* (*I never eat meat.*)                           |
+| *souvent*         | often </br> ▶︎ *Nous allons souvent au cinéma.* (*We often go to the cinema.*)                  |
+| *rarement*        | rarely </br> ▶︎ *Il sort rarement le soir.* (*He rarely goes out at night.*)                    |
+| *parfois*         | sometimes </br> ▶︎ *Parfois, je lis avant de dormir.* (*Sometimes, I read before sleeping.*)    |
+| *quelquefois*     | sometimes </br> ▶︎ *Je vais quelquefois à la plage.* (*I sometimes go to the beach.*)          |
+| *autrefois*       | formerly </br> ▶︎ *Autrefois, c'était une ferme.* (*It was a farm formerly.*)                   |
+| *longtemps*       | for a long time </br> ▶︎ *Elle a vécu ici longtemps.* (*She lived here for a long time.*)       |
+| *récemment*       | recently </br> ▶︎ *J'ai récemment appris la nouvelle.* (*I recently heard the news.*)          |
+| *actuellement*    | currently </br> ▶︎ *Il est actuellement en réunion.* (*He is currently in a meeting.*)         |
+| *désormais*       | henceforth </br> ▶︎ *Désormais, je ferai plus attention.* (*Henceforth, I will be more careful.*) |
+| *tantôt*          | soon, sometimes </br> ▶︎ *Je vous verrai tantôt.* (*I will see you soon.*)                      |
+| *en ce moment*    | at this moment </br> ▶︎ *Il dort en ce moment.* (*He is sleeping at this moment.*)              |
+| *tout à l'heure*  | shortly, later </br> ▶︎ *Je reviendrai tout à l'heure.* (*I will come back shortly.*)           |
+| *d'abord*         | first </br> ▶︎ *D'abord, nous allons manger.* (*First, we will eat.*)                           |
+| *ensuite*         | then </br> ▶︎ *Ensuite, nous visiterons le musée.* (*Then, we will visit the museum.*)         |
+| *puis*            | then </br> ▶︎ *On ira au parc puis à la plage.* (*We will go to the park then to the beach.*)  |
+| *finalement*      | finally </br> ▶︎ *Finalement, il a accepté.* (*Finally, he agreed.*)                           |
+| *enfin*           | finally </br> ▶︎ *Enfin, nous sommes arrivés.* (*Finally, we arrived.*)                        |
