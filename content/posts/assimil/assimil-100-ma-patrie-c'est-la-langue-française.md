@@ -33,15 +33,18 @@ cover:
 | faire l'emplette de [qch] | (*acheter [qch]*) buy |
 | dépanneur | (*réparateur d'appareils*) (n.f. *dépanneuse*) repairman, repairwoman </br> ⭐ *Can* (*petite épicerie*) convenience store |
 | chien-chaud | hot dog |
-| char | (*véhicule de l'Antiquité*) chariot </br> ⭐ Can, familier (voiture) car |
+| char | (*véhicule de l'Antiquité*) chariot </br> ⭐ *Can, familier (voiture)* car |
 | faire le plein | fill up, fill the tank |
 | essencerie | Au Sénégal, poste d'essence |
 | enrichir | make rich, enrich |
 | arobase | at symbol, at sign @ |
 | vasistas | fanlight |
+| en passant par [qch] | (*en traversant : un lieu*) by way of [sth], via, passing by [sth], passing through [sth] |
+| ou encore | (*choix : aussi possible*) or else |
 | caoutchouc | (*matière naturelle élastique*) rubber |
 | goudron | tar |
 | paquebot | (*grand navire*) liner |
+| accueillant | welcoming |
 | fort de [qch] | (*avec, renforcé par [qch]*) fortified by [sth] |
 | francophonie | (*monde francophone*) French-speaking countries |
 | frontière | (*délimitation entre deux États*) (between countries) frontier, border |
