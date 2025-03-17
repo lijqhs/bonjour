@@ -6,7 +6,7 @@ author: aaron
 date: 2025-03-16
 categories: ["leçon", "vocabulaire"]
 series: ["Assimil"]
-tags: [future perfect]
+tags: [francophone]
 cover: 
     image: https://cdn.jsdelivr.net/gh/lijqhs/cdn@1.8/img/gallery/fr/isaiah-b-Fc7hOSm1LhI-unsplash.jpg
     # hidden: true # hide everywhere but not in structured data
