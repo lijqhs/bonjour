@@ -16,6 +16,40 @@ cover:
 
 ---
 
+## Grammar Breakdown of *des centaines de millions de gen*
+
+
+### **1️⃣ Structure Analysis**  
+- **"des"** → Indefinite article (plural of *de* + *les*), meaning "some."  
+- **"centaines"** → Noun, meaning "hundreds." It is the plural of *centaine* ("a hundred").  
+- **"de"** → Preposition meaning "of," used after quantities.  
+- **"millions"** → Noun, meaning "millions."  
+- **"de"** → Again, preposition meaning "of."  
+- **"gens"** → Plural noun meaning "people."  
+
+
+### **2️⃣ Explanation of Quantity Rules**  
+
+#### **A) "centaines de millions" (Hundreds of millions)**  
+- *Centaine* and *million* are **nouns** (not numbers in this case).  
+- When a quantity is expressed using a noun (e.g., *centaine, douzaine, million, milliard*), we use **"de"** before the thing being counted.  
+- ✅ **"centaines de millions de gens"** (*hundreds of millions of people*).  
+- ❌ **"centaines des millions des gens"** (incorrect).  
+
+#### **B) Why "de" before "gens"?**  
+- After **"million"**, we again use "de" before the noun being counted (*gens*).  
+- This follows the **quantity + "de" + noun** structure seen in phrases like:  
+  - **"des centaines de livres"** (*hundreds of books*).  
+  - **"des millions d’habitants"** (*millions of inhabitants*).  
+
+
+### **3️⃣ Simplifying the Phrase**  
+- *Des centaines de millions de gens* = *Hundreds of millions of people.*  
+- The structure follows:  
+  **(Indefinite quantity) + de + (bigger quantity) + de + (noun).**  
+
+---
+
 
 ## Vocabulaire
 
