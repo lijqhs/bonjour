@@ -75,6 +75,8 @@ cover:
 | habiller | to dress </br> - ***s'habiller*** to get dressed </br> - *Je me suis rapidement habillé.* I got dressed quickly. |
 | installer | to put in, to install </br> - ***s'installer*** to settle in | 
 | semblant | ***faire semblant de faire quelque chose*** to pretend to do something </br> - *Il fait semblant de dormir.* He's pretending to be asleep. |
+| faire semblant de faire quelque chose | (*feindre, simuler*) to pretend to do something </br> - *Il a fait semblant de s'endormir pour faire le mur plus tard.* He pretended to be asleep so he could sneak out later. |
+| faire le mur | *familier (sortir sans permission)* sneak out |
 | essayer | to try </br> - *essayer de faire quelque chose* to try to do something |
 | endormir | to put to sleep </br> - ***s'endormir*** to go to sleep | 
 | dur | ADJ, ADV. hard </br> - *travailler dur* to work hard |
