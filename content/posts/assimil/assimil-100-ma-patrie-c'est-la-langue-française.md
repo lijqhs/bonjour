@@ -58,6 +58,8 @@ cover:
 | réussite | n.f. success |
 | profiter | thrive |
 | profiter de [qch] | (*jouir des avantages*) make the most of [sth], take advantage of [sth] |
+| faire un tour | (*faire une promenade*) go for a stroll, go for a walk |
+| faire un tour de + [pays] | (*faire un séjour itinérant en*) travel around + [place] |
 | non seulement | (*primo, en premier lieu*) not only </br> ▶︎ *Non seulement il n'y connaît rien mais en plus ça ne l'intéresse absolument pas.* Not only does he not know anything about it, but it also does not interest him in the slightest. |
 | non seulement ... mais en plus | (*déjà ... mais en outre*) not only ... but also |
 | relatif à | (*lié à*) related to [sth/sb], relating to [sth/sb] |
