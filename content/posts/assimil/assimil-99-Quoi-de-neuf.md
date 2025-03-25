@@ -168,6 +168,7 @@ It is formed using:
 | le goût | taste |
 | être tout ouïe | (*écouter attentivement*) (colloquial) be all ears |
 | concevoir | design, see, perceive, understand, conceive |
+| par rapport à [qch/qqn] | (*en comparaison avec*) in comparison to [sth/sb] |
 | contrairement à [qch/qqn] | (*de façon opposée*) contrary to [sth], unlike |
 | informatique | (*science du traitement de l'information*) IT, information technology, computer science, (information science) informatics (origin of the technical English term **informatics**) |
 | logiciel | software |
