@@ -138,7 +138,7 @@ If you want to express discomfort or complain about the cold, use **"Il fait tro
 | randonneuse | n.f. hiker |
 | courir | run |
 | genou | n.m. knee |
-| avoir mal à | pain or discomfort in a specific part of the body ([see above](#avoir-mal-à)) |
+| avoir mal à | pain or discomfort in a specific part of the body ([see above](#avoir-mal-à-)) |
 | souffrir | suffer |
 | énormément | enormously, tremendously |
 | marche | step, walking, hike </br> ▶︎ *Il y a 1665 marches pour monter en haut de la Tour Eiffel.* There are 1,665 steps to get to the top of the Eiffel Tower. </br> ▶︎ *La marche est bonne pour le cœur.* Walking is good for the heart. |
