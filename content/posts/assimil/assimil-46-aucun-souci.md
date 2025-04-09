@@ -164,3 +164,5 @@ to worry
 | assorti | matching, assorted |
 | l'habitude | habit </br> - *avoir l'habitude de quelque chose* to be used to something | 
 | la valise | suitcase </br> - *faire sa valise* to pack |
+| inquiet | adj.m, worried |
+| inquiète | adj.f, worried |
