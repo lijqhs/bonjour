@@ -38,6 +38,8 @@ What's wrong? / What's up?
 
 | mots | explications |
 | -- | -- | 
+| puisque | (*étant donné que*) since, because, as |
+| férié | (*jour : chômé, non travaillé*) public holiday |
 | chouette | n.f. owl; adj. brilliant </br> - *Chouette alors !* Brilliant! </br> - *Ça sera chouette.* It will be great. |
 | particulier | private </br> - *une maison particulière* a private house |
 | valoir | to be worth </br> - *Ça vaut combien ?* How much is it worth? </br> - *Ça vaut la peine* It's worth the trouble |
