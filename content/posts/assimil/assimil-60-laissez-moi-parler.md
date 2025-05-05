@@ -90,6 +90,10 @@ It doesn't matter / Never mind
 | le brouillard | fog </by> - *il y a du brouillard* it’s foggy |
 | maussade | sullen, gloomy |
 | bruiner | *il bruine* it’s drizzling |
+| depuis peu | not long / recently |
+| depuis longtemps | for a long time |
+| se rendre compte | realize, be aware |
+| rendre compte de [qch] | (rapporter [qch], résumer [qch]) give a report on [sth], give a summary of [sth] |
 | brûler | to burn |
 | juste à temps | just in time |
 | le toit | roof |
