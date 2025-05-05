@@ -63,7 +63,7 @@ In everyday speech, "les secours" is more frequently used, particularly when tal
 
 Examples:
 
-- "Appeler les secours" (To call for help/emergency services)4
+- "Appeler les secours" (To call for help/emergency services)
 - "Secours en montagne, en mer" (Mountain rescue, sea rescue)
 - "Premiers secours" (First aid)
 - "Au secours!" (Help!)
@@ -82,8 +82,9 @@ It doesn't matter / Never mind
 | mots | explications |
 | -- | -- | 
 | de plus en plus | more and more |
-| l’incendie | n.m. fire </br> - *un incendie de forêt* a forest fire |
+| incendie | n.m. fire </br> - *un incendie de forêt* a forest fire |
 | peu | shortly, just </br> - *peu après* shortly afterwards </br> - *Je suis arrivé peu avant la fermeture du magasin.* I arrived shortly before the shop closed. </br> - *un peu de* a little, a bit of </br> - *peu de* little/few </br> - *J'ai peu d'argent mais un peu de temps.* I have little money but a bit of time. |
+| un peu de | a little, a bit of |
 | lorsque | when (=*quand*) |
 | apercevoir | to see |
 | le brouillard | fog </by> - *il y a du brouillard* it’s foggy |
