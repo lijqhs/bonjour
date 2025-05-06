@@ -94,13 +94,17 @@ It doesn't matter / Never mind
 | depuis longtemps | for a long time |
 | se rendre compte | realize, be aware |
 | rendre compte de [qch] | (rapporter [qch], résumer [qch]) give a report on [sth], give a summary of [sth] |
+| compte rendu | n.m. report, minutes |
+| compte rendu de réunion | (résumé d'une rencontre) minutes, minutes of the meeting, report, report of the meeting |
 | brûler | to burn |
 | juste à temps | just in time |
 | le toit | roof |
 | au début | in the beginning / at first |
+| continuer à | (ne pas cesser) keep, keep on |
 | équipage | n.m. crew |
 | réaliser | to carry out, to fulfil, to realize, to make |
 | formidable | great |
 | prévenir | to tell, to inform |
+| pendant que | while, whilst |
 | garer | to park |
 | à l'époque | at that time |
