@@ -64,6 +64,22 @@ to have a gift for / to have a talent for
 
 *En revanche, j'avais un don pour la photographie - pas des paysages ou la mode - mais plutôt pour, à la fois des portraits et des scènes de la vie ordinaire.* By contrast, I had a gift for photography-not landscapes or fashion-but both portraits and scenes from ordinary life.
 
+## *à la fois*
+
+The French phrase **à la fois** is very common and means things like *at the same time*, *both … and …*, or *simultaneously*, depending on the context.  
+It’s often used to join two actions, qualities, or ideas happening or existing together.
+
+Here’s a table with meanings and example sentences:
+
+| Meaning           | French Example                                                        | English Translation                                          |
+|-------------------|----------------------------------------------------------------------|-------------------------------------------------------------|
+| at the same time | Il essaie d’écouter la musique et de travailler **à la fois**.        | He’s trying to listen to music and work **at the same time**. |
+| both … and …     | Ce film est **à la fois** divertissant et profond.                   | This movie is **both** entertaining **and** deep.           |
+| simultaneously    | Elle a réussi à jongler avec trois emplois **à la fois**.            | She managed to juggle three jobs **at once**.              |
+| at once (literary) | L’homme est **à la fois** fasciné et terrifié par l’inconnu.        | Man is **at once** fascinated and terrified by the unknown. |
+| both qualities    | Ce lieu est **à la fois** calme, mystérieux, et plein de charme.     | This place is **both** calm, mysterious, and full of charm. |
+
+
 ## *baisser les bras*
 
 to give up
