@@ -220,3 +220,6 @@ fait référence aux machines hydrauliques. ***travailler fort avec ses bras.***
 | pédagogique | educational, teaching |
 | surmonter | sit on top of [sth], overcome, conquer, master |
 | surmonter un obstacle | surmount an obstacle, overcome an obstacle | 
+| barbe | beard |
+| La barbe / Quelle barbe ! | familier (exclamation d'ennui) What a pain! What a pain in the neck! |
+| souche | stump |
