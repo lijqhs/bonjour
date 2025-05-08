@@ -1,6 +1,6 @@
 ---
-title: 62 Les expressions idiomatiques
-slug: 62 expressions idiomatiques
+title: 62 Ne te casse pas la tête
+slug: 62 Ne te casse pas la tête
 description: « Assimil French » Soixante-deuxième leçon - J'ai mis le doigt sur ton problème...
 author: aaron
 date: 2023-12-17
