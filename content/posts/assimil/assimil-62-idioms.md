@@ -196,3 +196,27 @@ fait référence aux machines hydrauliques. ***travailler fort avec ses bras.***
 
 - Je suis tellement fatigué que je vais dormir comme une souche ce soir. *I'm so tired I'm going to sleep like a log tonight.*
 - Je suis en vacances, donc je vais dormir comme une souche tous les jours ! *I'm on vacation, so I'll be sleeping like a log every day!*
+
+
+
+## Vocabulaire
+
+| mots | explications |
+| -- | -- | 
+| arracher | pull [sth] off, tear [sth] off |
+| cou | neck |
+| fuir | flee, leak, avoid, shun |
+| fuir les problèmes | run away from your problems, avoid your problems, escape your problems |
+| fuir les responsabilités | avoid your responsibilities |
+| serrer | squeeze, grip, compress |
+| serrer les dents | (*fermer sa mâchoire avec pression*) / *figuré (résister silencieusement)* grit your teeth |
+| doucement | gently, softly, quietly, carefully | 
+| fusil | (*arme à feu*) gun, shotgun |
+| épaule | shoulder |
+| changer son fusil d'épaule | (*changer d'avis*) change your tune / (*changer de stratégie*) change your strategy |
+| approche | arrival, approach |
+| coude | elbow | 
+| outil | tool |
+| pédagogique | educational, teaching |
+| surmonter | sit on top of [sth], overcome, conquer, master |
+| surmonter un obstacle | surmount an obstacle, overcome an obstacle | 
