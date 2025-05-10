@@ -73,6 +73,35 @@ to cost a fortune
    (Private university studies cost a fortune.)
 
 
+Sure! Here’s a short, clear article summarizing this pronunciation point:
+
+---
+
+## 💬 When *des* Sounds Like *de*
+
+In French, the word **des** (plural indefinite article) is normally pronounced **\[de]**, while **de** (preposition or partitive) is pronounced **\[də]** with a schwa.
+
+However, in many spoken contexts, especially before words that begin with a muted **e** (schwa) or an unstressed syllable, **des** tends to reduce and is pronounced just like **de** → **\[də]**.
+
+For example:
+
+* **tirer des leçons** → \[tiʁe də ləsɔ̃]
+* **des leçons** sounds like **de leçons**
+
+This reduction makes speech smoother and more natural, particularly in fast or casual conversation.
+
+But when **des** is followed by a word starting with a vowel or a mute **h**, it usually keeps its full form and even links with a liaison:
+
+* **des amis** → \[dez‿ami]
+* **des hommes** → \[dez‿ɔm]
+
+So, the general rule is:
+
+* Before vowel or mute **h** → full form **\[de]** with liaison
+* Before schwa/muted syllable → reduced form **\[də]**
+
+
+
 ## Vocabulaire
 
 | mots | explications |
