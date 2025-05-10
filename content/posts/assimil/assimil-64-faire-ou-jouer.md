@@ -74,3 +74,4 @@ Usage: [^2]
 | être en demi-pension | have school meals, have school lunches, eat lunch at school; stay half board |
 | côte | coast, shore; rib |
 | la Côte d’Azur | the Côte d'Azur, the French Riviera |
+| conduire | drive |
