@@ -71,4 +71,6 @@ Usage: [^2]
 | **l’un et l’autre** | *both of them* </br> - *J'aime l'un et l'autre de ces desserts.* I like both of these desserts. </br> - *Ils se sont aimés l'un et l'autre pendant de nombreuses années.* They loved each other for many years. </br> - *L'un et l'autre des livres sont recommandés pour leur contenu informatif.* Both of the books are recommended for their informative content. | 
 | **ni l'un ni l'autre** | *neither of them* </br> - *Je n'aime ni l'un ni l'autre de ces films.* I don't like either of these films. </br> - *Ils n'ont ni l'un ni l'autre compris les instructions.* Neither of them understood the instructions. </br> - *Ni l'un ni l'autre des livres ne répond à mes attentes.* Neither of the books meets my expectations. | 
 | **aucun** | ***no*** </br> - *Il n’a aucun ami.* He’s got no friends. </br> - *Aucun enfant ne pourrait le faire.* No child could do that. </br> ***none*** </br> - *Aucun d’entre eux n’est venu.* None of them came. </br> - *Aucune de mes amies n’aime le foot.* None of my female friends like football. </br> - *Non, aucun des deux ne me tente. Je ne sais pas nager.* No, neither of the two tempts me. I can't swim. </br> - *sans aucun doute* without any doubt | 
-
+| être en demi-pension | have school meals, have school lunches, eat lunch at school; stay half board |
+| côte | coast, shore; rib |
+| la Côte d’Azur | the Côte d'Azur, the French Riviera |
