@@ -77,8 +77,12 @@ to be doing something
 | imprimante | printer (for computer) | 
 | identifiant | login (on a computer) | 
 | **retourner** | *to return, to go back (to)*, (intransitive) </br> - *Je **suis retournée** avant-hier et j'ai regardé partout, sur les étagères, dans ses classeurs et ses boîtes de rangement, mais je n'**ai rien trouvé**.* I went back before yesterday and I looked everywhere, on the shelves, in her filing cabinets and storage boxes, but I didn't find anything. </br> *to turn over, up, etc* (transitive) </br> - *Retournez le poisson au bout de deux minutes et ajoutez les légumes.* Turn the fish over after two minutes and add the vegetables. </br> - *En dernier ressort, j'**ai retourné son tapis** de souris.* As a last resort, I turned over her mouse mat (carpet). | 
+| étagère | shelf |
+| classeur | binder, folder, filing cabinet | 
 | rangement | tidying up </br> - *faire des rangements* to tidy up </br> - *espace de rangement* storage space | 
 | la souris | mouse |
+| boîte de rangement | storage box |
+| mot de passe | password |
 | coller | to stick </br> - *Bingo ! Les codes et les mots de passe étaient collés là-dessous.* Bingo! The code and passwords were glued underneath. | 
 | là-dessous | under there </br> - *Il s’est caché là-dessous.* He hid under there. | 
 | passer | to cross, to go through, to spend, to take, to pass, to show, to call in </br> - *Qu'est ce que se passe ? - Le bus passe dans quelques minutes. Passe-moi mon manteau.* What's happening? - The bus is coming by in a few minutes. Hand me my coat. | 
