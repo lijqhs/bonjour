@@ -121,8 +121,10 @@ The imperfect tense (l'imparfait in French) is used to describe ongoing or repea
 | énerver | *Il m'énerve !* He gets on my nerves! |
 | **sens dessus dessous** | upside down |
 | remarquer | to notice </br> *faire remarquer quelque chose à quelqu'un* to point something out to somebody |
-| plaindre | to pity, feel sorry for / *Je te plains.* I feel sorry for you. </br> ***se plaindre*** to complain </br> - *On ne peut pas se plaindre* Mustn't grumble </br> - *Nous ne sommes heureux que lorsque nous **nous plaignons**.* We're only happy when we're complaining. </br> - *Elle s’est plainte du bruit.* She complained about the noise. |
+| plaindre | to pity, feel sorry for / *Je te plains.* I feel sorry for you. </br> ***se plaindre*** to complain </br> - *On ne peut pas se plaindre* Mustn't grumble </br> - *Nous ne sommes heureux que lorsque nous **nous plaignons**.* We're only happy when we're complaining. </br> - *Elle s’est plainte du bruit.* She complained about the noise. </br> **conjugations**: je plains, tu plains, il/elle plaint, nous plaignons, vous plaignez, ils/elles plaignent |
+| se plaindre | (*exprimer une douleur*) complain |
 | fatigant | tiring |
 | se remonter le moral | to cheer oneself up |
+| en avoir ras le bol | (*en avoir assez*) be really fed up |
 | le réchauffement | warming <br> - *le réchauffement climatique* global warming |
 | coincé | ADJ. stuck <br> - *coincer* to jam |
