@@ -90,7 +90,8 @@ The imperfect tense (l'imparfait in French) is used to describe ongoing or repea
 
 | mots | explications |
 | ---- | ---- | 
-| réveiller | *réveiller quelqu'un* to wake somebody up / *se réveiller* to wake up | 
+| réveiller | (*tirer du sommeil*) *réveiller quelqu'un* to wake somebody up | 
+| se réveiller | to wake up |
 | en pleine nuit | in the middle of the night |
 | en mauvais état | in poor condition |
 | une rage de dents | raging toothache </br> - *Avant-hier, je me réveille en pleine nuit en mauvais état avec une rage de dents.* | 
@@ -99,8 +100,12 @@ The imperfect tense (l'imparfait in French) is used to describe ongoing or repea
 | soulager | to relieve |
 | la douleur | pain | 
 | devoir | to have to </br> - *J'ai **dû** attendre le matin pour appeler mon dentiste* I had to wait until the morning to call my dentist |
+| tout comme | (*de la même façon que*) just like |
+| du coin | (*d'ici, local*) local, from around here </br> - *Il est du coin* he comes from around here. | 
 | fainéant | lazy |
-| la grève | strike </br> - *en grève* on strike </br> - *faire grève* to be on strike |
+| la grève | strike |
+| en grève |  on strike |
+| faire grève | to be on strike |
 | vouloir | Past Participle: *voulu* |
 | le bouchon | cork, stopper, hold up </br> *Il y avait beaucoup de bouchons sur l'autoroute.* There were a lot of hold-ups on the motorway. |
 | débordé | *être débordé* to be snowed under / very busy, overwhelmed with work or tasks |
