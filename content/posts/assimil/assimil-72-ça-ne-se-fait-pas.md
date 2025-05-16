@@ -93,6 +93,9 @@ Another way to avoid the passive is with the pronominal verb form in the third p
 | salé | salty, salted, savoury |
 | sucré | sweet |
 | livrer | to deliver </br> - *Des petits fours salés et sucrés seront livrés vers onze heures, onze heures trente au plus tard.* Savoury (salted) and sweet (sugared) petits-fours (little ovens) will be delivered around 11am, 11.30 at the latest. |
+| au plus tard | (*pas après*) at the latest </br> - *Vous devez rendre vos devoirs le 6 octobre au plus tard.* You must hand in your homework on October 6th at the latest. |
+| au plus tôt | (*pas avant*) at the earliest |
+| au plus vite | (*le plus rapidement possible*) as quickly as possible, as soon as possible </br> - *Je dois traduire au plus vite mon diplôme.* I need to translate my degree certificate as quickly as possible. | 
 | comité | committee |
 | discours | speech </br> - *prononcer un discours* to make a speech |
 | ***lors de*** | during |
