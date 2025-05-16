@@ -109,6 +109,7 @@ to bring; to take
 | ---- | ---- | 
 | le solde | *être en solde* to be reduced; *les soldes* the sales (reduced-price goods) ; *un solde* a balance (a remaining amount) </br> - *solder* wind up or pay off a balance </br> - *soldé* reduced in price / *Cette veste est soldée à moins quinze pour cent.* This vent is reduced by 15% in the sales. | 
 | le besoin | need </br> - *avoir besoin de quelque chose* to need something </br> - *J'ai besoin d'argent.* I need some money. |
+| aller à la chasse | (*partir chasser*) go hunting |
 | plan | un plan a map </br> - *un bon plan* = *une bonne affaire* a good deal, bargain, (tourism) a top tip, recommendation </br> - *On est déjà vendredi ! Voici nos bons plans pour le weekend.* It's already Friday. Here are our top tips for the weekend. |
 | saisir | to take hold of </br> - *saisir l'occasion de faire quelque chose* to seize the opportunity to do something |
 | le caleçon | boxer shorts |
