@@ -99,7 +99,7 @@ Don’t confuse **"leur" (indirect pronoun, 'to them')** with **"leur" (possessi
 ## 🎯 **Test Yourself!**
 Which is correct?  
 
-1. *Il _______ donne un cadeau.* (les / leur)  
-2. *Je _______ regarde avec admiration.* (les / leur)  
-3. *Nous _______ écrivons souvent.* (les / leur)  
-4. *Je _______ entends parler de ce film.* (les / leur)  
+1. *Il _______ donne un cadeau.* (les / *leur*)  
+2. *Je _______ regarde avec admiration.* (*les* / leur)  
+3. *Nous _______ écrivons souvent.* (les / *leur*)  
+4. *Je _______ entends parler de ce film.* (*les* / leur)  
