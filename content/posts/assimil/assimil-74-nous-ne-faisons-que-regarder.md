@@ -130,9 +130,10 @@ to bring; to take
 | **éventuellement** | possibly |
 | la botte | boot |
 | parka | parka (a large windproof jacket with a hood, designed to be worn in cold weather) |
-| l’imperméable | n.m. raincoat |
+| imperméable | n.m. raincoat |
 | taille | n.f. waist, height, size |
-| la merveille | marvel, wonder; *à merveille* perfectly, wonderfully |
+| la merveille | marvel, wonder |
+| à merveille | perfectly, wonderfully |
 | fou | mad; *FEM.* folle |
 | la casquette | cap </br> ▶︎ *avoir une double casquette* to wear two hats |
 | décoré | decorated; past participle of ***décorer*** to decorate |

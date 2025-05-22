@@ -205,6 +205,40 @@ In casual spoken French, people might use simpler expressions like **"Peu import
 
 ---
 
+## **Ils s'y sont beaucoup amusés** break down
+
+
+### 🔹 Full sentence:
+
+**Ils s'y sont beaucoup amusés.**
+**= They had a lot of fun there.**
+
+
+### 🔹 Word-by-word breakdown:
+
+| Word / Group | Explanation                                                         |
+| ------------ | ------------------------------------------------------------------- |
+| **ils**      | Subject pronoun = *they* (masculine or mixed group)                 |
+| **s'**       | Reflexive pronoun = *themselves* (short for **se**)                 |
+| **y**        | Pronoun = *there* (refers to a place)                               |
+| **sont**     | Auxiliary verb (être) = *are* (used here as the past auxiliary)     |
+| **beaucoup** | Adverb = *a lot*                                                    |
+| **amusés**   | Past participle of **s'amuser** = *had fun* (masculine plural form) |
+
+
+### 🔹 Grammatical structure:
+
+* **s'y amuser** = *to have fun there*
+* **ils se sont amusés** = *they had fun*
+* **ils s’y sont amusés** = *they had fun there*
+* **ils s’y sont beaucoup amusés** = *they had a lot of fun there*
+
+> The reflexive verb **s'amuser** uses **être** as the auxiliary verb in passé composé.
+>
+> Since the subject is **ils** (masculine plural), the past participle **amusés** agrees in number and gender.
+
+---
+
 ## Vocabulaire
 
 | mots | explications |
