@@ -205,7 +205,7 @@ In casual spoken French, people might use simpler expressions like **"Peu import
 
 ---
 
-## **Ils s'y sont beaucoup amusés** break down
+## ***Ils s'y sont beaucoup amusés***
 
 
 ### 🔹 Full sentence:
