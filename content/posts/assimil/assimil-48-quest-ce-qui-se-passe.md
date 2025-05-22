@@ -127,23 +127,23 @@ to support, also means "to tolerate"
 | assis | sitting |
 | dégoûtant | disgusting | 
 | le poulet | chicken |
-| le goût | taste </br> - *Ça n'a pas de goût.* It's got no taste. |
+| le goût | taste </br> ▶︎ *Ça n'a pas de goût.* It's got no taste. |
 | mûr | ripe (fruit), mature (person) / FEM. mûre |
-| la fourmi | ant </br> - *avoir des fourmis* to have pins and needles |
+| la fourmi | ant </br> ▶︎ *avoir des fourmis* to have pins and needles |
 | la guêpe | wasp |
 | partout | everywhere |
 | proprement | properly </br> Mange proprement ! Eat properly! | 
 | l'assiette | FEM. plate |
 | le papier | paper |
 | gobelet | cup, beaker |
-| le carton | cardboard </br> - *un carton à chaussures* a shoe box </br> - *un morceau de carton* a piece of cardboard |
+| le carton | cardboard </br> ▶︎ *un carton à chaussures* a shoe box </br> ▶︎ *un morceau de carton* a piece of cardboard |
 | la fourchette | fork |
 | le couteau | knife / *couper* to cut |
-| bref | short, in short </br> - *Bref, je ne veux pas y aller.* Anyway, I don't want to go. </br> - *en bref* in brief </br> - *l'actualité en bref* the news in brief |
-| le contraire | opposite </br> - *au contraire* on the contrary </br> - *contraire à* contrary to |
+| bref | short, in short </br> ▶︎ *Bref, je ne veux pas y aller.* Anyway, I don't want to go. </br> ▶︎ *en bref* in brief </br> ▶︎ *l'actualité en bref* the news in brief |
+| le contraire | opposite </br> ▶︎ *au contraire* on the contrary </br> ▶︎ *contraire à* contrary to |
 | d'abord | first |
 | le panier | basket |
-| le luxe | MASC. noun luxury </br> - *de luxe* luxury </br> - *un hôtel de luxe* a luxury hotel |
+| le luxe | MASC. noun luxury </br> ▶︎ *de luxe* luxury </br> ▶︎ *un hôtel de luxe* a luxury hotel |
 | le couvert | cutlery |
 | la porcelaine | china |
 | la bouteille | bottle |

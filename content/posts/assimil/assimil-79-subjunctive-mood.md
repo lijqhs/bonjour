@@ -225,27 +225,27 @@ The entire sentence is a complex infinitive construction that could be translate
 
 | mots | explications |
 | ---- | ---- | 
-| déranger | to bother, to mess up </br> - *Excusez-moi de vous déranger.* I’m sorry to bother you. |
-| propos | (= sujet) </br> - *à quel propos ?* what about? </br> - *à propos de* about </br> - *à propos (= au fait)* by the way |
+| déranger | to bother, to mess up </br> ▶︎ *Excusez-moi de vous déranger.* I’m sorry to bother you. |
+| propos | (= sujet) </br> ▶︎ *à quel propos ?* what about? </br> ▶︎ *à propos de* about </br> ▶︎ *à propos (= au fait)* by the way |
 | à propos de | about |
-| empêcher | to prevent </br> - *On m'a empêché de sortir.* I was prevented from leaving. </br> *n'empêche* even so, all the same </br> - *N'empêche, ils auraient pu téléphoner.* All the same, they could have called. |
+| empêcher | to prevent </br> ▶︎ *On m'a empêché de sortir.* I was prevented from leaving. </br> *n'empêche* even so, all the same </br> ▶︎ *N'empêche, ils auraient pu téléphoner.* All the same, they could have called. |
 | exigeant | demanding, hard to please |
 | maniaque | manic, fussy | 
-| aube | dawn, daybreak </br> - *à l’aube* at dawn, at daybreak |
+| aube | dawn, daybreak </br> ▶︎ *à l’aube* at dawn, at daybreak |
 | le pinceau | n.m. paintbrush |
-| le rouleau | roll </br> - *un rouleau de papier peint* a roll of wallpaper </br> (*à mise en plis, à peinture*) roller |
+| le rouleau | roll </br> ▶︎ *un rouleau de papier peint* a roll of wallpaper </br> (*à mise en plis, à peinture*) roller |
 | le couteau | knife |
 | le plafond | ceiling | 
 | délicat | delicate, tricky |
-| sans doute | no doubt, probably </br> - *Il est sans doute reparti.* He’s no doubt left again. / He’s probably left again. |
-| déchet | waste, rubbish </br> - *Les déchets devraient être recyclés.* Rubbish should be recycled. |
-| déchetterie | waste recycling centre </br> - *Ils apportent leurs vieux meubles à la déchetterie.* They take their old furniture to the tip. |
+| sans doute | no doubt, probably </br> ▶︎ *Il est sans doute reparti.* He’s no doubt left again. / He’s probably left again. |
+| déchet | waste, rubbish </br> ▶︎ *Les déchets devraient être recyclés.* Rubbish should be recycled. |
+| déchetterie | waste recycling centre </br> ▶︎ *Ils apportent leurs vieux meubles à la déchetterie.* They take their old furniture to the tip. |
 | en résumé | in short, in summary, briefly |
-| fâché | angry </br> - *être fâché contre (qqn)* be angry with (sb) </br> - *Je ne veux pas qu'il soit fâché contre moi.* I don't want him to be angry with me. |
-| tout à fait | (interj) Absolutly! Too right! </br> - *Tu as bien ta montre ? Tout à fait !* Have you got your watch? Absolutely! </br> (adv) quite, completely, absolutely </br> - *Cette réponse est tout à fait correcte.* That response is quite right. |
+| fâché | angry </br> ▶︎ *être fâché contre (qqn)* be angry with (sb) </br> ▶︎ *Je ne veux pas qu'il soit fâché contre moi.* I don't want him to be angry with me. |
+| tout à fait | (interj) Absolutly! Too right! </br> ▶︎ *Tu as bien ta montre ? Tout à fait !* Have you got your watch? Absolutely! </br> (adv) quite, completely, absolutely </br> ▶︎ *Cette réponse est tout à fait correcte.* That response is quite right. |
 | permettre | to allow |
-| suffire | to be enough </br> - *Ça suffit !* That’s enough! |
-| regarder | look, watch, look at </br> - *regarder dans le vide* to stare into space </br> - *le regarder droit dans les yeux* look him straight in the eye |
+| suffire | to be enough </br> ▶︎ *Ça suffit !* That’s enough! |
+| regarder | look, watch, look at </br> ▶︎ *regarder dans le vide* to stare into space </br> ▶︎ *le regarder droit dans les yeux* look him straight in the eye |
 | gentiment | kindly, gently | 
 | fermement | (*solidement*) firmly, solidly |
 | à défaut | (*si ce n'est pas le cas*) if not | 
@@ -259,4 +259,4 @@ The entire sentence is a complex infinitive construction that could be translate
 | vexé | offended |
 | triste | sad, upset |
 | en vouloir à quelqu’un | to be angry with somebody |
-| prévenir | let (sb) know, warn, tell </br> - *Je sais que c'est un empêchement de dernière minute mais, n'empêche, tu aurais pu me prévenir.* I know it's a last-minute impediment, but still, you could have warned me. |
+| prévenir | let (sb) know, warn, tell </br> ▶︎ *Je sais que c'est un empêchement de dernière minute mais, n'empêche, tu aurais pu me prévenir.* I know it's a last-minute impediment, but still, you could have warned me. |

@@ -60,15 +60,15 @@ cover:
 
 | mots | explications |
 | ---- | ---- | 
-| l'émission | programme </br> - *une émission de télévision* a TV programme |
-| suivant | following </br> - *le jour suivant* the following day </br> - *l'exercice suivant* the following exercise </br> - *Au suivant !* Next! |
-| dans l'ordre | in order </br> - *dans le bon ordre* in the right order |
-| bonheur | happiness </br> - *porter bonheur* to bring luck </br> - *avoir le bonheur de* to have the good fortune to </br> - *par bonheur* fortunately |
-| paix | peace (fem.) </br> - *Les deux pays ont fait la paix.* The two countries have made peace with each other. |
-| droits humains | human rights / *les droits de l'homme* (*les droits humains*) </br> - *droit* right </br> - *L'ambassadeur japonais veut "du bonheur, de la paix et des droits humains".* |
-| santé | health </br> - *Son collègue indien veut "de la santé et de l'éducation pour tout le monde".* |
-| emploi | use, job </br> - *prêt à l'emploi* ready for use </br> - *la création d'emplois* job creation </br> - *un emploi du temps* a timetable </br> - *l'emploi salarié* paid work </br> - *L'Américain veut "des emplois, de l'argent et du bien-être" pour son pays.* |
+| l'émission | programme </br> ▶︎ *une émission de télévision* a TV programme |
+| suivant | following </br> ▶︎ *le jour suivant* the following day </br> ▶︎ *l'exercice suivant* the following exercise </br> ▶︎ *Au suivant !* Next! |
+| dans l'ordre | in order </br> ▶︎ *dans le bon ordre* in the right order |
+| bonheur | happiness </br> ▶︎ *porter bonheur* to bring luck </br> ▶︎ *avoir le bonheur de* to have the good fortune to </br> ▶︎ *par bonheur* fortunately |
+| paix | peace (fem.) </br> ▶︎ *Les deux pays ont fait la paix.* The two countries have made peace with each other. |
+| droits humains | human rights / *les droits de l'homme* (*les droits humains*) </br> ▶︎ *droit* right </br> ▶︎ *L'ambassadeur japonais veut "du bonheur, de la paix et des droits humains".* |
+| santé | health </br> ▶︎ *Son collègue indien veut "de la santé et de l'éducation pour tout le monde".* |
+| emploi | use, job </br> ▶︎ *prêt à l'emploi* ready for use </br> ▶︎ *la création d'emplois* job creation </br> ▶︎ *un emploi du temps* a timetable </br> ▶︎ *l'emploi salarié* paid work </br> ▶︎ *L'Américain veut "des emplois, de l'argent et du bien-être" pour son pays.* |
 | bien-être | well-being |
-| frais | fresh (FEM fraîche) </br> - *des œufs frais* fresh eggs | 
+| frais | fresh (FEM fraîche) </br> ▶︎ *des œufs frais* fresh eggs | 
 | honnête | honest |
-| au moins | at least </br> - *Ne te plains pas : au moins il ne pleut pas !* Don't complain: at least it's not raining! |
+| au moins | at least </br> ▶︎ *Ne te plains pas : au moins il ne pleut pas !* Don't complain: at least it's not raining! |

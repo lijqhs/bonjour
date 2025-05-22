@@ -128,14 +128,14 @@ They are used if the personal pronoun is emphasized (hence emphatic) or contrast
 
 | mots | explications |
 | ---- | ------ | 
-| morceau | piece, passage </br> - *un morceau de pain* a piece of bread |
+| morceau | piece, passage </br> ▶︎ *un morceau de pain* a piece of bread |
 | pas mal de | quite a lot of |
 | en effet | indeed |
-| l'écran | MASC. screen </br> - *un écran tactile* a touchscreen |
-| recevoir | to receive </br> - *J'ai reçu une lettre.* I received a letter. </br> - je reçois, tu reçois, il/elle reçoit, nous recevons, vous recevez, ils/elles reçoivent |
-| plus de | more, more than </br> - ***Il nous faut plus de pain.*** We need more bread. </br> - *Il y avait plus de dix personnes.* There were more than 10 people. </br> - *plus de 3 heures* more than 3 hours, over 3 hours |
+| l'écran | MASC. screen </br> ▶︎ *un écran tactile* a touchscreen |
+| recevoir | to receive </br> ▶︎ *J'ai reçu une lettre.* I received a letter. </br> ▶︎ je reçois, tu reçois, il/elle reçoit, nous recevons, vous recevez, ils/elles reçoivent |
+| plus de | more, more than </br> ▶︎ ***Il nous faut plus de pain.*** We need more bread. </br> ▶︎ *Il y avait plus de dix personnes.* There were more than 10 people. </br> ▶︎ *plus de 3 heures* more than 3 hours, over 3 hours |
 | en dessous | underneath, below |
-| aussi ... que | as ... as </br> - *aussi grand que moi* as big as me |
+| aussi ... que | as ... as </br> ▶︎ *aussi grand que moi* as big as me |
 | le tableau | paintings |
 | à mon avis | in my opinion |
 | dernier | last, latest |

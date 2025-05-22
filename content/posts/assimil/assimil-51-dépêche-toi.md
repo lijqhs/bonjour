@@ -131,21 +131,21 @@ to take place, to happen, to go
 | mots | explications |
 | ---- | ------ | 
 | se hâter | to hurry |
-| manquer | to miss </br> - *La pièce commence dans vingt minutes et nous allons manquer le début.* The play starts in twenty minutes and we're going to miss the beginning. |
-| toujours | always, still </br> - *Il est toujours très gentil.* He's always very nice. </br> - *pour toujours* forever |
-| attendre | TRANSITIVE VERB. to wait </br> - *attendre quelqu'un* to wait for someone |
+| manquer | to miss </br> ▶︎ *La pièce commence dans vingt minutes et nous allons manquer le début.* The play starts in twenty minutes and we're going to miss the beginning. |
+| toujours | always, still </br> ▶︎ *Il est toujours très gentil.* He's always very nice. </br> ▶︎ *pour toujours* forever |
+| attendre | TRANSITIVE VERB. to wait </br> ▶︎ *attendre quelqu'un* to wait for someone |
 | jamais | never, ever |
-| perfre | to lose </br> - *J'ai perdu mon chemin.* I've lost my way. </br> - *perdre un match* to lose a match </br> - *perdre du temps* to waste time </br> - *J'ai perdu beaucoup de temps ce matin.* I've wasted a lot of time this morning. </br> - ***se perdre*** to get lost </br> - *Je me suis perdu en route.* I got lost on the way here. |
+| perfre | to lose </br> ▶︎ *J'ai perdu mon chemin.* I've lost my way. </br> ▶︎ *perdre un match* to lose a match </br> ▶︎ *perdre du temps* to waste time </br> ▶︎ *J'ai perdu beaucoup de temps ce matin.* I've wasted a lot of time this morning. </br> ▶︎ ***se perdre*** to get lost </br> ▶︎ *Je me suis perdu en route.* I got lost on the way here. |
 | la pièce | room, play, part, coin |
 | le souvenir | memory |
-| prêt | ADJ. ready </br> - *le prêt* loan|
-| près | near </br> - *tout près* nearby </br> - *près de* near </br> - *près d'ici* near here </br> - *de près* closely, nearly </br> - *Il a regardé la photo de près.* He looked closely at the photo. |
-| le côté | side </br> - *à côté de* next to |
+| prêt | ADJ. ready </br> ▶︎ *le prêt* loan|
+| près | near </br> ▶︎ *tout près* nearby </br> ▶︎ *près de* near </br> ▶︎ *près d'ici* near here </br> ▶︎ *de près* closely, nearly </br> ▶︎ *Il a regardé la photo de près.* He looked closely at the photo. |
+| le côté | side </br> ▶︎ *à côté de* next to |
 | le tribunal | court |
-| pendant | during </br> - **pendant ce temps** in the meantime |
+| pendant | during </br> ▶︎ **pendant ce temps** in the meantime |
 | bouger | to move |
-| ni | *(ne ...) ni ... ni ...* neither ... nor ... </br> - *Elles ne sont venues ni l'une ni l'autre.* Neither of them came. |
+| ni | *(ne ...) ni ... ni ...* neither ... nor ... </br> ▶︎ *Elles ne sont venues ni l'une ni l'autre.* Neither of them came. |
 | le tiroir | drawer |
 | en bas de | at the bottom of |
 | d'habitude | usually |
-| sourire | smile </br> - *le sourire* MASC. smile |
+| sourire | smile </br> ▶︎ *le sourire* MASC. smile |

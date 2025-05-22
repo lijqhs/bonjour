@@ -140,14 +140,14 @@ Means "not much" or "not very much"
 | la carrière | career |
 | s’installer | to settle in |
 | métropole | "Métropole" refers to mainland France (as opposed to overseas territories) |
-| fréquenter | to see (person) </br> - *m'installer en Métropole, et fréquenter des gens avec les mêmes intérêts que les miens* |
+| fréquenter | to see (person) </br> ▶︎ *m'installer en Métropole, et fréquenter des gens avec les mêmes intérêts que les miens* |
 | au début | in the beginning / at first |
 | doué | talented |
-| le don | donation, gift </br> - *avoir un don pour quelque chose* to have a gift for something |
+| le don | donation, gift </br> ▶︎ *avoir un don pour quelque chose* to have a gift for something |
 | le paysage | landscape |
 | la mode | fashion |
 | le mode | *le mode d’emploi* directions for use </br> *le mode de vie* the way of life |
-| à la fois | at the same time, at once </br> - *N'essaie pas de faire trop de choses à la fois.* Don't try to do too many things **at once**. </br> - *La solution est à la fois simple et pas chère.* The solution is **both** simple and inexpensive. |
+| à la fois | at the same time, at once </br> ▶︎ *N'essaie pas de faire trop de choses à la fois.* Don't try to do too many things **at once**. </br> ▶︎ *La solution est à la fois simple et pas chère.* The solution is **both** simple and inexpensive. |
 | cependant | however, nevertheless |
 | réussir | to be successful |
 | surmonter | to overcome |
@@ -156,9 +156,9 @@ Means "not much" or "not very much"
 | s’occuper de | to be in charge of, to deal with, to be involved in |
 | vivre | to live |
 | la plupart de | most(of) |
-| entre eux | among themselves </br> - *l’un d’entre eux* one of them </br> - *la plupart d'entre eux* most of them |
-| certain | certain </br> - *Je suis certain que je l’ai remis en place.* I’m certain that I put it back. </br> some </br> - *Certaines personnes n’aiment pas la crème.* Some people don’t like cream. |
+| entre eux | among themselves </br> ▶︎ *l’un d’entre eux* one of them </br> ▶︎ *la plupart d'entre eux* most of them |
+| certain | certain </br> ▶︎ *Je suis certain que je l’ai remis en place.* I’m certain that I put it back. </br> some </br> ▶︎ *Certaines personnes n’aiment pas la crème.* Some people don’t like cream. |
 | brillamment | brilliantly |
 | énerver | Il m’énerve ! He gets on my nerves! |
-| s’énerver | to get worked up </br> to lose one’s temper </br> - *Finalement, je me suis énervé.* In the end I lost my temper. |
+| s’énerver | to get worked up </br> to lose one’s temper </br> ▶︎ *Finalement, je me suis énervé.* In the end I lost my temper. |
 | médiatique | media |

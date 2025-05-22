@@ -80,9 +80,9 @@ Exception: *mille* `[meel]`
 
 | mots | explications |
 | ---- | ---- | 
-| intituler | to call </br> - *Comment a-t-il intitulé son livre ?* What did he call his book? What title did he give his book? |
-| remplir | to fill up, to fill in </br> - *Puis je remplis la grille de jeu... et je croise les doigts.* Then I fill in the race card (game grid)... and I cross my (the) fingers. </br> - *Elle a rempli son verre de vin.* She filled up her glass with wine. </br> - *Tu as rempli ton formulaire ?* Have you filled in your form? </br> ***rempli de*** full of </br> - *La salle était remplie de monde.* The room was full of people. |
-| puis | (adverb) then, next </br> - *et puis*  and then </br> - *et puis après ?* so what? |
-| espérer | to hope </br> - *J'espère bien.* I hope so. / j'espère, tu espères, il/elle espère, nous espérons, vous espérez, ils/elles espèrent | 
-| prêt(e) | ready </br> - *Tu es prête ?* Are you ready? </br> - *Le déjeuner est prêt.* Lunch is ready. | 
-| prêter | lend </br> - *Au fait, est-ce que vous pouvez me prêter cinquante euros ?* By the way, can you lend me fifty euros? </br> - *prêter quelque chose à quelqu’un* to lend something to someone </br> - *Il m'a prêté sa voiture.* He lent me his car. |
+| intituler | to call </br> ▶︎ *Comment a-t-il intitulé son livre ?* What did he call his book? What title did he give his book? |
+| remplir | to fill up, to fill in </br> ▶︎ *Puis je remplis la grille de jeu... et je croise les doigts.* Then I fill in the race card (game grid)... and I cross my (the) fingers. </br> ▶︎ *Elle a rempli son verre de vin.* She filled up her glass with wine. </br> ▶︎ *Tu as rempli ton formulaire ?* Have you filled in your form? </br> ***rempli de*** full of </br> ▶︎ *La salle était remplie de monde.* The room was full of people. |
+| puis | (adverb) then, next </br> ▶︎ *et puis*  and then </br> ▶︎ *et puis après ?* so what? |
+| espérer | to hope </br> ▶︎ *J'espère bien.* I hope so. / j'espère, tu espères, il/elle espère, nous espérons, vous espérez, ils/elles espèrent | 
+| prêt(e) | ready </br> ▶︎ *Tu es prête ?* Are you ready? </br> ▶︎ *Le déjeuner est prêt.* Lunch is ready. | 
+| prêter | lend </br> ▶︎ *Au fait, est-ce que vous pouvez me prêter cinquante euros ?* By the way, can you lend me fifty euros? </br> ▶︎ *prêter quelque chose à quelqu’un* to lend something to someone </br> ▶︎ *Il m'a prêté sa voiture.* He lent me his car. |

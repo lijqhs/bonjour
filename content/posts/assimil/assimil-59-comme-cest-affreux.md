@@ -30,20 +30,20 @@ cover:
 | imbécile | idiot |
 | permettre | to allow |
 | s'attendre | *s'attendre à quelque chose* to expect something |
-| ... non plus | not ... either </br> - *Je n'y suis pas allé hier soir et je n'irai pas ce soir non plus.* I didn't go yesterday evening and I won't go this evening either. |
+| ... non plus | not ... either </br> ▶︎ *Je n'y suis pas allé hier soir et je n'irai pas ce soir non plus.* I didn't go yesterday evening and I won't go this evening either. |
 | affreux | awful |
-| alors | then, at that time (=*à cette époque*) </br> - *Il habitait alors à Paris.* He was living in Paris at that time. |
-| compris | ADJ. included. *y compris* including  </br> P.P. of *comprendre* to understand, to include </br> - *J’ai dû mal comprendre.* I must have misunderstood. |
-| le forfait | all-in package, all-in price </br> - *c’est compris dans le forfait* it’s included in the package |
+| alors | then, at that time (=*à cette époque*) </br> ▶︎ *Il habitait alors à Paris.* He was living in Paris at that time. |
+| compris | ADJ. included. *y compris* including  </br> P.P. of *comprendre* to understand, to include </br> ▶︎ *J’ai dû mal comprendre.* I must have misunderstood. |
+| le forfait | all-in package, all-in price </br> ▶︎ *c’est compris dans le forfait* it’s included in the package |
 | illimité | unlimited |
 | pas encore | not yet |
 | le voyageur | passenger |
 | se balader | to wander around |
-| espérer | to hope </br> - *J'espère bien.* I hope so. |
-| au hasard | at random </br> - *Choisis un numéro au hasard.* Choose a number at random. |
+| espérer | to hope </br> ▶︎ *J'espère bien.* I hope so. |
+| au hasard | at random </br> ▶︎ *Choisis un numéro au hasard.* Choose a number at random. |
 | lancer | to throw |
 | le dé | dice |
 | pile ou face | heads or tails |
-| perdre | to lose </br> - *Cécile a perdu ses clés.* Cécile has lost her keys. </br> - *perdre un match* to lose a match |
+| perdre | to lose </br> ▶︎ *Cécile a perdu ses clés.* Cécile has lost her keys. </br> ▶︎ *perdre un match* to lose a match |
 | se souvenir | to remember |
 | remporter | to win |

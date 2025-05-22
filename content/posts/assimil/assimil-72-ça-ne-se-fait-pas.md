@@ -71,33 +71,33 @@ Another way to avoid the passive is with the pronominal verb form in the third p
 | ---- | ---- | 
 | à la fin du mois | at the end of the month | 
 | un pot de départ | a farewell drinks party |
-| souhaiter | to wish </br> - ***souhaiter faire qch*** to hope to do sth </br> - ***souhaiter qch à qn*** to wish sb sth </br> - *Il souhaite aller à l'université.* He wishes to go to university. </br> - *Nous vous souhaitons une bonne année.* We wish you a happy New Year. |
+| souhaiter | to wish </br> ▶︎ ***souhaiter faire qch*** to hope to do sth </br> ▶︎ ***souhaiter qch à qn*** to wish sb sth </br> ▶︎ *Il souhaite aller à l'université.* He wishes to go to university. </br> ▶︎ *Nous vous souhaitons une bonne année.* We wish you a happy New Year. |
 | dans les années à venir | in the years to come |
-| Depuis combien de temps | How long </br> - *Depuis combien de temps est-ce que vous le connaissez ?* How long have you known him? </br> - *Depuis quand ?* How long? |
+| Depuis combien de temps | How long </br> ▶︎ *Depuis combien de temps est-ce que vous le connaissez ?* How long have you known him? </br> ▶︎ *Depuis quand ?* How long? |
 | gérer | to manage / *je gère, tu gères, il/elle gère, nous gérons, vous gérez, ils/elles gèrent* |
-| **depuis de lustres** | for a long time, for ages / The word "lustre" in this context refers to a period of five years </br> - *Il est ici depuis des lustres.* He's been here for ages. |
-| exagérer | to exaggerate, to go too far </br> - *Il ne faut pas exagérer.* Let's not exaggerate. |
+| **depuis de lustres** | for a long time, for ages / The word "lustre" in this context refers to a period of five years </br> ▶︎ *Il est ici depuis des lustres.* He's been here for ages. |
+| exagérer | to exaggerate, to go too far </br> ▶︎ *Il ne faut pas exagérer.* Let's not exaggerate. |
 | auparavant | first, beforehand | 
-| salarié(e) | employee, paid employee </br> - *Auparavant, il était salarié dans une compagnie d'assurances en province.* Beforehand, he was an employee in an insurance company in the provinces. |
+| salarié(e) | employee, paid employee </br> ▶︎ *Auparavant, il était salarié dans une compagnie d'assurances en province.* Beforehand, he was an employee in an insurance company in the provinces. |
 | la compagnie | company |
 | assurance | assurance, insurance |
-| avancement | promotion </br> - *avoir de l'avancement* to get promoted, to get a promotion |
-| postuler | apply (intransitive verb) </br> - *postuler à qch, postuler pour qch* to apply for sth </br> - *postuler pour faire qch* to apply to do sth </br> - *Elle a postulé pour enseigner à l'étranger.* She has applied to teach abroad. |
-| embaucher | to take on, to hire </br> - *L'entreprise vient d'embaucher cinquante personnes.* The firm has just taken on fifty new people. </br> - *Éric a postulé et on l'a embauché aussitôt.* Éric applied and was hired right away. |
-| aussitôt | (adverb) formed from *aussi* as and *tôt* early. an elegant way of saying *straight away, immediately* / *immédiatement* </br> - *La neige est tombée cette nuit mais a disparu aussitôt.* The snow fell last night but disappeared immediately. </br> - ***Aussitôt dit, aussitôt fait.*** No sooner said than done. |
-| humeur | mood </br> - *Il est de bonne humeur.* He's in a good mood. |
-| à part | apart from, except for </br> - *Ils sont tous venus, à part Christian.* They all came, except Christian. |
+| avancement | promotion </br> ▶︎ *avoir de l'avancement* to get promoted, to get a promotion |
+| postuler | apply (intransitive verb) </br> ▶︎ *postuler à qch, postuler pour qch* to apply for sth </br> ▶︎ *postuler pour faire qch* to apply to do sth </br> ▶︎ *Elle a postulé pour enseigner à l'étranger.* She has applied to teach abroad. |
+| embaucher | to take on, to hire </br> ▶︎ *L'entreprise vient d'embaucher cinquante personnes.* The firm has just taken on fifty new people. </br> ▶︎ *Éric a postulé et on l'a embauché aussitôt.* Éric applied and was hired right away. |
+| aussitôt | (adverb) formed from *aussi* as and *tôt* early. an elegant way of saying *straight away, immediately* / *immédiatement* </br> ▶︎ *La neige est tombée cette nuit mais a disparu aussitôt.* The snow fell last night but disappeared immediately. </br> ▶︎ ***Aussitôt dit, aussitôt fait.*** No sooner said than done. |
+| humeur | mood </br> ▶︎ *Il est de bonne humeur.* He's in a good mood. |
+| à part | apart from, except for </br> ▶︎ *Ils sont tous venus, à part Christian.* They all came, except Christian. |
 | traiteur | caterer | 
 | four | oven |
 | petit four | [petit four](https://en.wikipedia.org/wiki/Petit_four) (any of various very small rich sweet cakes and biscuits, usually decorated with fancy icing, marzipan, etc) |
 | salé | salty, salted, savoury |
 | sucré | sweet |
-| livrer | to deliver </br> - *Des petits fours salés et sucrés seront livrés vers onze heures, onze heures trente au plus tard.* Savoury (salted) and sweet (sugared) petits-fours (little ovens) will be delivered around 11am, 11.30 at the latest. |
-| au plus tard | (*pas après*) at the latest </br> - *Vous devez rendre vos devoirs le 6 octobre au plus tard.* You must hand in your homework on October 6th at the latest. |
+| livrer | to deliver </br> ▶︎ *Des petits fours salés et sucrés seront livrés vers onze heures, onze heures trente au plus tard.* Savoury (salted) and sweet (sugared) petits-fours (little ovens) will be delivered around 11am, 11.30 at the latest. |
+| au plus tard | (*pas après*) at the latest </br> ▶︎ *Vous devez rendre vos devoirs le 6 octobre au plus tard.* You must hand in your homework on October 6th at the latest. |
 | au plus tôt | (*pas avant*) at the earliest |
-| au plus vite | (*le plus rapidement possible*) as quickly as possible, as soon as possible </br> - *Je dois traduire au plus vite mon diplôme.* I need to translate my degree certificate as quickly as possible. | 
+| au plus vite | (*le plus rapidement possible*) as quickly as possible, as soon as possible </br> ▶︎ *Je dois traduire au plus vite mon diplôme.* I need to translate my degree certificate as quickly as possible. | 
 | comité | committee |
-| discours | speech </br> - *prononcer un discours* to make a speech |
+| discours | speech </br> ▶︎ *prononcer un discours* to make a speech |
 | ***lors de*** | during |
 | après tout | after all |
-| se charger | to take care of sth </br> - *C'est un autre collègue  qui s'en charge, mais il sera choisi par un comité de quatre personnes.* Another colleague is taking care of it, but it will be chosen by a four-person committee. </br> - *Ce sont trois collègues qui se chargeront d'organiser le pot pour Éric, qui est très apprécié de tout le monde.* Three colleagues wil take charge of organising the drink party for Éric, whom everybody greatly appreciates. |
+| se charger | to take care of sth </br> ▶︎ *C'est un autre collègue  qui s'en charge, mais il sera choisi par un comité de quatre personnes.* Another colleague is taking care of it, but it will be chosen by a four-person committee. </br> ▶︎ *Ce sont trois collègues qui se chargeront d'organiser le pot pour Éric, qui est très apprécié de tout le monde.* Three colleagues wil take charge of organising the drink party for Éric, whom everybody greatly appreciates. |

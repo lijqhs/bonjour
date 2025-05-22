@@ -346,24 +346,24 @@ Therefore, the sentence means: "The pollster is leaving, discouraged." It implie
 | dans la rue | in the street, on the street |
 | inconnu | adj. unknown, unidentified, n.m. (n.f. *inconnue*) unknown person, unidentified person |
 | poser problème | pose a problem, cause a problem |
-| alors que | while, when, even though, whereas </br> - *Ma sœur est petite alors que je suis grande.* My sister is short, whereas I am tall. |
-| faire savoir | (*porter (qch) à la connaissance de (qqn)*) let (sb) know (sth) </br> - *Madame vous **fait savoir** qu'elle sera absente cette après-midi.* Madam would like to let you know that she will be absent this afternoon. |
+| alors que | while, when, even though, whereas </br> ▶︎ *Ma sœur est petite alors que je suis grande.* My sister is short, whereas I am tall. |
+| faire savoir | (*porter (qch) à la connaissance de (qqn)*) let (sb) know (sth) </br> ▶︎ *Madame vous **fait savoir** qu'elle sera absente cette après-midi.* Madam would like to let you know that she will be absent this afternoon. |
 | court | short |
 | questionnaire | questionnaire |
 | trottoir | pavement, sidewalk |
 | encombré | congested |
-| encombrer | (*prendre de la place*) be in the way, take up too much space, take up too much room </br> (*saturer*) block </br> - *Les appels téléphoniques encombrent la ligne.* The phone calls are blocking the line. |
+| encombrer | (*prendre de la place*) be in the way, take up too much space, take up too much room </br> (*saturer*) block </br> ▶︎ *Les appels téléphoniques encombrent la ligne.* The phone calls are blocking the line. |
 | s'agir de | (*être au sujet de*) be a question of, be a matter of ([see details](#sagir-de)) |
-| il s'agit de | it has to do with, it's a question of </br> - *Je dois vous parler : il s'agit de votre salaire.* I have to talk to you, it has to do with your salary. |
+| il s'agit de | it has to do with, it's a question of </br> ▶︎ *Je dois vous parler : il s'agit de votre salaire.* I have to talk to you, it has to do with your salary. |
 | parler de tout et de rien | talk about anything and everything |
-| quelques instants | a few moments </br> - *Pouvez-vous attendre quelques instants ? Le rendez-vous précédent n'est pas encore fini.* |
+| quelques instants | a few moments </br> ▶︎ *Pouvez-vous attendre quelques instants ? Le rendez-vous précédent n'est pas encore fini.* |
 | accorder | (*qch à qqn*) agree to [sth] with [sb], give [sth] to [sb], grant [sth] to [sb] |
 | faire vite | (*se dépêcher*) be quick |
-| dépasser | (*arriver plus haut que*) be taller than [sth] </br> - *La Tour Eiffel dépasse l'Arc de Triomphe.* The Eiffel Tower is taller than the Arc de Triomphe. </br> (*aller au-delà*) exceed, go over </br> - *Je dois vous mettre un PV parce que vous avez dépassé la vitesse autorisée.* I have to give you a ticket because you exceeded the speed limit. |
+| dépasser | (*arriver plus haut que*) be taller than [sth] </br> ▶︎ *La Tour Eiffel dépasse l'Arc de Triomphe.* The Eiffel Tower is taller than the Arc de Triomphe. </br> (*aller au-delà*) exceed, go over </br> ▶︎ *Je dois vous mettre un PV parce que vous avez dépassé la vitesse autorisée.* I have to give you a ticket because you exceeded the speed limit. |
 | jurer | (*affirmer, promettre*) swear, promise |
 | locataire | tenant |
 | actuel | current |
-| tranché | (*net, distinct*) bold, distinct </br> - *Les couleurs de ce dessin sont bien **tranchées**.* The colours of this drawing are very distinct. </br> (*catégorique, sans nuances*) decided, definite, entrenched </br> - *Ses opinions sont toujours bien **tranchées**.* His opinions are always very decided. |
+| tranché | (*net, distinct*) bold, distinct </br> ▶︎ *Les couleurs de ce dessin sont bien **tranchées**.* The colours of this drawing are very distinct. </br> (*catégorique, sans nuances*) decided, definite, entrenched </br> ▶︎ *Ses opinions sont toujours bien **tranchées**.* His opinions are always very decided. |
 | là-dessus | (*sur cet objet-là*) on it, on there, on that </br> (*sur ce sujet*) about it, about that |
 | vérité | truth |
 | à la vérité | (*pour être franc*) in truth |
@@ -371,13 +371,13 @@ Therefore, the sentence means: "The pollster is leaving, discouraged." It implie
 | tout court | just |
 | durer | last, last for, go on |
 | relatif à | related to, pertaining to |
-| majorité | majority </br> - *Le candidat de gauche a été élu à la majorité.* The left-wing candidate was elected by the majority. | 
+| majorité | majority </br> ▶︎ *Le candidat de gauche a été élu à la majorité.* The left-wing candidate was elected by the majority. | 
 | efficace | effective |
-| concerner | affect, concern, relate to, apply to </br> - *Cette réunion te **concerne**, c'est à propos de la restructuration de ton service.* This meeting affects you; it's about the restructuring of your department. |
+| concerner | affect, concern, relate to, apply to </br> ▶︎ *Cette réunion te **concerne**, c'est à propos de la restructuration de ton service.* This meeting affects you; it's about the restructuring of your department. |
 | autorité | authority |
 | sans aucun intérêt | without any interest |
 | passionner | interest, stimulate, excite |
-| se passionner pour | be passionate about, be fascinated by </br> - *Charlotte **se passionne pour** la danse classique.* Charlotte is passionate about classical dance. |
+| se passionner pour | be passionate about, be fascinated by </br> ▶︎ *Charlotte **se passionne pour** la danse classique.* Charlotte is passionate about classical dance. |
 | sondeur | pollster |
 | découragé | discouraged | 
 | marmonner | (*parler sans articuler*) mumble, mutter |

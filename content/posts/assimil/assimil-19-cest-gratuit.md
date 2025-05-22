@@ -73,7 +73,7 @@ cover:
 
 | mots | explications |
 | ---- | ---- | 
-| endroit | place </br> - *C'est un endroit très tranquille.* It's a very quiet place. </br> - *les gens de l'endroit* the local people </br> - *à l'endroit de* regarding, with regard to |
-| louer | to let, to rent, to hire, to praise </br> - *Ils louent des chambres à des étudiants.* They let rooms to students. </br> - *Je loue un petit appartement au centre-ville.* I rent a small apartment in the centre of town. |
-| combien | how much, how many </br> - *Ça coûte combien ?* / *Combien est-ce que ça coûte ?* How much does it cost? </br> - *Tu en veux combien ? Deux ?* How many do you want? Two? </br> - *Combien est-ce que ça coûte ? - C'est gratuit.* How much does it cost? - It's free. |
-| voir | to see </br> - *D'ici, on voit mieux.* You can see better from here. </br> - *Voyons ce qu'on peut faire.* Let's see what we can do. </br> - (=*comprendre*) *Je ne vois pas pourquoi il a fait ça.* I don't see why he did that. </br> ***voyons voir*** let’s see now </br> - *Voyons voir si j'ai quelque chose de plus grand.* Let's see if I have something bigger. |
+| endroit | place </br> ▶︎ *C'est un endroit très tranquille.* It's a very quiet place. </br> ▶︎ *les gens de l'endroit* the local people </br> ▶︎ *à l'endroit de* regarding, with regard to |
+| louer | to let, to rent, to hire, to praise </br> ▶︎ *Ils louent des chambres à des étudiants.* They let rooms to students. </br> ▶︎ *Je loue un petit appartement au centre-ville.* I rent a small apartment in the centre of town. |
+| combien | how much, how many </br> ▶︎ *Ça coûte combien ?* / *Combien est-ce que ça coûte ?* How much does it cost? </br> ▶︎ *Tu en veux combien ? Deux ?* How many do you want? Two? </br> ▶︎ *Combien est-ce que ça coûte ? - C'est gratuit.* How much does it cost? - It's free. |
+| voir | to see </br> ▶︎ *D'ici, on voit mieux.* You can see better from here. </br> ▶︎ *Voyons ce qu'on peut faire.* Let's see what we can do. </br> ▶︎ (=*comprendre*) *Je ne vois pas pourquoi il a fait ça.* I don't see why he did that. </br> ***voyons voir*** let’s see now </br> ▶︎ *Voyons voir si j'ai quelque chose de plus grand.* Let's see if I have something bigger. |

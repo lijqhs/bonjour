@@ -151,7 +151,7 @@ what / which
 | vérifier | verify, check, confirm |
 | le grenier | attic |
 | verrouiller | to bolt. P.P. verrouillé |
-| fermer à clé | *fermer [qch] à clé* (=*verrouiller*) lock </br> - *Vous avez fermé la porte à clé ?* Have you locked the door? |
+| fermer à clé | *fermer [qch] à clé* (=*verrouiller*) lock </br> ▶︎ *Vous avez fermé la porte à clé ?* Have you locked the door? |
 | un verrou | a bolt |
 | une serrure | n.f. lock |
 | réfrigérateur | n.m. fridge |
@@ -186,7 +186,7 @@ what / which
 | électrique | electric, electrical |
 | heureusement | fortunately, luckily |
 | oublier | forget |
-| billet d'avion | plane ticket </br> - *Les billets d'avion se réservent facilement sur internet désormais.* Plane tickets can easily be booked online these days. |
+| billet d'avion | plane ticket </br> ▶︎ *Les billets d'avion se réservent facilement sur internet désormais.* Plane tickets can easily be booked online these days. |
 | laisser | to leave, to let <br/> - *J'ai laissé mon parapluie à la maison.* I've left my umbrella at home. <br/> - *Laisse-le parler.* Let him speak. | 
 | un sac à main | a handbag |
 | salon | living room, lounge, sitting room |

@@ -168,9 +168,9 @@ Example: *Personne n'a le droit de toucher à ses cheveux.* No one is allowed to
 | l'entraîneur | MASC. trainer (entraîner) |
 | devenir | to become |
 | la gestion | management |
-| la poche | pocket </br> - *l'argent de poche* pocket money </br> - *un livre de poche* a paperback |
-| classement | MASC. noun, placings (sports) </br> - *haut du classement* top rankings |
-| nommer | to name, to call, to appoint </br> - *Il a été nommé directeur*. He was appointed director. </br> *se nommer* to be called </br> - *Il se nomme Pascal.* His name's Pascal. / He's called Pascal. |
-| expliquer | to explain </br> - *Il m'a expliqué comment faire.* He explained to me how to do it. </br> - *Ça s'explique.* It's understandable. |
+| la poche | pocket </br> ▶︎ *l'argent de poche* pocket money </br> ▶︎ *un livre de poche* a paperback |
+| classement | MASC. noun, placings (sports) </br> ▶︎ *haut du classement* top rankings |
+| nommer | to name, to call, to appoint </br> ▶︎ *Il a été nommé directeur*. He was appointed director. </br> *se nommer* to be called </br> ▶︎ *Il se nomme Pascal.* His name's Pascal. / He's called Pascal. |
+| expliquer | to explain </br> ▶︎ *Il m'a expliqué comment faire.* He explained to me how to do it. </br> ▶︎ *Ça s'explique.* It's understandable. |
 | la personne | person |
 | facilement | easily |

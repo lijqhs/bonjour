@@ -166,22 +166,22 @@ pain, sickness
 | le quai | quay, platform |
 | la voie | lane |
 | billetterie | ticket office | 
-| là-bas | ADV. over there </br> - *Ma maison est là-bas.* My house is over there. |
+| là-bas | ADV. over there </br> ▶︎ *Ma maison est là-bas.* My house is over there. |
 | la consigne | left-luggage office | 
 | le cas | case |
-| le guichet | counter </br> - *les guichets* (*à la gare*, *au théâtre*) the ticket office |
+| le guichet | counter </br> ▶︎ *les guichets* (*à la gare*, *au théâtre*) the ticket office |
 | énervant | irritating |
 | l'affiche | FEM. poster |
 | partout | ADV. everywhere |
-| signaler | to indicate, to report </br> - *signaler qn à la police* to report sb to the police | 
+| signaler | to indicate, to report </br> ▶︎ *signaler qn à la police* to report sb to the police | 
 | le contrôleur | ticket inspector / FEM. *la contrôleuse* (*contrôler* to check) |
 | léger | light |
-| la circulation | traffic </br> - *Il y avait beaucoup de circulation.* There was a lot of traffic. |
+| la circulation | traffic </br> ▶︎ *Il y avait beaucoup de circulation.* There was a lot of traffic. |
 | perturber | to disrupt / Past Participle: perturbé | 
-| la panne | breakdown </br> - *être en panne* to have broken down |
+| la panne | breakdown </br> ▶︎ *être en panne* to have broken down |
 | le retard | delay |
 | annuler | to cancel / Past Participle: annulé |
 | omnibus | slow train, stopping train | 
 | souci | worry, concern, problem |
-| faux | untrue, fake / FEM. fausse </br> - *un faux billet* a forged ticket (bank note) </br> - *une fausse note (music)* a wrong note |
+| faux | untrue, fake / FEM. fausse </br> ▶︎ *un faux billet* a forged ticket (bank note) </br> ▶︎ *une fausse note (music)* a wrong note |
 | plutôt | quite, rather, instead |

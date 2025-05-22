@@ -151,10 +151,10 @@ to worry
 | l’hypermarché | hypermarket (A hypermarket is a big-box store combining a supermarket and a department store.) |
 | périphérique | peripheral, outlying |
 | mince | thin, slim |
-| le visage | face </br> - *Elle a le visage rond.* She's got a round face. |
-| carré | square </br> - *un visage carré* a square face |
-| raide | steep, straight </br> - *Laure a les cheveux raides.* Laure has straight hair. |
-| habillé | **dressed** </br> - *Il n'est pas encore habillé.* He's not dressed yet. </br> smart, dressy </br> - *Cette robe fait très habillé.* This dress looks very smart. | 
+| le visage | face </br> ▶︎ *Elle a le visage rond.* She's got a round face. |
+| carré | square </br> ▶︎ *un visage carré* a square face |
+| raide | steep, straight </br> ▶︎ *Laure a les cheveux raides.* Laure has straight hair. |
+| habillé | **dressed** </br> ▶︎ *Il n'est pas encore habillé.* He's not dressed yet. </br> smart, dressy </br> ▶︎ *Cette robe fait très habillé.* This dress looks very smart. | 
 | la manche | sleeve |
 | court | short / FEM. courte |
 | l'écharpe | scarf |
@@ -162,7 +162,7 @@ to worry
 | marron | ADJ. brown |
 | la chaussette | sock |
 | assorti | matching, assorted |
-| l'habitude | habit </br> - *avoir l'habitude de quelque chose* to be used to something | 
-| la valise | suitcase </br> - *faire sa valise* to pack |
+| l'habitude | habit </br> ▶︎ *avoir l'habitude de quelque chose* to be used to something | 
+| la valise | suitcase </br> ▶︎ *faire sa valise* to pack |
 | inquiet | adj.m, worried |
 | inquiète | adj.f, worried |

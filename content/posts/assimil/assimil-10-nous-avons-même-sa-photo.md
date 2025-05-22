@@ -74,8 +74,8 @@ Note: *dont* (meaning whose, of whom, of which, about which) is used to refer to
 | ---- | ------ | 
 | le formulaire | form |
 | imprimé | printed |
-| régler | to settle (a formal way of saying "to pay") </br> - *Réglez à la caisse* Pay at the cash desk |
-| caisse | checkout </br> - *J'ai dû faire la queue à la caisse.* I had to queue at the checkout. |
+| régler | to settle (a formal way of saying "to pay") </br> ▶︎ *Réglez à la caisse* Pay at the cash desk |
+| caisse | checkout </br> ▶︎ *J'ai dû faire la queue à la caisse.* I had to queue at the checkout. |
 | devoir | must, to have to / (past participle) *dû* |
 | portefeuille | wallet |
 | dont | of which, of whom |

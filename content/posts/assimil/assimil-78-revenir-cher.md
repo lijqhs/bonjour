@@ -209,27 +209,27 @@ In casual spoken French, people might use simpler expressions like **"Peu import
 
 | mots | explications |
 | ---- | ---- | 
-| être à la recherche de | to be looking for, to be in search of </br> - *Je suis à la recherche d’un emploi.* I’m looking for a job. |
-| rendre visite à quelqu’un | to visit somebody </br> - *Je vais rendre visite à mon grand-père.* I’m going to visit my grandfather. |
+| être à la recherche de | to be looking for, to be in search of </br> ▶︎ *Je suis à la recherche d’un emploi.* I’m looking for a job. |
+| rendre visite à quelqu’un | to visit somebody </br> ▶︎ *Je vais rendre visite à mon grand-père.* I’m going to visit my grandfather. |
 | à côté | (= *chez les voisins*) next door |
 | gamin(e) | kid (= *gosse*) |
-| occasion | n.f. opportunity </br> - *C’est une occasion à ne pas manquer.* It’s an opportunity not to be missed. </br> occasion </br> - *à l’occasion de son anniversaire* on the occasion of his birthday </br> bargain </br> - *Cet ordinateur est une bonne occasion.* This computer’s a real bargain. </br> - *d’occasion* second-hand |
-| emmener | to take </br> - *Ils m’ont emmené au cinéma pour mon anniversaire.* They took me to the cinema for my birthday. |
+| occasion | n.f. opportunity </br> ▶︎ *C’est une occasion à ne pas manquer.* It’s an opportunity not to be missed. </br> occasion </br> ▶︎ *à l’occasion de son anniversaire* on the occasion of his birthday </br> bargain </br> ▶︎ *Cet ordinateur est une bonne occasion.* This computer’s a real bargain. </br> ▶︎ *d’occasion* second-hand |
+| emmener | to take </br> ▶︎ *Ils m’ont emmené au cinéma pour mon anniversaire.* They took me to the cinema for my birthday. |
 | plutôt que | rather than |
-| arriver | to arrive </br> - *arriver à Paris* to get to Paris, to arrive in Paris </br> to happen </br> - *Qu’est-ce qui est arrivé à Christian ?* What happened to Christian? </br> to reach </br> - *arriver à terme* [contrat] to come to an end </br> to achieve </br> - ***arriver à faire quelque chose*** to manage to do something |
-| convaincre | to convince </br> - *convaincre quelqu’un de quelque chose* to convince somebody of something |
+| arriver | to arrive </br> ▶︎ *arriver à Paris* to get to Paris, to arrive in Paris </br> to happen </br> ▶︎ *Qu’est-ce qui est arrivé à Christian ?* What happened to Christian? </br> to reach </br> ▶︎ *arriver à terme* [contrat] to come to an end </br> to achieve </br> ▶︎ ***arriver à faire quelque chose*** to manage to do something |
+| convaincre | to convince </br> ▶︎ *convaincre quelqu’un de quelque chose* to convince somebody of something |
 | embêter | to bother |
-| peur | n.f. fear </br> - *avoir peur de* to be afraid of </br> - *avoir peur de faire quelque chose* to be frightened of doing something </br> - *Ils me disent qu'ils ont peur de s'embêter avec les vieux, qu'ils trouvent trop ennuyeux.* They tell me they are afraid of getting bored with old people, whom they find too boring. |
-| s’embêter | (= *s’ennuyer*) to be bored </br> - *Qu’est-ce qu’on s’embête ici !* It’s so boring here! </br> - *Elle s'embête en cours d'anglais.* She gets bored in English lessons. |
+| peur | n.f. fear </br> ▶︎ *avoir peur de* to be afraid of </br> ▶︎ *avoir peur de faire quelque chose* to be frightened of doing something </br> ▶︎ *Ils me disent qu'ils ont peur de s'embêter avec les vieux, qu'ils trouvent trop ennuyeux.* They tell me they are afraid of getting bored with old people, whom they find too boring. |
+| s’embêter | (= *s’ennuyer*) to be bored </br> ▶︎ *Qu’est-ce qu’on s’embête ici !* It’s so boring here! </br> ▶︎ *Elle s'embête en cours d'anglais.* She gets bored in English lessons. |
 | soupe | n.f. soup |
 | perdant(e) | loser | 
-| revenir | to come back </br> - *Reviens vite !* Come back soon! </br> (= *coûter*) to come to </br> - *revenir cher* to cost a lot </br> - *Ça revient cher.* It costs a lot. |
-| vu | (voir) (= *en raison de*) in view of </br> - *Vu le temps, on restera à la maison.* In view of the weather, we'll stay at home. </br> - *Mais **vu** les prix, ça risque de te **revenir cher**, tu sais.* But given the prices, it could cost you a lot, you know. |
-| vu que | (= *puisque*) in view of the fact that, since </br> - *Vu qu'il faut beau, on ira à la plage.* Since the weather is fine, we'll go to the beach. |
+| revenir | to come back </br> ▶︎ *Reviens vite !* Come back soon! </br> (= *coûter*) to come to </br> ▶︎ *revenir cher* to cost a lot </br> ▶︎ *Ça revient cher.* It costs a lot. |
+| vu | (voir) (= *en raison de*) in view of </br> ▶︎ *Vu le temps, on restera à la maison.* In view of the weather, we'll stay at home. </br> ▶︎ *Mais **vu** les prix, ça risque de te **revenir cher**, tu sais.* But given the prices, it could cost you a lot, you know. |
+| vu que | (= *puisque*) in view of the fact that, since </br> ▶︎ *Vu qu'il faut beau, on ira à la plage.* Since the weather is fine, we'll go to the beach. |
 | le miel | honey | 
 | la lavande | lavender |
 | le motif | pattern |
 | cigale | cicada |
 | par excellence | par excellence (being the best of a kind) |
 | faire un chèque | to write a cheque |
-| tout de suite | straightaway </br> - *J’y vais tout de suite.* I’ll go straightaway. |
+| tout de suite | straightaway </br> ▶︎ *J’y vais tout de suite.* I’ll go straightaway. |

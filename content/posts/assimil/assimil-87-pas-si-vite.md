@@ -265,7 +265,7 @@ If the verb is followed by **"y"** or **"en"**, the **-s** is kept for pronuncia
 | réchauffer | heat, warm up |
 | ennemi | enemy, foe, adversary |
 | sans vie | lifeless, dead |
-| descendre | go down, drop, fall, descend </br> (*tuer*, informal) take [sb] out, kill </br> - *Ce mercenaire a déjà descendu plusieurs personnes.* This mercenary has already taken out several people. |
+| descendre | go down, drop, fall, descend </br> (*tuer*, informal) take [sb] out, kill </br> ▶︎ *Ce mercenaire a déjà descendu plusieurs personnes.* This mercenary has already taken out several people. |
 | espion | (*-ne*) spy |
 | super | great, super </br> ▶︎ *Elle est super sympa* She's super nice |
 | superbe | superb, splendid, magnificent </br> ▶︎ *Quelle journée superbe !* What a glorious day! |

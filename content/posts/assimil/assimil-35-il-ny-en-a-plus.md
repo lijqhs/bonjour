@@ -54,8 +54,8 @@ Indirect object pronouns are used to avoid repeating a noun.
 
 | mots | explications |
 | ---- | ---- |
-| à côté de | next to, alongside, beside </br> - *La mairie est à côté de l'église.* The town hall is next to the church. |
-| à côté | next door, nearby, close by </br> - *Voici l'église, et à côté, vous avez la mairie.* This is the church and next door is the town hall. |
+| à côté de | next to, alongside, beside </br> ▶︎ *La mairie est à côté de l'église.* The town hall is next to the church. |
+| à côté | next door, nearby, close by </br> ▶︎ *Voici l'église, et à côté, vous avez la mairie.* This is the church and next door is the town hall. |
 | hors de prix | (*beaucoup trop cher*) prohibitively expensive, unaffordable |
 | au moins | at least |
 | tant pis | (*Tant pis !*) Never mind! / Too bad! / Oh well! |

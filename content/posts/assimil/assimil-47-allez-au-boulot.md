@@ -113,17 +113,17 @@ all, every
 | mots | explications |
 | ---- | ------ | 
 | déménager | to move | 
-| nombreux | ADJ. many </br> - une famille nombreuse a large family |
-| gros | big, fat </br> - *une grosse erreur* a serious mistake </br> - *en gros* broadly, basically (at beginning of a sentence) |
-| paresseux | lazy / MASC. noun: sloth </br> - *Tu es un gros paresseux !* You're a slacker / a lazybones! |
-| gratuit | ADJ. free </br> - *gratuitement* ADV. free|
-| douter | to doubt </br> - *J'en doute* I have my doubts |
+| nombreux | ADJ. many </br> ▶︎ une famille nombreuse a large family |
+| gros | big, fat </br> ▶︎ *une grosse erreur* a serious mistake </br> ▶︎ *en gros* broadly, basically (at beginning of a sentence) |
+| paresseux | lazy / MASC. noun: sloth </br> ▶︎ *Tu es un gros paresseux !* You're a slacker / a lazybones! |
+| gratuit | ADJ. free </br> ▶︎ *gratuitement* ADV. free|
+| douter | to doubt </br> ▶︎ *J'en doute* I have my doubts |
 | tenir | to hold, to keep |
 | aimable | kind, nice |
-| la location | renting </br> - *location de voitures* car rental </br> - The French word location does not mean location. </br> - *loyer* rent (payment) </br> - *locataire* tenant </br> - *louer* to rent |
+| la location | renting </br> ▶︎ *location de voitures* car rental </br> ▶︎ The French word location does not mean location. </br> ▶︎ *loyer* rent (payment) </br> ▶︎ *locataire* tenant </br> ▶︎ *louer* to rent |
 | lieu | place | 
 | toi-même | yourself |
-| boulot | job, work </br> - *Anita a trouvé du boulot.* Anita has found a job. |
+| boulot | job, work </br> ▶︎ *Anita a trouvé du boulot.* Anita has found a job. |
 | le bouquin | book |
 | camionnette | van |
 | coucher | to sleep |

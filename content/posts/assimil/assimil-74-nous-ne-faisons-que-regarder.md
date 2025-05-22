@@ -118,7 +118,7 @@ to bring; to take
 | pire | worse </br> ▶︎ *C'est encore pire qu’avant.* It’s even worse than before. |
 | foule | *la foule* crowd |
 | quant à | as for, regarding |
-| mode | - la mode: (feminine) fashion </br> ▶︎ le mode: (masculine) *le mode de vie* the way of life |
+| mode | ▶︎ la mode: (feminine) fashion </br> ▶︎ le mode: (masculine) *le mode de vie* the way of life |
 | peine | *la peine* trouble |
 | à peine | hardly, only just </br> ▶︎ *J’ai à peine eu le temps de me changer.* I hardly had time to get changed. </br> ▶︎ *Elle vient à peine de se lever.* She’s only just got up. </br> ▶︎ ***La réunion a duré à peine deux heures dans l’enceinte du palais de Dolmabahçe, sur la rive européenne du Bosphore.*** The meeting lasted barely two hours in the Dolmabahçe Palace on the European side of the Bosphorus. |
 | respirer | to breathe |

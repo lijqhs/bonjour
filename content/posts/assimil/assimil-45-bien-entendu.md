@@ -138,20 +138,20 @@ to denote
 | considérable | considerable |
 | considérablement | considerably, significantly |
 | de nos jours | these days, nowadays |
-| l'avocat | MASC. lawyer </br> - *Il est avocat.* He's a lawyer. |
+| l'avocat | MASC. lawyer </br> ▶︎ *Il est avocat.* He's a lawyer. |
 | l'ingénieur | MASC. engineer |
 | journaliste | journalist |
-| le/la comptable | MASC./FEM. accountant </br> - *Il est comptable.* He's an accountant. |
+| le/la comptable | MASC./FEM. accountant </br> ▶︎ *Il est comptable.* He's an accountant. |
 | programmeur | programmer |
 | boucher | MASC. butcher |
-| le coiffeur | hairdresser </br> - *la coiffeuse* hairdresser |
+| le coiffeur | hairdresser </br> ▶︎ *la coiffeuse* hairdresser |
 | le cuisinier | cook / *la cuisinière* |
 | le plombier | plumber / *plombière* |
 | le métier | job |
 | inutile | useless |
 | la formation | training |
-| la connaissance | knowledge, acquaintance </br> - *... pour approfondir vos connaissances* ... to increase your knowledge </br> - *faire la connaissance de quelqu'un* to meet somebody.|
+| la connaissance | knowledge, acquaintance </br> ▶︎ *... pour approfondir vos connaissances* ... to increase your knowledge </br> ▶︎ *faire la connaissance de quelqu'un* to meet somebody.|
 | en cours | current, in progress |
 | bouger | to move |
-| le congé | holiday </br> - *une semaine de congé* a week's holiday </br> - *en congé* on holiday |
-| le dommage | damage </br> - *C'est dommage.* It's a shame. |
+| le congé | holiday </br> ▶︎ *une semaine de congé* a week's holiday </br> ▶︎ *en congé* on holiday |
+| le dommage | damage </br> ▶︎ *C'est dommage.* It's a shame. |

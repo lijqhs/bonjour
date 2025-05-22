@@ -36,15 +36,15 @@ cover:
 | coéquipiere | teammate, partner |
 | standard | standard, switchboard |
 | sachiez | que je/j' *sache* / que tu *saches* / qu'il, elle, on *sache* / que nous *sachions* / que vous ***sachiez*** / qu'ils, elles *sachent* |
-| cagnotte | nest egg (a sum of money saved for the future), jackpot (a large cash prize in a game or lottery, especially one that accumulates until it is won) </br> - *La cagnotte de notre famille n'est pas très élevée.* Our family's nest egg isn't very large. </br> - *Cette semaine, la cagnotte du loto s'élève à 12 millions d'euros.* This week, the lottery jackpot is up to 12 million euros. |
+| cagnotte | nest egg (a sum of money saved for the future), jackpot (a large cash prize in a game or lottery, especially one that accumulates until it is won) </br> ▶︎ *La cagnotte de notre famille n'est pas très élevée.* Our family's nest egg isn't very large. </br> ▶︎ *Cette semaine, la cagnotte du loto s'élève à 12 millions d'euros.* This week, the lottery jackpot is up to 12 million euros. |
 | s'élever | rise |
 | s'élever à | rise, increase, come to, amount to |
 | élever | raise, lift |
 | dorénavant | from now on |
-| de quoi | about what, what ... about, something to </br> - *Je me demande de quoi il peut encore avoir besoin.* </br> - *Tu as apporté de quoi manger ?* |
-| De quoi ? | Sorry? / What was that? / What did you say? / Pardon? / Excuse me? </br> - *De quoi ? Tu es sûre qu'il a dit ça ?* |
+| de quoi | about what, what ... about, something to </br> ▶︎ *Je me demande de quoi il peut encore avoir besoin.* </br> ▶︎ *Tu as apporté de quoi manger ?* |
+| De quoi ? | Sorry? / What was that? / What did you say? / Pardon? / Excuse me? </br> ▶︎ *De quoi ? Tu es sûre qu'il a dit ça ?* |
 | épinard | spinach (the singular is rarely used) | 
-| les épinards | spinach </br> - *Les enfants savent que Popeye aime beaucoup les épinards.* Children know that Popeye loves spinach. |
+| les épinards | spinach </br> ▶︎ *Les enfants savent que Popeye aime beaucoup les épinards.* Children know that Popeye loves spinach. |
 | mettre du beurre dans les épinards | (idioms) to top up one's income, add/earn a little extra |
 | planche | board, plate |
 | une planche à découper | a chopping board |
@@ -60,7 +60,7 @@ cover:
 | équitablement | equitably, fairly, evenly |
 | tout à coup | suddenly, all of a sudden |
 | poire | pear |
-| couper la poire en deux | split the difference, meet halfway </br> - *Coupons la poire de deux : tu prends les enfants cette semaine et moi je les prendrai le week-end.* Let's meet halfway: you take the children this week and I'll take them for the weekend. |
+| couper la poire en deux | split the difference, meet halfway </br> ▶︎ *Coupons la poire de deux : tu prends les enfants cette semaine et moi je les prendrai le week-end.* Let's meet halfway: you take the children this week and I'll take them for the weekend. |
 | auberge | inn, youth hostel | 
 | ne pas être sorti de l'auberge | not be out of the woods, not be out of the woods yet, still have a lot of ground to cover |
 | dur | hard |
@@ -76,14 +76,14 @@ cover:
 | au mauvais moment | at the wrong time |
 | dans le mauvais sens | the wrong way, in the wrong direction |
 | perdre connaissance | (***s'évanouir***) lose consciousness, pass out |
-| tomber dans les pommes | faint, pass out </br> - *Après ce gros effort, l’athlète est tombée dans les pommes.* Following this huge effort, the athlete fainted. |
+| tomber dans les pommes | faint, pass out </br> ▶︎ *Après ce gros effort, l’athlète est tombée dans les pommes.* Following this huge effort, the athlete fainted. |
 | Spécialité de la Normandie | "Spécialité de la Normandie" means "Normandy specialty" or "Normandy specialty food" in French. Normandy is known for its diverse culinary specialties, both savory and sweet. Some of the most iconic foods from this region include andouille de Vire, seafood, cheeses, lamb, teurgoule, apple dishes, and escalopes à la Normande. |
 | en vacances | on holiday, on vacation |
 | aller en vacances | go on holiday, go on vacation |
 | radis | radish, penny, cent |
-| ne pas gagner un radis | not earn a penny, not earn much at all </br> - *Je travaille dur, mais je ne gagne pas un radis.* I work hard, but I don't earn a penny. |
+| ne pas gagner un radis | not earn a penny, not earn much at all </br> ▶︎ *Je travaille dur, mais je ne gagne pas un radis.* I work hard, but I don't earn a penny. |
 | publicité | advertising, publicity, commercial, ad |
 | tout de suite | immediately, straightaway |
 | à tout de suite | see you very soon |
-| entre | between, of, among </br> - *Il habite entre Paris et Lyon.* He lives between Paris and Lyon. </br> - *Certains d'entre nous furent recalés.* Some of us failed the exam. | 
+| entre | between, of, among </br> ▶︎ *Il habite entre Paris et Lyon.* He lives between Paris and Lyon. </br> ▶︎ *Certains d'entre nous furent recalés.* Some of us failed the exam. | 
 | terminer | finish |

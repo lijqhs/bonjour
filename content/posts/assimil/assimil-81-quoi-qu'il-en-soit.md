@@ -301,21 +301,21 @@ In many contexts, "fournir" is the preferred verb, while "pourvoir" is often rep
 | réunir | gather, join together |
 | se réunir | (*se joindre*) get together, meet |
 | discuter | (+ *avec*) talk to (sb), (+ *de*) talk about (sth) |
-| gréviste | striker </br> - *Les grévistes bloquaient l'entrée de l'usine.* The strikers were blocking the entrance to the factory. |
+| gréviste | striker </br> ▶︎ *Les grévistes bloquaient l'entrée de l'usine.* The strikers were blocking the entrance to the factory. |
 | extrait | extract, excerpt, copy |
 | compte-rendu | report |
 | réunion | n.f. meeting |
-| dérouler | roll out, run through </br> - *Le tapis rouge a été déroulé pour cet ambassadeur.* The red carpet was rolled out for the ambassador. | 
-| se dérouler | (*se passer*) take place </br> - *L'action de ce film se déroule en Égypte.* The film's action takes place in Egypt. |
+| dérouler | roll out, run through </br> ▶︎ *Le tapis rouge a été déroulé pour cet ambassadeur.* The red carpet was rolled out for the ambassador. | 
+| se dérouler | (*se passer*) take place </br> ▶︎ *L'action de ce film se déroule en Égypte.* The film's action takes place in Egypt. |
 | bien que | although |
 | sourd | deaf |
-| se faire | (*être, sens passif*) be + (past participle) </br> - *Nous nous sommes fait attaquer par les médias qui nous désignent comme les méchants.* We have been attacked by the media, who are pointing at us as the bad guys. |
+| se faire | (*être, sens passif*) be + (past participle) </br> ▶︎ *Nous nous sommes fait attaquer par les médias qui nous désignent comme les méchants.* We have been attacked by the media, who are pointing at us as the bad guys. |
 | désigner | show, point (sb/sth) out, appoint, designate, indicate, mean, refer to |
 | méchant | mean, nasty, naughty, unkind, dangerous, bad man |
 | ridicule | ridiculous, absurd |
 | bien entendu | (*bien sûr, d'accord*) of course, naturally |
 | n'empêche | even so, all the same |
-| il n'empêche que | nevertheless, be that as it may (more formal) </br> - *Je sais que vous ne les aimez pas. Il n'empêche qu'ils ont raison.* I know that you do not like them, Be that as it may, they are right. |
+| il n'empêche que | nevertheless, be that as it may (more formal) </br> ▶︎ *Je sais que vous ne les aimez pas. Il n'empêche qu'ils ont raison.* I know that you do not like them, Be that as it may, they are right. |
 | devoir | have to |
 | attentif | attentive, pay close attention, careful |
 | délégué | delegate, representative |
@@ -342,17 +342,17 @@ In many contexts, "fournir" is the preferred verb, while "pourvoir" is often rep
 | tout à fait | quite, completely, absolutely |
 | suspendre | hang, suspend |
 | obtenir | get, obtain / [see conjugations](#obtenir) |
-| en vouloir à | be annoyed with, be angry with </br> - *De toutes les façons, les délégués du personnel en général nous en veulent à tous.* In any case, the staff representatives in general are angry with all of us. |
+| en vouloir à | be annoyed with, be angry with </br> ▶︎ *De toutes les façons, les délégués du personnel en général nous en veulent à tous.* In any case, the staff representatives in general are angry with all of us. |
 | pouce | thumb |
-| se tourner les pouces | twiddle your thumbs </br> - *Ce qui est sûr c'est que nous ne pouvons pas **nous tourner les pouces** en attendant que le problème se règle tout seul.* |
+| se tourner les pouces | twiddle your thumbs </br> ▶︎ *Ce qui est sûr c'est que nous ne pouvons pas **nous tourner les pouces** en attendant que le problème se règle tout seul.* |
 | en attendant | meanwhile, meantime |
 | règler | adjust, settle, resolve |
-| se règler | be set, be adjusted, be settled, be resolved </br> - *Ce problème peut se régler en 10 minutes.* This problem can be resolved in ten minutes. |
+| se règler | be set, be adjusted, be settled, be resolved </br> ▶︎ *Ce problème peut se régler en 10 minutes.* This problem can be resolved in ten minutes. |
 | tout seul | alone, all alone, all on your own, by yourself, all by yourself, without any help |
 | patienter | wait patiently, be patient |
 | jusqu'à ce que | (*en attendant que*) (+*subjonctif*) until |
 | soumettre | submit, subject, subdue, defeat | 
-| délai | period, time </br> - *Il faut le faire dans **un délai de dix jours**.* It has to be done within a ten-day period. </br> - *Quel est le délai pour ce travail ?* What's the deadline for this job? |
+| délai | period, time </br> ▶︎ *Il faut le faire dans **un délai de dix jours**.* It has to be done within a ten-day period. </br> ▶︎ *Quel est le délai pour ce travail ?* What's the deadline for this job? |
 | à bref délai | shortly, very soon |
 | rompre | terminate, break off | 
 | pourvu que | let's hope that, provided that, as long as |
@@ -362,16 +362,16 @@ In many contexts, "fournir" is the preferred verb, while "pourvoir" is often rep
 | publier | publish, release |
 | pourvoir | provide, equip, endow, fill |
 | fournir | supply, provide, give, produce |
-| avant que | before </br> - *Nous devons avoir fini de dresser la table **avant que** les invités n'**arrivent**.* We have to finish laying the table before the guests arrive. |
+| avant que | before </br> ▶︎ *Nous devons avoir fini de dresser la table **avant que** les invités n'**arrivent**.* We have to finish laying the table before the guests arrive. |
 | anecdote | anecdote, story |
 | illustrer | illustrate | 
 | genre | type, sort |
 | individu | individual, person |
 | avoir affaire à | deal with |
-| solliciter | request, sollicit, ask for </br> - *Le jeune homme a sollicité tout son entourage pour obtenir l'argent nécessaire à son projet.* The young man asked everyone he knows to obtain the necessary funds for his project. |
+| solliciter | request, sollicit, ask for </br> ▶︎ *Le jeune homme a sollicité tout son entourage pour obtenir l'argent nécessaire à son projet.* The young man asked everyone he knows to obtain the necessary funds for his project. |
 | augmenter | increase |
 | manière | way, manner, fashion |
-| conséquent | a consequence, a consequence of </br> - *Cette mesure est conséquente à l'augmentation du prix du pétrole.* This measure is a consequence of the increase in the price of oil. </br> substantial, significant </br> - *Il a perçu une somme conséquente.* He received a substantial sum. |
+| conséquent | a consequence, a consequence of </br> ▶︎ *Cette mesure est conséquente à l'augmentation du prix du pétrole.* This measure is a consequence of the increase in the price of oil. </br> substantial, significant </br> ▶︎ *Il a perçu une somme conséquente.* He received a substantial sum. |
 | au bout de | at the end of |
 | période d'essai | trial period, probation period |
 | dans ce cas | in this case, in that case |
