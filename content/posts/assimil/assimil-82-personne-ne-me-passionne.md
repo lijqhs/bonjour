@@ -352,7 +352,7 @@ Therefore, the sentence means: "The pollster is leaving, discouraged." It implie
 | questionnaire | questionnaire |
 | trottoir | pavement, sidewalk |
 | encombré | congested |
-| encombrer | (*prendre de la place*) be in the way, take up too much space, take up too much room </br> (*saturer*) block </br> ▶︎ *Les appels téléphoniques encombrent la ligne.* The phone calls are blocking the line. |
+| encombrer | (*prendre de la place*) be in the way, take up too much space, take up too much room </br></br> (*saturer*) block </br> ▶︎ *Les appels téléphoniques encombrent la ligne.* The phone calls are blocking the line. |
 | s'agir de | (*être au sujet de*) be a question of, be a matter of ([see details](#sagir-de)) |
 | il s'agit de | it has to do with, it's a question of </br> ▶︎ *Je dois vous parler : il s'agit de votre salaire.* I have to talk to you, it has to do with your salary. |
 | parler de tout et de rien | talk about anything and everything |
