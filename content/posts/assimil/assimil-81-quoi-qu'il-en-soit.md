@@ -371,7 +371,7 @@ In many contexts, "fournir" is the preferred verb, while "pourvoir" is often rep
 | solliciter | request, sollicit, ask for </br> ▶︎ *Le jeune homme a sollicité tout son entourage pour obtenir l'argent nécessaire à son projet.* The young man asked everyone he knows to obtain the necessary funds for his project. |
 | augmenter | increase |
 | manière | way, manner, fashion |
-| conséquent | a consequence, a consequence of </br> ▶︎ *Cette mesure est conséquente à l'augmentation du prix du pétrole.* This measure is a consequence of the increase in the price of oil. </br> substantial, significant </br> ▶︎ *Il a perçu une somme conséquente.* He received a substantial sum. |
+| conséquent | a consequence, a consequence of </br> ▶︎ *Cette mesure est conséquente à l'augmentation du prix du pétrole.* This measure is a consequence of the increase in the price of oil. </br></br> substantial, significant </br> ▶︎ *Il a perçu une somme conséquente.* He received a substantial sum. |
 | au bout de | at the end of |
 | période d'essai | trial period, probation period |
 | dans ce cas | in this case, in that case |
