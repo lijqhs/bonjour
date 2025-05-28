@@ -330,6 +330,45 @@ Therefore, the sentence means: "The pollster is leaving, discouraged." It implie
 
 ---
 
+Sure! Here's your content formatted in clean, easy-to-read Markdown with emojis for clarity:
+
+---
+
+## 📘 *autant que*
+
+### 1. **autant ... que**
+
+➡️ *Used to compare actions or qualities (verbs or adjectives).*
+🟰 **Meaning**: *as much as / as many as / as ... as*
+🔹 **Example**:
+
+> *Il travaille **autant que** moi.*
+> *He works as much as I do.*
+
+---
+
+### 2. **autant de ... que**
+
+➡️ *Used to compare quantities (nouns).*
+🟰 **Meaning**: *as much of something / as many ... as*
+🔹 **Example**:
+
+> *Elle a **autant de livres que** moi.*
+> *She has as many books as I do.*
+
+---
+
+### 3. **autant de** *(without "que")*
+
+➡️ *Used to express a quantity, without comparison.*
+🟰 **Meaning**: *so many / so much*
+🔹 **Example**:
+
+> *Pourquoi as-tu **autant de** vêtements ?*
+> *Why do you have so many clothes?*
+
+---
+
 ## Vocabulaire
 
 | mots | explications |
