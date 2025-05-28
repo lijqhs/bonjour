@@ -370,6 +370,8 @@ Therefore, the sentence means: "The pollster is leaving, discouraged." It implie
 | en vérité | (*pour être franc, en fait*) in truth |
 | tout court | just |
 | durer | last, last for, go on |
+| mandat | mandate, term, term of office |
+| mandat présidentiel | (*durée d'un Président en poste*) presidential term, presidential term of office |
 | relatif à | related to, pertaining to |
 | majorité | majority </br> ▶︎ *Le candidat de gauche a été élu à la majorité.* The left-wing candidate was elected by the majority. | 
 | efficace | effective |
