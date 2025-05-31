@@ -229,6 +229,7 @@ The entire sentence is a complex infinitive construction that could be translate
 | propos | (= sujet) </br> ▶︎ *à quel propos ?* what about? </br> ▶︎ *à propos de* about </br> ▶︎ *à propos (= au fait)* by the way |
 | à propos de | about |
 | empêcher | to prevent </br> ▶︎ *On m'a empêché de sortir.* I was prevented from leaving. </br> *n'empêche* even so, all the same </br> ▶︎ *N'empêche, ils auraient pu téléphoner.* All the same, they could have called. |
+| empêchement | (*contretemps*) hold-up, hitch </br> ▶︎ *J'ai un empêchement pour ce rendez-vous.* I've run into a hold-up and can't get to that meeting. |
 | exigeant | demanding, hard to please |
 | maniaque | manic, fussy | 
 | aube | dawn, daybreak </br> ▶︎ *à l’aube* at dawn, at daybreak |
