@@ -26,7 +26,7 @@ cover:
 | orage | storm, thunderstorm | 
 | tout à l'heure | in a while, a bit later |
 | pardessus | coat, overcoat </br> ▶︎ *Par ce grand froid, en plus de son costume, il met un pardessus.* In this extreme cold, in addition to his suit, he wears an overcoat. </br> ▶︎ *Mets un pull par-dessus ta chemise, il fait un froid glacial.* Put a sweater over your shirt, it's freezing cold. | 
-｜ par-dessus | over [sth], above [sth], on top of [sth] </br> ▶︎ *Le chien a réussi à sauter par-dessus la barrière et s'est enfui.* The dog managed to jump over the barrier and ran away. |
+| par-dessus | over [sth], above [sth], on top of [sth] </br> ▶︎ *Le chien a réussi à sauter par-dessus la barrière et s'est enfui.* The dog managed to jump over the barrier and ran away. |
 | de toute façon | anyway, anyhow |
 | oignon | onion |
 | Ce ne sont pas tes oignons | It's none of your business </br> ▶︎ *Ce ne sont pas (Ce n'est pas) mes oignons* It's none of my business |
