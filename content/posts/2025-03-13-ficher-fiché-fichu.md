@@ -125,6 +125,6 @@ If you want to avoid being too crude, stick to *ficher* instead of *foutre* in p
 
 ## Conclusion 🛡️🔮
 
-The verb **"ficher"** may appear simple, but its versatility and **two related forms—"fiché" and "fichu"—**make it an interesting and valuable word to master in French. Whether you're filing important documents, expressing indifference, or casually complaining about a ruined day, this verb will be your best friend in various situations.
+The verb **"ficher"** may appear simple, but its versatility and two related forms—**"fiché" and "fichu"**—make it an interesting and valuable word to master in French. Whether you're filing important documents, expressing indifference, or casually complaining about a ruined day, this verb will be your best friend in various situations.
 
 So next time you're about to say *"je m'en fous"*, but need something a little more polite, remember: *je m'en fiche* is your friend! 😉📚

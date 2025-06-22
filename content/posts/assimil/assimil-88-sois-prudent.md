@@ -241,7 +241,7 @@ In the **imperative**, the subject is omitted, while in the **subjunctive**, it 
 | d'après | according to |
 | démasquer | unmask, uncover, discover |
 | découvert | p.p.⇒*découvrir* discover |
-| ficher | (*mettre sur fiche*) mettre sur fiche </br> ⭐(=*faire*) do </br> ▶︎ *Mais qu'est-ce que tu fiches ici ? Je n'ai rien fiché ce matin.* What the heck are you doing here? I haven't done anything this morning. </br> ▶︎ *Qu'est-ce qu'il fiche, Georges ? Il est en retard.* What's Georges up to? He's late. </br> p.p. *fiché* and *fichu* [^1] |
+| ficher | (*mettre sur fiche*) mettre sur fiche </br> ⭐(=*faire*) do </br> ▶︎ *Mais qu'est-ce que tu fiches ici ? Je n'ai rien fiché ce matin.* What the heck are you doing here? I haven't done anything this morning. </br> ▶︎ *Qu'est-ce qu'il fiche, Georges ? Il est en retard.* What's Georges up to? He's late. </br> p.p. *fiché* and *fichu* [^1] [^2] |
 | se ficher de | (*ne rien avoir à faire de*) not give a damn about [sb/sth], not care about [sb/sth] </br> ▶︎ *Je me fiche bien de tes réflexions !* I don't give a damn what you think! |
 | s'en ficher | not care, be unable to care less, not give a toss </br> ▶︎ *Je m'en fiche* I don't care |
 | fichu | (*hors d'usage*) ruined, wrecked |
@@ -267,3 +267,4 @@ In the **imperative**, the subject is omitted, while in the **subjunctive**, it 
 | infusion | herbal tea, infusion |
 
 [^1]: [ficher](https://www.larousse.fr/conjugaison/francais/ficher/4695)
+[^2]: [Fiché vs. Fichu](../2025-03-13-ficher-fiché-fichu.md)

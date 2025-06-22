@@ -261,8 +261,10 @@ If the verb is followed by **"y"** or **"en"**, the **-s** is kept for pronuncia
 | mener | (*diriger, commander*) lead, direct </br> (*conduire une action*) carry out, conduct |
 | enquête | survey, inquiry, investigation |
 | net | adj. (f. nette) clear, distinct |
+| la guerre froide | the Cold War |
 | venir de faire | have just done [sth] |
 | réchauffer | heat, warm up |
+| se réchauffer | warm up, get warm |
 | ennemi | enemy, foe, adversary |
 | sans vie | lifeless, dead |
 | descendre | go down, drop, fall, descend </br> (*tuer*, informal) take [sb] out, kill </br> ▶︎ *Ce mercenaire a déjà descendu plusieurs personnes.* This mercenary has already taken out several people. |
