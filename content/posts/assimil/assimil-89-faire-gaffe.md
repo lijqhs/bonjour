@@ -294,3 +294,5 @@ These expressions revolve around **gift-giving (literal or figurative)** and **s
 | casser | break |
 | cheville | ankle | 
 | se disputer | quarrel, argue |
+| sale | dirty, filthy, careless |
+| salé | salty |
