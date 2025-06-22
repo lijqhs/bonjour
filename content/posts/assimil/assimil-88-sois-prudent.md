@@ -267,4 +267,4 @@ In the **imperative**, the subject is omitted, while in the **subjunctive**, it 
 | infusion | herbal tea, infusion |
 
 [^1]: [ficher](https://www.larousse.fr/conjugaison/francais/ficher/4695)
-[^2]: [Fiché vs. Fichu](../2025-03-13-ficher-fiché-fichu.md)
+[^2]: [Fiché vs. Fichu](https://bonjour.aaronnotes.com/posts/ficher-fich%C3%A9-fichu)
